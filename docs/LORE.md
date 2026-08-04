@@ -77,7 +77,7 @@ Para quebrar a névoa de Vaelgor, a comunidade de Aventureiros precisará entreg
 
 ## 🌍 O Multiverso de Além-Véu: Capítulos & Expansões Futuras
 
-À medida que Kersef for restaurada, os Aventureiros utilizarão os Portais Astrais para explorar Fendas Dimensionais inspiradas nas grandes mitologias do mundo humano:
+À medida que Kersef for restaurada, os Aventureiros utilizarão os Portais Astrais para explorar Fendas Dimensionais inspiradas nas 15 grandes mitologias do multiverso:
 
 1. 🌿 **A Névoa dos Druidas (Mitologia Celta)**:
    - Travessia das florestas sagradas da Bretanha, o domínio das *Runas Celtas*, a veneração à *Árvore da Vida* e o combate aos *Dragões da Névoa*.
@@ -95,6 +95,20 @@ Para quebrar a névoa de Vaelgor, a comunidade de Aventureiros precisará entreg
    - Missões de comunhão com os Totens da Natureza e a força dos Espíritos Ancestrais dos Ventos.
 8. ⚡ **O Trono do Olimpo (Mitologia Grega)**:
    - A ascensão ao Monte Olimpo enfrentando os *Titãs* e recebendo os raios de *Zeus*.
+9. 🌸 **O Portal do Sol Nascente (Mitologia Japonesa)**:
+   - O reino dos espíritos Yokai, a benção da deusa *Amaterasu*, as lâminas dos lendários Samurais e o duelo contra o dragão *Yamata no Orochi*.
+10. 🛕 **A Dança da Criação e Destruição (Mitologia Hindu)**:
+    - O plano sagrado dominado pela Trimurti (*Brahma, Vishnu e Shiva*), o combate aos demônios *Asuras* e o poder do machado de *Ganesha*.
+11. 📜 **A Epopeia das Areias de Ur (Mitologia Suméria & Acádia)**:
+    - As ruínas dos ziggurats de *Gilgamesh* e *Enkidu*, as blesas da deusa *Ishtar* e as tempestades do deus *Enlil*.
+12. 🏛️ **Os Jardins Suspensos e o Caos Primordial (Mitologia Babilônica)**:
+    - A fortaleza dos Jardins Suspensos, a batalha contra o dragão *Mušḫoššu* e a encarnação do caos marinho *Tiamat*.
+13. 🌋 **O Despertar do Fogo Vulcanico (Mitologia Havaiana & Polinésia)**:
+    - As ilhas sagradas guardadas pela deusa dos vulcões *Pele*, os totens *Tiki* ancestrais e o anzol mágico de *Maui* pescando colossos marinhos.
+14. ❄️ **A Névoa dos Oceanos Congelados (Mitologia Inuit / Esquimó)**:
+    - O domínio das terras geladas sob os olhos da deusa das águas *Sedna*, os rituais com o urso polar sagrado *Nanook* e a caça ao espírito sombrio *Wendigo*.
+15. 🌩️ **O Trovão das Florestas Sombrias (Mitologia Eslava)**:
+    - Os domínios do deus do trovão *Perun*, a cabana sombria de *Baba Yaga*, o confronto contra o deus da escuridão *Chernobog* e o dragão de três cabeças *Zmey*.
 
 ---
 
