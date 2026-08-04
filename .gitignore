@@ -30,3 +30,6 @@ WydArcher3.0/.wine_client/
 
 # Backups e arquivos temporários de dados
 Release/Conf/*BACKUP*
+
+# Script criador de issues
+create_issues.sh
