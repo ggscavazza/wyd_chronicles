@@ -39,10 +39,13 @@
 
 ---
 
-## 💻 Estrutura do Projeto
+## 💻 Estrutura do Projeto & Documentação
 
 * `Release/`: Arquivos do Servidor (GameServer, DataServer, LogServer, ApiServer e configurações).
 * `WydArcher3.0/`: Cliente 64-bits do jogo para Windows e Linux (via Wine/DXVK).
+* `docs/LORE.md`: [Lore Oficial: O Eclipse dos Quatro Selos](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/LORE.md)
+* `docs/BRANDING.md`: [Guia de Identidade Visual e Assets](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/BRANDING.md)
+* `docs/RULES.md`: [Guia de Regras do Servidor & Política Antifraude](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/RULES.md)
 * `PLAN.md`: Plano de infraestrutura técnica (VPS Linux, Multiplataforma e Mobile).
 * `ISSUES_ROADMAP.md`: Mapeamento de Macro-Ideias e Micro-Tarefas para o GitHub.
 
