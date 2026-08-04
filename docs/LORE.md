@@ -1,61 +1,101 @@
-# 📜 WYD Chronicles - Lore Oficial: "O Eclipse dos Quatro Selos"
+# 📜 WYD Chronicles - Lore Oficial: "O Eclipse dos Quatro Selos & O Multiverso de Além-Véu"
 
-> *"Quando o quarto astro alinhar-se à lua de sangue, os quatro selos estremecerão. Somente a aliança das quatro almas restaurará a luz de Kersef."*  
+> *"Quando o quarto astro alinhar-se à lua de sangue, os quatro selos estremecerão. Somente a união dos Aventureiros de Além-Véu restaurará a luz de Kersef e abrirá os portais para todos os mundos conhecidos e esquecidos."*  
 > — **Profecia do Livro das Eras, Capítulo IV**
 
 ---
 
 ## 🌌 Prólogo: A Era da Harmonia Primordial
 
-Nos primórdios dos tempos, o continente de **Kersef** não era um campo de batalhas, mas um santuário de equilíbrio regido por quatro virtudes ancestrais. Para proteger a criação contra o Caos Primordial, a Entidade Criadora forjou **Quatro Selos Arcanos**, confiando a custódia de cada um às quatro grandes linhagens de heróis:
+Nos primórdios dos tempos, o continente de **Kersef** foi esculpido pela **Entidade Criadora (*Aethel*)** como o coração do multiverso. Para garantir o equilíbrio cósmico, Aethel forjou **Quatro Selos Ancestrais**, confiando a guarda de cada um a **Quatro Grandes Guardiões**, liderados pelo lendário herói mortal **Kaelen, o Primogênito**:
 
-* ⚔️ **O Selo da Coragem (Linhagem TransKnight)**: Guardado pelos mestres da espada e da proteção inabalável. Representa a honra, o aço temperado e o escudo que protege os inocentes.
-* 🔮 **O Selo da Sabedoria (Linhagem Foema)**: Guardado pelas mestres dos elementos arcanos e da magia de cura. Representa o conhecimento dos mistérios do universo e a chama da vida.
-* 🐾 **O Selo da Natureza (Linhagem BeastMaster)**: Guardado pelos espíritos livres capazes de transmutar sua própria carne e invocar o poder das feras da terra.
-* 🏹 **O Selo da Precisão (Linhagem Hunter)**: Guardado pelas caçadoras letais dos ventos. Representa a visão aguçada, a velocidade das flechas e o rastreio da verdade.
-
-Por milênios, os quatro selos mantiveram as forças das trevas aprisionadas nas profundezas de Niflheim, garantindo paz e prosperidade a todas as vilas de Kersef.
+* ⚔️ **O Selo da Coragem**: Custodiado por **Kaeror, o Bastião de Aço** *(Mestre TransKnight)*. Representa a honra, o aço temperado, a força física e a proteção inabalável dos destemidos.
+* 🔮 **O Selo da Sabedoria**: Custodiado por **Lysandra, a Tecelã Elemental** *(Arquimaga Foema)*. Representa a maestria dos elementos arcanos, a cura divina e os segredos do universo.
+* 🐾 **O Selo da Natureza**: Custodiado por **Vorn, o Voraz** *(Lorde BeastMaster)*. Representa a simbiose com as feras primordiais, a transmutação e a força vital das florestas.
+* 🏹 **O Selo da Precisão**: Custodiado por **Sylvia, a Flecha do Crepúsculo** *(Caçadora Hunter)*. Representa a agilidade dos ventos, a precisão milimétrica e a visão que enxerga através dos planos.
 
 ---
 
-## 🌑 Capítulo I: O Grande Eclipse e o Despertar da Névoa (Fase 1 - O Lançamento)
+## 🌑 O Vilão Divino: Vaelgor, o Arconte do Vazio
 
-Tudo mudou na Noite do Grande Eclipse. O alinhamento dos corpos celestes abriu uma fenda no tecido da realidade, permitindo que a **Névoa Obscura** se derramasse sobre as terras de Armia, Azran e Erion.
+A paz reinou até que **Vaelgor**, um arconte divino menor tomada pela inveja da criação de Aethel, tentou reivindicar a energia vital de Kersef. Derrotado e banido para as profundezas abissais de **Niflheim**, Vaelgor jurou retornar.
 
-Para evitar que o continente fosse devastado, os Guardiões realizaram um ritual desesperado de emergência: **selaram temporariamente o poder supremo de Kersef**. Com o selamento:
-1. **As Montarias Supremas** (como os imponentes Tigres de Fogo e os nobres Cygnus) foram confinadas na dimensão etérea. Apenas as criaturas terrestres mais leais — desde os fiéis Porcos e Cavalos até os bravos **Cavalos Andaluzes** — permaneceram ao lado dos humanos.
-2. **A Evolução da Alma** foi limitada. Os guerreiros iniciam sua jornada como **Mortais** (até o nível 400), precisando provar seu valor nas Quests Ancestrais antes de transcenderem para a nobre classe **Arch**.
-3. **Os Artefatos Sagrados** foram limitados a refinações de poder controlado (+9 máximo e armaduras Anct básicas).
-
-Agora, as vilas dependem de novos recrutas. Cada batalha vencida, cada quest completada e cada alma Arch despertada fortalece o selo enfraquecido e aproxima o continente da sua libertação!
+Na **Noite do Grande Eclipse**, Vaelgor utilizou as sombras de Niflheim para rachar os Selos Ancestrais. Em um ato supremo de sacrifício, Kaelen e os Quatro Guardiões usaram o restante da energia mágica de Kersef para conter a invasão total, resultando no **Selamento Temporário de Emergência**:
+1. **Montarias Supremas** (como os Tigres de Fogo e os nobres Cygnus) foram confinadas no plano etéreo. Apenas criaturas terrestres leais — até os bravos **Cavalos Andaluzes** — permaneceram no plano físico.
+2. **O Poder dos Guerreiros** foi limitado à classe **Mortal** (até o nível 400) e às primeiras provações da alma na classe **Arch**.
+3. **Equipamentos e Refinações** foram limitados a refinações controladas (+9 máximo e armaduras Anct básicas).
 
 ---
 
-## ⚔️ Capítulo II: A Quebra do Primeiro Selo e a Era dos Reinos (Fase 2 - Checkpoint 1)
+## 🌀 Os Aventureiros de Além-Véu (Os Jogadores)
 
-> *Este capítulo será desvendado no jogo quando a comunidade alcançar o Checkpoint 1 (100+ guerreiros Archs de HWID/IP distintos + evento coletivo).*
+Percebendo que a força dos habitantes nativos não seria suficiente, os sacerdotes de Kersef ativaram os **Portais Astrais**. Através deles, almas guerreiras de outros mundos e dimensões foram convocadas: **Os Aventureiros de Além-Véu (Os Jogadores)**.
 
-À medida que os guerreiros da terra atingem a maestria da classe Arch e unem suas forças entregando relicários ao **Guardião do Selo**, a luz espiritual da comunidade começa a dissolver a Névoa Obscura.
-
-Com a ruptura da névoa:
-* Os portais para o **Reino de Kefra** e as Zonas de Guerra de Cidades se reabrem.
-* As criaturas dos céus escutam o chamado e retornam: a montaria **Cygnus** e montarias intermediárias são libertadas.
-* Os guerreiros mais dedicados recebem a bênção para realizar a **Quest Celestial**, elevando sua existência a um novo patamar de poder e desbloqueando refinações superiores (+11).
+Como exploradores interdimensionais, os Aventureiros não estão presos aos limites de Kersef. Sua missão é evoluir, restaurar os Selos Ancestrais e, futuramente, explorar as Fendas Dimensionais que conectam Kersef às lendas de outros universos!
 
 ---
 
-## 🔮 Capítulo III: A Restauração Total e o Conflito Divino (Fase 3 - Checkpoint 2)
+## 📜 Os Capítulos da Jornada & Mecânicas dos Checkpoints
 
-> *Este capítulo será desvendado no jogo quando o continente atingir a maturidade máxima e os heróis dominarem o plano Celestial.*
-
-No ápice da jornada, quando os lordes Celestiais dominarem as forças de Kersef, o último véu do Grande Eclipse será rasgado. 
-
-As forças primordiais de Niflheim marcharão para a batalha final, e apenas aqueles que alcançarem a transcendência máxima — as classes **Sub-Celestial** e **Hardcore** — poderão montar os Lendários **Tigres de Fogo** e **Dragões Primordiais** para restaurar a ordem eterna em Kersef.
+### 🛡️ Capítulo I: O Despertar (Fase 1 - Lançamento)
+* **Status**: Abertura do Servidor.
+* **Cap de Conteúdo**: Evolução Mortal $\rightarrow$ Arch (Nível 400), Montarias até Cavalo Andaluz e refinação máxima +9.
+* **Foco**: Fortalecimento das vilas de Armia, Azran e Erion e recrutamento dos Aventureiros de Além-Véu.
 
 ---
 
-## 📌 Guia de Integração para o Site / Mídias
+### ⚔️ Capítulo II: O Grande Ritual dos Selos (Fase 2 - Checkpoint 1)
+* **Requisito de Liberação**: Conquista coletiva de **100+ Jogadores Únicos** (rastreados por HWID/IP distintos) no nível 400 Arch + **O Grande Evento das 100.000 Essências**.
 
-- **Para o Website**: Publicar esta lore na página *"História / Lore"* do site oficial do WYD Chronicles.
-- **Para Redes Sociais / Teasers**: Cada capítulo serve de roteiro para posts e vídeos de apresentação das Fases do Servidor.
-- **No Jogo**: NPCs de Vila (como o *Ancião de Armia* e o *Guardião do Selo*) citarão trechos desta lore em seus diálogos de quests.
+#### 🏺 A Mecânica do Grande Ritual:
+Para quebrar a névoa de Vaelgor, a comunidade de Aventureiros precisará entregar **100.000 Essências Sagradas** no NPC *Guardião do Selo* em Armia:
+* 🛡️ 25.000 Essências da Coragem (TransKnight)
+* 🔮 25.000 Essências da Sabedoria (Foema)
+* 🐾 25.000 Essências da Natureza (BeastMaster)
+* 🏹 25.000 Essências da Precisão (Hunter)
+
+#### 🏆 Recompensas do Ritual:
+* **Ranking Top 10 Maiores Contribuidores**:
+  * **Título Honorífico Exclusivo no Jogo**: *"Guardião Primordial de Kersef"*.
+  * **Estátua Comemorativa**: Nome e visual dos 10 maiores jogadores imortalizados na praça central de Armia.
+  * **Capa Exclusiva com Brilho Único & Montaria Comemorativa**.
+* **Recompensa Global (Todos os Participantes)**:
+  * Baús com quantias generosas de Gold, Pedras de Refinação (Lactolerium / Oriharukon) e Poções de XP.
+
+#### 🔓 Conteúdo Desbloqueado na Fase 2:
+* Abertura dos portais para o **Reino de Kefra** e Zonas de Guerra de Cidades.
+* Libertação da montaria alada **Cygnus** e montarias intermediárias.
+* Abertura da **Quest Celestial** e refinações superiores (+11).
+
+---
+
+### 🔮 Capítulo III: A Batalha de Niflheim (Fase 3 - Checkpoint 2)
+* **Requisito de Liberação**: Maturidade máxima do plano Celestial na comunidade.
+* **Conteúdo**: Enfrentamento direto das hordas do deus caído Vaelgor em Niflheim, libertação do **Sub-Celestial**, classe **Hardcore** e renascimento das **Montarias Supremas** (Tigre de Fogo e Dragões Primordiais).
+
+---
+
+## 🌍 O Multiverso de Além-Véu: Capítulos & Expansões Futuras
+
+À medida que Kersef for restaurada, os Aventureiros utilizarão os Portais Astrais para explorar Fendas Dimensionais inspiradas nas grandes mitologias do mundo humano:
+
+1. 🌿 **A Névoa das Matas Sagradas (Mitologia Brasileira / Tupi-Guarani)**:
+   - Expedição às matas virgens habitadas pelo *Boitatá de Fogo*, o *Curupira Guardião* e a entidade das trevas *Anhanguera*.
+2. 🏜️ **O Sol das Areias Eternas (Mitologia Egípcia)**:
+   - Exploração das pirâmides de *Anúbis*, desafios de *Osíris* e o confronto contra a serpente *Apófis*.
+3. ☀️ **O Templo do Sol e do Sangue (Mitologias Asteca & Maia)**:
+   - As zigurates de pedra do deus serpente emplumada *Quetzalcoatl* e o ritual do Sol de Fogo.
+4. 🐉 **As Montanhas de Jade (Mitologia Chinesa)**:
+   - O reino das nuvens governado pelos *Quatro Reis Celestiais* e o *Dragão de Jade*.
+5. 🛡️ **O Inverno de Yggdrasil (Mitologia Nórdica)**:
+   - A travessia da ponte Bifröst rumo ao *Valhalla*, sob a ameaça do inverno sombrio de *Fimbulwinter* e o lobo *Fenrir*.
+6. 🦅 **O Grande Espírito da Caça (Mitologia Nativa Americana)**:
+   - Missões de comunhão com os Totens da Natureza e a força dos Espíritos Ancestrais dos Ventos.
+7. ⚡ **O Trono do Olimpo (Mitologia Grega)**:
+   - A ascensão ao Monte Olimpo enfrentando os *Titãs* e recebendo os raios de *Zeus*.
+
+---
+
+## 📌 Status da Issue #1
+- **Lore Atualizada**: [docs/LORE.md](file:///d:/SERVIDOR%20WYD/MYTH/docs/LORE.md)
+- **Status**: Pronta para Commit & Push final após aprovação do usuário.
