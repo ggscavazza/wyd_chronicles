@@ -79,23 +79,25 @@ Para quebrar a névoa de Vaelgor, a comunidade de Aventureiros precisará entreg
 
 À medida que Kersef for restaurada, os Aventureiros utilizarão os Portais Astrais para explorar Fendas Dimensionais inspiradas nas grandes mitologias do mundo humano:
 
-1. 🌿 **A Névoa das Matas Sagradas (Mitologia Brasileira / Tupi-Guarani)**:
+1. 🌿 **A Névoa dos Druidas (Mitologia Celta)**:
+   - Travessia das florestas sagradas da Bretanha, o domínio das *Runas Celtas*, a veneração à *Árvore da Vida* e o combate aos *Dragões da Névoa*.
+2. 🌴 **A Névoa das Matas Sagradas (Mitologia Brasileira / Tupi-Guarani)**:
    - Expedição às matas virgens habitadas pelo *Boitatá de Fogo*, o *Curupira Guardião* e a entidade das trevas *Anhanguera*.
-2. 🏜️ **O Sol das Areias Eternas (Mitologia Egípcia)**:
+3. 🏜️ **O Sol das Areias Eternas (Mitologia Egípcia)**:
    - Exploração das pirâmides de *Anúbis*, desafios de *Osíris* e o confronto contra a serpente *Apófis*.
-3. ☀️ **O Templo do Sol e do Sangue (Mitologias Asteca & Maia)**:
+4. ☀️ **O Templo do Sol e do Sangue (Mitologias Asteca & Maia)**:
    - As zigurates de pedra do deus serpente emplumada *Quetzalcoatl* e o ritual do Sol de Fogo.
-4. 🐉 **As Montanhas de Jade (Mitologia Chinesa)**:
+5. 🐉 **As Montanhas de Jade (Mitologia Chinesa)**:
    - O reino das nuvens governado pelos *Quatro Reis Celestiais* e o *Dragão de Jade*.
-5. 🛡️ **O Inverno de Yggdrasil (Mitologia Nórdica)**:
+6. 🛡️ **O Inverno de Yggdrasil (Mitologia Nórdica)**:
    - A travessia da ponte Bifröst rumo ao *Valhalla*, sob a ameaça do inverno sombrio de *Fimbulwinter* e o lobo *Fenrir*.
-6. 🦅 **O Grande Espírito da Caça (Mitologia Nativa Americana)**:
+7. 🦅 **O Grande Espírito da Caça (Mitologia Nativa Americana)**:
    - Missões de comunhão com os Totens da Natureza e a força dos Espíritos Ancestrais dos Ventos.
-7. ⚡ **O Trono do Olimpo (Mitologia Grega)**:
+8. ⚡ **O Trono do Olimpo (Mitologia Grega)**:
    - A ascensão ao Monte Olimpo enfrentando os *Titãs* e recebendo os raios de *Zeus*.
 
 ---
 
 ## 📌 Status da Issue #1
 - **Lore Atualizada**: [docs/LORE.md](file:///d:/SERVIDOR%20WYD/MYTH/docs/LORE.md)
-- **Status**: Pronta para Commit & Push final após aprovação do usuário.
+- **Status**: Concluída e comitada no repositório.
