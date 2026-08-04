@@ -1,0 +1,65 @@
+[Boss] 1
+
+[Status] 1
+
+[SummonMob] Tauron
+[SummonCoord] 1 2133.2147
+[SummonCoord] 2 2133.2147
+[SummonCoord] 3 2133.2147
+[SummonCoord] 4 2133.2147
+
+[SummonWeekDay] 1.1.1.1.1.1.1
+[SummonHour] 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+[SummonMin] 14
+[SummonDelay] 10
+
+[SummonMessage] Tauron nasceu no Pvp de Armia
+[SummonMsgType] 1
+
+[SeguidorName-1] Tauron
+[Seguidor-1] SummonDelay 10
+[Seguidor-1] DanoRecebido 1000
+[Seguidor-1] PctDanoCausado 10
+
+[KillTimeMessage] Tauron retornou para o Covil
+[KillTimeMsgType] 2
+
+[PctDanoReduzido] 90
+[PctDanoCausado] 10
+[Evasao] 50
+
+[DeadMessage] Mob foi derrotado por %s
+[DeadMessageKiller] 1
+[DeadMsgType] 1
+
+[DropKS-1] 1/1 413.61.5
+
+[KillerGroupDrop] 1
+[DropGrupo-1] 1/1 413.61.4
+[Teleport] 2100.2100
+
+[Boss] 2
+
+[Status] 0
+
+[SummonMob] Tauron
+[SummonCoord] 1 2140.2143
+[SummonCoord] 2 2140.2153
+[SummonCoord] 3 2127.2152
+[SummonCoord] 4 2129.2143
+
+[SummonMessage] Tauron2 nasceu no Pvp de Armia
+[SummonMsgType] 2
+
+[KillTimeMessage] Tauron2 retornou para o Covil
+[KillTimeMsgType] 2
+
+[PctDanoReduzido] 90
+[PctDanoCausado] 1
+[Evasao] 50
+
+[DeadMessage] Tauron2 foi derrotado por %s
+[DeadMessageKiller] 1
+[DeadMsgType] 1
+
+[Teleport] 2100.2100

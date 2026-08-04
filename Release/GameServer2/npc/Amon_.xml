@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<mob>
+	<name>Amon_</name>
+	<capeInfo>2</capeInfo>
+	<info>0</info>
+	<questInfo>0</questInfo>
+	<guildIndex>0</guildIndex>
+	<classInfo>1</classInfo>
+	<affectInfo>0</affectInfo>
+	<gold>500</gold>
+	<experience>200</experience>
+	<lastPosition x="2113" y="2096" />
+	<baseStatus>
+		<level>25</level>
+		<defense>10</defense>
+		<attack>10</attack>
+		<merchant>0</merchant>
+		<move>2</move>
+		<maxHp>400</maxHp>
+		<maxMp>0</maxMp>
+		<curHp>400</curHp>
+		<curMp>0</curMp>
+		<str>5</str>
+		<int>70</int>
+		<des>60</des>
+		<con>100</con>
+		<mastery mastery0="255" mastery1="7" mastery2="255" mastery3="7" />
+	</baseStatus>
+	<currentStatus>
+		<level>25</level>
+		<defense>10</defense>
+		<attack>10</attack>
+		<merchant>0</merchant>
+		<move>2</move>
+		<maxHp>400</maxHp>
+		<maxMp>0</maxMp>
+		<curHp>400</curHp>
+		<curMp>0</curMp>
+		<str>5</str>
+		<int>70</int>
+		<des>60</des>
+		<con>100</con>
+		<mastery mastery0="255" mastery1="7" mastery2="255" mastery3="7" />
+	</currentStatus>
+	<equips>
+		<item slot="0" itemId="369" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="1" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="2" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="3" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="4" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="5" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="6" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="7" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="8" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="9" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="10" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="11" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="12" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="13" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="14" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="15" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+	</equips>
+	<inventory>
+		<item slot="0" itemId="4038" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="1" itemId="4038" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="2" itemId="4038" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="3" itemId="4038" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="4" itemId="420" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="5" itemId="4026" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="6" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="7" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="8" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="9" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="10" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="11" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="12" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="13" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="14" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="15" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="16" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="17" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="18" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="19" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="20" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="21" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="22" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="23" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="24" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="25" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="26" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="27" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="28" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="29" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="30" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="31" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="32" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="33" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="34" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="35" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="36" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="37" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="38" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="39" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="40" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="41" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="42" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="43" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="44" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="45" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="46" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="47" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="48" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="49" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="50" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="51" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="52" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="53" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="54" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="55" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="56" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="57" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="58" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="59" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="60" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="61" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="62" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		<item slot="63" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+	</inventory>
+	<learn>0</learn>
+	<secLearn>0</secLearn>
+	<statusPoint>0</statusPoint>
+	<masterPoint>0</masterPoint>
+	<skillPoint>0</skillPoint>
+	<critical>-1</critical>
+	<saveMana>-1</saveMana>
+	<skillbar1>
+		<sk index="0">-1</sk>
+		<sk index="1">-1</sk>
+		<sk index="2">-1</sk>
+		<sk index="3">-1</sk>
+	</skillbar1>
+	<guildMemberType>0</guildMemberType>
+</mob>

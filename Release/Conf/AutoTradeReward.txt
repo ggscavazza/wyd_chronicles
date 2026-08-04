@@ -1,0 +1,13 @@
+[Status] 0
+
+Minutes 120
+Reward 1 10 413.61.1
+Reward 2 10 413.61.2
+Reward 3 10 413.61.3
+Reward 4 10 413.61.4
+Reward 5 10 413.61.5
+Reward 6 10 413.61.6
+Reward 7 10 413.61.7
+Reward 8 10 413.61.8
+Reward 9 10 413.61.9
+Reward 10 10 413.61.10

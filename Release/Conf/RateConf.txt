@@ -1,0 +1,88 @@
+﻿
+[Agatha] NpcStatus 1
+[Agatha] Normal 12
+[Agatha] Grade4_N 20
+[Agatha] Grade4_M 25
+[Agatha] Grade4_A 35
+[Agatha] Grade4_Le 45
+[Agatha] Grade5 26
+
+
+[Aylin] NpcStatus 1
+[Aylin] Add_4_Joias 45
+[Aylin] Add_3_Joias 32
+[Aylin] Add_2_Joias 24
+[Aylin] Add_1_Joias 12
+
+
+[Compositor] NpcStatus 1
+[Compositor] Add_Ref_7 2
+[Compositor] Add_Ref_8 4
+[Compositor] Add_Ref_9 10
+[Compositor] Add_Ref_10 12
+[Compositor] Add_Ref_11 14
+[Compositor] Add_Ref_12 16
+[Compositor] Add_Ref_13 18
+[Compositor] Add_Ref_14 20
+[Compositor] Add_Ref_15 22
+[Compositor] Add_ItemGrade_Menor -2
+[Compositor] Add_ItemGrade_Maior +2
+
+
+[Ehre] NpcStatus 1
+[Ehre] Espiritual 50
+[Ehre] Abençoada_40-150 25
+[Ehre] Abençoada_150-170 35
+[Ehre] Abençoada_170-180 50
+[Ehre] Abençoada_181-191 70
+[Ehre] Abençoada_191+ 100
+[Ehre] Comp_Misteriosa 1
+[Ehre] Comp_Espiritual 1
+[Ehre] Comp_Estabilizador 1
+[Ehre] Comp_Abençoada 1
+[Ehre] Comp_BotarTrajeMont 1
+[Ehre] Comp_TirarTrajeMont 1
+[Ehre] Comp_Soul 1
+
+[Lindy] NpcStatus 1
+[Lindy] Desbloquear_355 100
+[Lindy] Desbloquear_370 100
+
+
+[Odin] NpcStatus 1
+[Odin] Base_Min 10
+[Odin] Base_Ref_11-12 10
+[Odin] Base_Ref_12-13 10
+[Odin] Base_Ref_13-14 10
+[Odin] Base_Ref_14-15 10
+[Odin] Add_2_Emblema_Protecao 5
+[Odin] Add_1_Secreta 1
+[Odin] Add_Abencoada_0 2
+[Odin] Add_Abencoada_1 3
+[Odin] Add_Abencoada_2 4
+[Odin] Add_Abencoada_3 5
+[Odin] Add_Abencoada_4 6
+[Odin] Add_Abencoada_5 7
+[Odin] Add_Abencoada_6 8
+[Odin] Add_Abencoada_7 10
+[Odin] Add_Abencoada_8 12
+[Odin] Add_Abencoada_9 15
+[Odin] Comp_+12-+15 1
+[Odin] Comp_Cele_40 1
+[Odin] Comp_Furia 1
+[Odin] Comp_RefCapa 1
+[Odin] Comp_PistaRunas 1
+[Odin] Comp_Secreta 1
+[Odin] Limite_Ref 15
+
+[Shany] NpcStatus 1
+[Shany] Sucesso 40
+[Shany] Perfu 33
+[Shany] Abs 33
+[Shany] Misto 34
+
+
+[Tiny] NpcStatus 1
+[Tiny] Base 25
+[Tiny] Add_Grade_4 4
+[Tiny] Add_Grade_5 8

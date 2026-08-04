@@ -1,0 +1,32 @@
+# ==============================================================================
+# WYD Chronicles - Git Ignore Rules
+# ==============================================================================
+
+# Logs e arquivos de execução temporários
+*.log
+*.ilk
+*.pdb
+*.dmp
+*.tmp
+*.bak
+*.rar
+*.zip
+
+# Pastas de Logs do Servidor
+Release/ApiServer/Logs/*
+Release/DataServer/Logs/*
+Release/GameServer/Logs/*
+Release/LogServer/Logs/*
+
+# Ambientes isolados do Wine (criados no Linux)
+Release/.wine/
+WydArcher3.0/.wine_client/
+
+# IDE & Visual Studio
+.vs/
+.vscode/settings.json
+*.suo
+*.user
+
+# Backups e arquivos temporários de dados
+Release/Conf/*BACKUP*

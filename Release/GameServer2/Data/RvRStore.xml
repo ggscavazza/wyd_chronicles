@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rvr>
+	<items>
+		<index>0</index>
+		<item itemId="4639" ef0="0" ef1="0" ef2="0" efv0="0" efv1="0" efv2="0" />
+		<price>10</price>
+		<available>-1</available>
+	</items>
+	<items>
+		<index>1</index>
+		<item itemId="3431" ef0="61" ef1="0" ef2="0" efv0="120" efv1="0" efv2="0" />
+		<price>5</price>
+		<available>-1</available>
+	</items>
+	<items>
+		<index>2</index>
+		<item itemId="3203" ef0="61" ef1="0" ef2="0" efv0="5" efv1="0" efv2="0" />
+		<price>15</price>
+		<available>-1</available>
+	</items>
+</rvr>

@@ -1,0 +1,1590 @@
+[Npc] Kramer
+
+[Status] 1
+[HasTax] 0
+[BuyAndDisappear] 1
+
+[Slot] 1
+Item 4601.61.120
+Price 413 1
+Info -1
+MaxUnit -1
+
+[Slot] 2
+Item 4602.61.120
+Price 412 1
+Info 10
+
+[Slot] 3
+Item 4603.61.120
+Price 413 5
+
+[Slot] 4
+Item 4604.61.120
+Price 412 5
+
+[Slot] 5
+Item 5381.96.1
+Price 413 1
+
+[Slot] 6
+Item 4503.61.120
+Price 413 1
+
+[Slot] 7
+Item 4504.61.120
+Price 413 1
+
+[Slot] 8
+Item 4505.61.120
+Price 413 1
+
+[Slot] 9
+Item 4506.61.120
+Price 413 1
+
+[Slot] 10
+Item 4509.61.120
+Price 413 1
+
+[Slot] 11
+Item 4510.61.120
+Price 413 1
+
+[Slot] 12
+Item 4511.61.120
+Price 413 1
+
+[Slot] 13
+Item 4512.61.120
+Price 413 1
+
+[Slot] 14
+Item 4518.61.120
+Price 413 1
+
+[Slot] 15
+Item 4519.61.120
+Price 413 1
+
+[Slot] 16
+Item 4519.61.120
+Price 413 1
+
+[Slot] 17
+Item 4520.61.120
+Price 413 1
+
+[Slot] 18
+Item 4521.61.120
+Price 413 1
+
+[Slot] 19
+Item 4522.61.120
+Price 413 1
+
+[Slot] 20
+Item 4523.61.120
+Price 413 1
+
+[Slot] 21
+Item 4524.61.120
+Price 413 1
+
+[Slot] 22
+Item 4525.61.10
+Price 413 1
+
+[Slot] 23
+Item 4526.61.120
+Price 413 1
+
+[Slot] 24
+Item 4527.61.120
+Price 413 1
+
+[Slot] 25
+Item 4528.61.120
+Price 413 1
+
+[Slot] 26
+Item 4529.61.120
+Price 413 1
+
+[Npc] Galford
+
+[Status] 1
+
+[Slot] 1
+Item 916
+Price 412 5
+MaxUnit 0
+
+[Slot] 2
+Item 917
+Price 1 10000
+
+[Slot] 3
+Item 918
+Price 1 1000000
+
+[Slot] 4
+Item 920
+Price 1 500000
+
+[Slot] 5
+Item 922
+Price 1 600000
+
+[Slot] 6
+Item 923
+Price 1 700000
+
+[Slot] 7
+Item 1701
+Price 1 1000000
+
+[Npc] Aki
+
+[Status] 1
+[HasTax] 1
+[Slot] 1
+Item 404.61.120
+Price 1 10000
+
+[Slot] 2
+Item 409.61.120
+Price 1 10000
+
+[Slot] 3
+Item 5382.96.0
+Price 1 1000000
+
+[Slot] 4
+Item 4038
+Price 1 500000
+
+[Slot] 5
+Item 4039
+Price 1 600000
+
+[Slot] 6
+Item 4040
+Price 1 700000
+
+[Slot] 7
+Item 4041
+Price 1 1000000
+
+[Slot] 8
+Item 4042
+Price 1 1500000
+
+[Npc] Martin
+
+[Status] 1
+
+[Slot] 1
+Item 3322.61.120
+Price 1 1000000
+
+[Slot] 2
+Item 3323.61.120
+Price 1 1000000
+
+[Npc] Hestia
+
+[Status] 1
+
+[Slot] 1
+Item 3322.61.120
+Price 1 10000
+
+[Slot] 2
+Item 3323.61.120
+Price 1 10000
+
+[Slot] 3
+Item 700
+Price 1 1000000
+
+[Slot] 4
+Item 699
+Price 1 500000
+
+[Slot] 5
+Item 776.61.10
+Price 1 600000
+
+[Slot] 6
+Item 410
+Price 1 700000
+
+[Slot] 7
+Item 411.61.10
+Price 1 1000000
+
+[Npc] Ruti
+
+[Status] 1
+
+[Slot] 1
+Item 3322.61.120
+Price 1 250000
+
+[Slot] 2
+Item 3323.61.120
+Price 1 250000
+
+[Slot] 3
+Item 700
+Price 1 1000000
+
+[Slot] 4
+Item 410
+Price 1 500000
+
+[Slot] 5
+Item 411.61.10
+Price 1 600000
+
+[Slot] 6
+Item 699
+Price 1 700000
+
+[Slot] 7
+Item 776.61.10
+Price 1 1000000
+
+[Npc] Wielund
+
+[Status] 1
+
+[Slot] 1
+Item 836.43.8.2.36
+Price 1 10000
+
+[Slot] 2
+Item 881.43.8.2.36
+Price 1 10000
+
+[Slot] 3
+Item 866.43.8.2.36
+Price 1 1000000
+
+[Slot] 4
+Item 866.43.8.2.36
+Price 1 500000
+
+[Slot] 5
+Item 821.43.8.2.36
+Price 1 600000
+
+[Slot] 6
+Item 851.43.8.60.16
+Price 1 700000
+
+[Slot] 7
+Item 896.43.8.60.16
+Price 1 1000000
+
+[Slot] 8
+Item 1706.43.8
+Price 1 1000000
+
+[Npc] Lainy
+
+[Status] 1
+
+[Slot] 1
+Item 836.43.8.2.36
+Price 1 10000
+
+[Slot] 2
+Item 881.43.8.2.36
+Price 1 10000
+
+[Slot] 3
+Item 866.43.8.2.36
+Price 1 1000000
+
+[Slot] 4
+Item 866.43.8.2.36
+Price 1 500000
+
+[Slot] 5
+Item 821.43.8.2.36
+Price 1 600000
+
+[Slot] 6
+Item 851.43.8.60.16
+Price 1 700000
+
+[Slot] 7
+Item 896.43.8.60.16
+Price 1 1000000
+
+[Slot] 8
+Item 1706.43.8
+Price 1 1000000
+
+[Npc] Ferreiro
+
+[Status] 1
+
+[Slot] 1
+Item 1106
+Price 1 10000
+
+[Slot] 2
+Item 1118
+Price 1 10000
+
+[Slot] 3
+Item 1130
+Price 1 1000000
+
+[Slot] 4
+Item 1154
+Price 1 500000
+
+[Slot] 5
+Item 1256
+Price 1 600000
+
+[Slot] 6
+Item 1268
+Price 1 700000
+
+[Slot] 7
+Item 1280
+Price 1 1000000
+
+[Slot] 8
+Item 1304
+Price 1 1000000
+
+[Slot] 9
+Item 4016
+Price 1 1000000
+
+[Npc] Rapein
+
+[Status] 1
+
+[Slot] 1
+Item 1311
+Price 1 10000
+
+[Slot] 2
+Item 1314
+Price 1 10000
+
+[Slot] 3
+Item 1317
+Price 1 1000000
+
+[Slot] 4
+Item 1320
+Price 1 500000
+
+[Slot] 5
+Item 1323
+Price 1 600000
+
+[Slot] 6
+Item 1311
+Price 1 700000
+
+[Slot] 7
+Item 1314
+Price 1 1000000
+
+[Slot] 8
+Item 1317
+Price 1 1000000
+
+[Slot] 9
+Item 1323
+Price 1 1000000
+
+[Slot] 10
+Item 1311
+Price 1 10000
+
+[Slot] 12
+Item 1320
+Price 1 10000
+
+[Slot] 13
+Item 1329
+Price 1 1000000
+
+[Slot] 14
+Item 1332
+Price 1 500000
+
+[Slot] 15
+Item 1335
+Price 1 600000
+
+[Slot] 16
+Item 1338
+Price 1 700000
+
+[Slot] 17
+Item 1326
+Price 1 1000000
+
+[Slot] 18
+Item 1329
+Price 1 1000000
+
+[Slot] 19
+Item 1332
+Price 1 1000000
+
+[Slot] 20
+Item 1335
+Price 1 1000000
+
+[Slot] 21
+Item 1338
+Price 1 1000000
+
+[Npc] Arnod
+
+[Status] 1
+
+[Slot] 1
+Item 1461
+Price 1 10000
+
+[Slot] 2
+Item 1464
+Price 1 10000
+
+[Slot] 3
+Item 1467
+Price 1 1000000
+
+[Slot] 4
+Item 1470
+Price 1 500000
+
+[Slot] 5
+Item 1473
+Price 1 600000
+
+[Slot] 6
+Item 1461
+Price 1 700000
+
+[Slot] 7
+Item 1464
+Price 1 1000000
+
+[Slot] 8
+Item 1467
+Price 1 1000000
+
+[Slot] 9
+Item 1470
+Price 1 1000000
+
+[Slot] 10
+Item 1473
+Price 1 10000
+
+[Slot] 12
+Item 1476
+Price 1 10000
+
+[Slot] 13
+Item 1479
+Price 1 1000000
+
+[Slot] 14
+Item 1482
+Price 1 500000
+
+[Slot] 15
+Item 1485
+Price 1 600000
+
+[Slot] 16
+Item 1388
+Price 1 700000
+
+[Npc] Arnold
+
+[Status] 1
+
+[Slot] 1
+Item 835
+Price 1 10000
+
+[Slot] 2
+Item 880
+Price 1 10000
+
+[Slot] 3
+Item 865
+Price 1 1000000
+
+[Slot] 4
+Item 805
+Price 1 500000
+
+[Slot] 5
+Item 820
+Price 1 600000
+
+[Slot] 6
+Item 850
+Price 1 700000
+
+[Slot] 7
+Item 895
+Price 1 1000000
+
+[Slot] 8
+Item 1705
+Price 1 1000000
+
+[Npc] Lucy
+
+[Status] 1
+
+[Slot] 1
+Item 411.61.10
+Price 1 10000
+
+[Slot] 2
+Item 3386
+Price 1 3000000
+
+[Slot] 3
+Item 3387
+Price 1 3000000
+
+[Slot] 4
+Item 3388
+Price 1 3000000
+
+[Slot] 5
+Item 3389
+Price 1 3000000
+
+[Npc] Martin 
+
+[Status] 1
+
+[Slot] 1
+Item 3432.61.10
+Price 1 3000000
+
+[Slot] 2
+Item 3433.61.10
+Price 1 3000000
+
+[Slot] 3
+Item 3434.61.10
+Price 1 3000000
+
+[Slot] 4
+Item 3435.61.10
+Price 1 3000000
+
+[Slot] 5
+Item 3436.61.10
+Price 1 3000000
+
+[Slot] 6
+Item 3437.61.10
+Price 1 3000000
+
+[Npc] Verdes
+
+[Status] 1
+
+[Slot] 1
+Item 683.61.10
+Price 1 500000
+
+[Slot] 2
+Item 689.61.10
+Price 1 500000
+
+[Slot] 3
+Item 700
+Price 1 1000000
+
+[Slot] 4
+Item 421
+Price 1 500000
+
+[Slot] 5
+Item 427
+Price 1 500000
+
+[Slot] 6
+Item 697
+Price 1 5000000
+
+[Npc] Redmiron
+
+[Status] 1
+
+[Slot] 1
+Item 683.61.10
+Price 1 500000
+
+[Slot] 2
+Item 689.61.10
+Price 1 500000
+
+[Slot] 3
+Item 700
+Price 1 1000000
+
+[Slot] 4
+Item 421
+Price 1 500000
+
+[Slot] 5
+Item 427
+Price 1 500000
+
+[Slot] 6
+Item 697
+Price 1 5000000
+
+[Npc] Creta
+
+[Status] 1
+
+[Slot] 1
+Item 5137
+Price 1 9000000
+
+[Slot] 2
+Item 3322.61.120
+Price 1 1000000
+
+[Slot] 3
+Item 3323.61.120
+Price 1 1000000
+
+[Npc] Farche
+
+[Status] 1
+
+[Slot] 1
+Item 2300
+Price 1 5000000
+
+[Slot] 2
+Item 2390
+Price 1 500000
+
+[Slot] 3
+Item 2420.61.10
+Price 1 10000
+
+[Slot] 4
+Item 646
+Price 1 1000000
+
+[Slot] 5
+Item 4017
+Price 1 500000
+
+[Npc] Neptus
+
+[Status] 1
+
+[Slot] 1
+Item 1272
+Price 1 10000
+
+[Slot] 2
+Item 1284
+Price 1 10000
+
+[Slot] 3
+Item 1296
+Price 1 10000
+
+[Slot] 4
+Item 1308
+Price 1 10000
+
+[Slot] 5
+Item 1273
+Price 1 10000
+
+[Slot] 6
+Item 1285
+Price 1 10000
+
+[Slot] 7
+Item 1297
+Price 1 10000
+
+[Slot] 8
+Item 1274
+Price 1 10000
+
+[Slot] 9
+Item 1308
+Price 1 10000
+
+[Slot] 10
+Item 1286
+Price 1 10000
+
+[Slot] 11
+Item 1298
+Price 1 10000
+
+[Slot] 12
+Item 1310
+Price 1 10000
+
+[Npc] Reimers
+
+[Status] 1
+
+[Slot] 1
+Item 1449
+Price 1 10000
+
+[Slot] 2
+Item 1452
+Price 1 10000
+
+[Slot] 3
+Item 1455
+Price 1 10000
+
+[Slot] 4
+Item 1458
+Price 1 10000
+
+[Slot] 5
+Item 1450
+Price 1 10000
+
+[Slot] 6
+Item 1453
+Price 1 10000
+
+[Slot] 7
+Item 1456
+Price 1 10000
+
+[Slot] 8
+Item 1451
+Price 1 10000
+
+[Slot] 9
+Item 1459
+Price 1 10000
+
+[Slot] 10
+Item 1454
+Price 1 10000
+
+[Slot] 11
+Item 1457
+Price 1 10000
+
+[Slot] 12
+Item 1460
+Price 1 10000
+
+[Npc] Ropelion
+
+[Status] 1
+
+[Slot] 1
+Item 1111
+Price 1 10000
+
+[Slot] 2
+Item 1123
+Price 1 10000
+
+[Slot] 3
+Item 1135
+Price 1 10000
+
+[Slot] 4
+Item 1159
+Price 1 10000
+
+[Slot] 5
+Item 1112
+Price 1 10000
+
+[Slot] 6
+Item 1124
+Price 1 10000
+
+[Slot] 7
+Item 1136
+Price 1 10000
+
+[Slot] 8
+Item 1160
+Price 1 10000
+
+
+[Npc] Mount Captor
+
+[Status] 1
+
+[Slot] 1
+Item 2420.61.5
+Price 1 10000
+
+[Slot] 2
+Item 2421.61.5
+Price 1 10000
+
+[Slot] 3
+Item 2422.61.5
+Price 1 10000
+
+[Slot] 4
+Item 2423.61.5
+Price 1 10000
+
+[Slot] 5
+Item 2424.61.5
+Price 1 10000
+
+[Slot] 6
+Item 2425.61.5
+Price 1 10000
+
+[Slot] 7
+Item 2426.61.5
+Price 1 10000
+
+[Slot] 8
+Item 2429.61.5
+Price 1 10000
+
+[Slot] 9
+Item 2430.61.5
+Price 1 10000
+
+[Slot] 10
+Item 2430.61.5
+Price 1 10000
+
+[Slot] 11
+Item 2436.61.5
+Price 1 10000
+
+[Slot] 12
+Item 2437.61.5
+Price 1 10000
+
+[Slot] 13
+Item 2438.61.5
+Price 1 10000
+
+[Npc] NPCBETA1
+
+[Status] 1
+
+[Slot] 1
+Item 1643.43.9.3.25.26.18
+Price 1 1
+
+[Slot] 2
+Item 1208.43.9.3.25.26.18
+Price 1 1
+
+[Slot] 3
+Item 1493.43.9.3.25.26.18
+Price 1 1
+
+[Slot] 4
+Item 1343.43.9.3.25.26.18
+Price 1 1
+
+[Slot] 5
+Item 1646.43.9.2.30.71.70
+Price 1 2
+
+[Slot] 6
+Item 1211.43.9.2.30.71.70
+Price 1 2
+
+[Slot] 7
+Item 1496.43.9.2.30.71.70
+Price 1 2
+
+[Slot] 8
+Item 1346.43.9.2.30.71.70
+Price 1 2
+
+[Slot] 9
+Item 1649.43.9.2.30.71.70
+Price 1 3
+
+[Slot] 10
+Item 1214.43.9.2.30.71.70
+Price 1 3
+
+[Slot] 11
+Item 1499.43.9.2.30.71.70
+Price 1 3
+
+[Slot] 12
+Item 1349.43.9.2.30.71.70
+Price 1 3
+
+[Slot] 13
+Item 1652.43.9.54.18.72.30
+Price 1 4
+
+[Slot] 14
+Item 1502.43.9.54.18.72.30
+Price 1 4
+
+[Slot] 15
+Item 1217.43.9.54.18.72.30
+Price 1 4
+
+[Slot] 16
+Item 1352.43.9.54.18.72.30
+Price 1 4
+
+[Slot] 17
+Item 1655.43.9.73.30.74.18
+Price 1 5
+
+[Slot] 18
+Item 1220.43.9.73.30.74.18
+Price 1 5
+
+[Slot] 19
+Item 1505.43.9.73.30.74.18
+Price 1 5
+
+[Slot] 20
+Item 1355.43.9.73.30.74.18
+Price 1 5
+
+[Slot] 21
+Item 810.2.45
+Price 1 1
+
+[Slot] 22
+Item 825.2.45
+Price 1 1
+
+[Slot] 23
+Item 840.2.45
+Price 1 1
+
+[Slot] 24
+Item 870.2.45
+Price 1 1
+
+[Slot] 25
+Item 885.2.45
+Price 1 2
+
+[Slot] 26
+Item 911.2.45
+Price 1 2
+
+[Slot] 27
+Item 936.2.45
+Price 1 2
+
+[Npc] NPCBETA2
+
+[Status] 1
+
+[Slot] 1
+Item 1643.43.9.3.25.60.12
+Price 1 6
+
+[Slot] 2
+Item 1208.43.9.3.25.60.10
+Price 1 6
+
+[Slot] 3
+Item 1493.43.9.3.25.60.12
+Price 1 6
+
+[Slot] 4
+Item 1343.43.9.3.25.60.12
+Price 1 6
+
+[Slot] 5
+Item 1646.43.9.3.30.60.10
+Price 1 7
+
+[Slot] 6
+Item 1211.43.9.3.30.60.10
+Price 1 7
+
+[Slot] 7
+Item 1496.43.9.3.30.60.10
+Price 1 7
+
+[Slot] 8
+Item 1346.43.9.3.30.60.10
+Price 1 7
+
+[Slot] 9
+Item 1649.43.9.3.30.60.10
+Price 1 8
+
+[Slot] 10
+Item 1214.43.9.2.30.71.70
+Price 1 8
+
+[Slot] 11
+Item 1499.43.9.3.30.60.10
+Price 1 8
+
+[Slot] 12
+Item 1349.43.9.3.30.60.10
+Price 1 8
+
+[Slot] 13
+Item 1652.43.9.60.10.72.30
+Price 1 9
+
+[Slot] 14
+Item 1502.43.9.60.10.72.30
+Price 1 9
+
+[Slot] 15
+Item 1217.43.9.60.10.72.30
+Price 1 9
+
+[Slot] 16
+Item 1352.43.9.60.10.72.30
+Price 1 9
+
+[Slot] 17
+Item 1655.43.9.73.30.60.10
+Price 1 10
+
+[Slot] 18
+Item 1220.43.9.73.30.60.10
+Price 1 10
+
+[Slot] 19
+Item 1505.43.9.73.30.60.10
+Price 1 10
+
+[Slot] 20
+Item 1355.43.9.73.30.60.10
+Price 1 10
+
+[Slot] 21
+Item 855.60.20
+Price 1 10
+
+[Slot] 22
+Item 902.60.20
+Price 1 10
+
+[Slot] 23
+Item 900.60.20
+Price 1 2
+
+[Slot] 24
+Item 1709
+Price 1 10
+
+[Npc] NPCBETA3
+
+[Status] 1
+
+[Slot] 1
+Item 1221
+Price 1 6
+
+[Slot] 2
+Item 1222
+Price 1 6
+
+[Slot] 3
+Item 1223
+Price 1 6
+
+[Slot] 4
+Item 1224
+Price 1 6
+
+[Slot] 5
+Item 1356
+Price 1 7
+
+[Slot] 6
+Item 1357
+Price 1 7
+
+[Slot] 7
+Item 1358
+Price 1 7
+
+[Slot] 8
+Item 1359
+Price 1 7
+
+[Slot] 9
+Item 1506
+Price 1 8
+
+[Slot] 10
+Item 1507
+Price 1 8
+
+[Slot] 11
+Item 1508
+Price 1 8
+
+[Slot] 12
+Item 1509
+Price 1 8
+
+[Slot] 13
+Item 1656
+Price 1 9
+
+[Slot] 14
+Item 1657
+Price 1 9
+
+[Slot] 15
+Item 1658
+Price 1 9
+
+[Slot] 16
+Item 1659
+Price 1 9
+
+[Slot] 17
+Item 811.43.9
+Price 1 10
+
+[Slot] 18
+Item 826.43.9
+Price 1 10
+
+[Slot] 19
+Item 841.43.9
+Price 1 10
+
+[Slot] 20
+Item 856.43.9
+Price 1 10
+
+[Slot] 21
+Item 871.43.9
+Price 1 10
+
+[Slot] 22
+Item 886.43.9
+Price 1 10
+
+[Slot] 23
+Item 903.43.9
+Price 1 2
+
+[Slot] 24
+Item 904.43.9
+Price 1 10
+
+[Slot] 25
+Item 912.43.9
+Price 1 10
+
+[Slot] 26
+Item 937.43.9
+Price 1 2
+
+[Slot] 27
+Item 1711.43.9
+Price 1 2
+
+[Npc] NPCBETA4
+
+[Status] 1
+
+[Slot] 1
+Item 591
+Price 1 6
+
+[Slot] 2
+Item 592
+Price 1 6
+
+[Slot] 3
+Item 593
+Price 1 6
+
+[Slot] 4
+Item 594
+Price 1 6
+
+[Slot] 5
+Item 595
+Price 1 7
+
+[Slot] 6
+Item 661.43.9
+Price 1 7
+
+[Slot] 7
+Item 662.43.9
+Price 1 7
+
+[Slot] 8
+Item 663.43.9
+Price 1 7
+
+[Slot] 9
+Item 633.43.9
+Price 1 8
+
+[Slot] 10
+Item 551.43.9.2.99
+Price 1 8
+
+[Slot] 11
+Item 551.43.9.60.28
+Price 1 8
+
+[Slot] 12
+Item 5334
+Price 1 9
+
+[Slot] 13
+Item 5335
+Price 1 10
+
+[Slot] 14
+Item 5336
+Price 1 10
+
+[Slot] 15
+Item 5337
+Price 1 10
+
+[Slot] 16
+Item 5338
+Price 1 10
+
+[Slot] 17
+Item 5113
+Price 1 8
+
+[Slot] 18
+Item 5129
+Price 1 8
+
+[Slot] 19
+Item 5110
+Price 1 8
+
+[Slot] 20
+Item 5112
+Price 1 8
+
+[Slot] 21
+Item 5135
+Price 1 8
+
+[Slot] 22
+Item 2371.10.10.100.60.10
+Price 1 8
+
+[Slot] 23
+Item 2366.10.10.100.60.10
+Price 1 9
+
+[Slot] 24
+Item 2376.10.10.100.60.10
+Price 1 9
+
+[Slot] 25
+Item 2370.10.10.100.60.10
+Price 1 9
+
+[Slot] 26
+Item 2375.10.10.100.60.10
+Price 1 9
+
+[Slot] 27
+Item 2381.10.10.100.60.10
+Price 1 10
+
+[Slot] 28
+Item 2386.10.10.100.60.10
+Price 1 10
+
+[Slot] 29
+Item 692
+Price 1 8
+
+[Npc] NPCBETA5
+
+[Status] 1
+
+[Slot] 1
+Item 413.61.240
+Price 1 6
+
+[Slot] 2
+Item 412.61.240
+Price 1 6
+
+[Slot] 3
+Item 3173.61.240
+Price 1 6
+
+[Slot] 4
+Item 777.61.240
+Price 1 6
+
+[Slot] 5
+Item 3182.61.240
+Price 1 7
+
+[Slot] 6
+Item 4140.61.240
+Price 1 7
+
+[Slot] 7
+Item 4139.61.240
+Price 1 7
+
+[Slot] 8
+Item 3140
+Price 1 7
+
+[Slot] 9
+Item 4141
+Price 1 8
+
+[Slot] 10
+Item 1774
+Price 1 8
+
+[Slot] 11
+Item 3338
+Price 1 8
+
+[Slot] 12
+Item 3338.43.9
+Price 1 8
+
+[Slot] 13
+Item 3314.61.240
+Price 1 9
+
+[Slot] 14
+Item 2444
+Price 1 9
+
+[Slot] 15
+Item 2441
+Price 1 9
+
+[Slot] 16
+Item 2442
+Price 1 9
+
+[Slot] 17
+Item 2443
+Price 1 10
+
+[Slot] 18
+Item 668
+Price 1 10
+
+[Slot] 19
+Item 669
+Price 1 10
+
+[Slot] 20
+Item 670
+Price 1 10
+
+[Slot] 21
+Item 671
+Price 1 8
+
+[Slot] 22
+Item 3343.61.240
+Price 1 8
+
+[Slot] 23
+Item 3396.96.55.96.39
+Price 1 9
+
+[Slot] 24
+Item 1760
+Price 1 9
+
+[Slot] 25
+Item 1761
+Price 1 9
+
+[Slot] 26
+Item 1762
+Price 1 9
+
+[Slot] 27
+Item 1763
+Price 1 10
+
+[Slot] 28
+Item 1742
+Price 1 10
+
+[Slot] 29
+Item 4127
+Price 1 10
+
+[Slot] 30
+Item 4146.61.240
+Price 1 10
+
+[Npc] NPCBETA6
+
+[Status] 1
+
+[Slot] 1
+Item 4500.61.120
+Price 413 1
+
+[Slot] 2
+Item 4501.61.120
+Price 412 1
+
+[Slot] 3
+Item 4502.61.120
+Price 413 5
+
+[Slot] 4
+Item 4503.61.120
+Price 412 5
+
+[Slot] 5
+Item 4504.61.120
+Price 413 1
+
+[Slot] 6
+Item 4505.61.120
+Price 413 1
+
+[Slot] 7
+Item 4504.61.120
+Price 413 1
+
+[Slot] 8
+Item 4505.61.120
+Price 413 1
+
+[Slot] 9
+Item 4506.61.120
+Price 413 1
+
+[Slot] 10
+Item 4507.61.120
+Price 413 1
+
+[Slot] 11
+Item 4508.61.120
+Price 413 1
+
+[Slot] 12
+Item 4511.61.120
+Price 413 1
+
+[Slot] 13
+Item 4512.61.120
+Price 413 1
+
+[Slot] 14
+Item 4513.61.120
+Price 413 1
+
+[Slot] 15
+Item 4514.61.120
+Price 413 1
+
+[Slot] 16
+Item 4515.61.120
+Price 413 1
+
+[Slot] 17
+Item 4516.61.120
+Price 412 1
+
+[Slot] 18
+Item 4517.61.120
+Price 413 5
+
+[Slot] 19
+Item 4518.61.120
+Price 412 5
+
+[Slot] 20
+Item 4519.61.120
+Price 413 1
+
+[Slot] 21
+Item 4520.61.120
+Price 413 1
+
+[Slot] 22
+Item 4521.61.120
+Price 413 1
+
+[Slot] 23
+Item 4522.61.120
+Price 413 1
+
+[Slot] 24
+Item 4523.61.120
+Price 413 1
+
+[Slot] 25
+Item 4524.61.120
+Price 413 1
+
+[Slot] 26
+Item 4525.61.120
+Price 413 1
+
+[Slot] 27
+Item 4526.61.120
+Price 413 1
+
+[Slot] 28
+Item 4527.61.120
+Price 413 1
+
+[Slot] 29
+Item 4528.61.120
+Price 413 1
+
+[Slot] 30
+Item 4529.61.120
+Price 413 1

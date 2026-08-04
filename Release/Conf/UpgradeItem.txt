@@ -1,0 +1,292 @@
+﻿# Brinco +10
+[Comp] 1
+
+Status 1
+ReqLevel 1
+ReqMoney 1 10
+Chances 35 50
+
+ReqCompItem ItemId 591
+ReqCompItem ItemRange 5
+ReqCompItem Eff-1 43 9
+
+ReqItem-1 1 413
+
+RewExp 50
+
+RewEff Set 43 10
+Fail SetEff 43 0
+
+# Brinco +11
+[Comp] 2
+
+Status 1
+ReqLevel 1
+ReqMoney 1 2
+Chances 20 40
+
+ReqCompItem ItemId 591
+ReqCompItem ItemRange 5
+ReqCompItem Eff-1 43 10
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewEff Set 43 11
+Fail SetEff 43 0
+
+# Refinar Amuleto Celeste
+[Comp] 3
+
+Status 1
+ReqLevel 1
+ReqMoney 1 3
+Chances 20 40
+
+ReqCompItem ItemId 762
+ReqCompItem ItemRange 7
+ReqCompItem Eff-1 43 0 8
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewEff Add 43 1
+Fail AddEff 43 -1
+
+# Evoluir Lendário Nv. 2
+[Comp] 4
+
+Status 1
+ReqLevel 1
+ReqMoney 1 3
+Chances 20 40
+
+ReqCompItem ItemId 5150
+ReqCompItem ItemRange -5
+ReqCompItem Eff-1 43 9
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewItem AddItemId 1
+RewEff Set 43 0
+Fail SetEff 43 0
+
+# Evoluir Lendário Nv. 3
+[Comp] 5
+
+Status 1
+ReqLevel 1
+ReqMoney 1 3
+Chances 20 40
+
+ReqCompItem ItemId 5151
+ReqCompItem ItemRange -5
+ReqCompItem Eff-1 43 9
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewItem AddItemId 1
+RewEff Set 43 0
+Fail SetEff 43 0
+
+# Evoluir Lendário Nv. 4
+[Comp] 6
+
+Status 1
+ReqLevel 1
+ReqMoney 1 3
+Chances 20 40
+
+ReqCompItem ItemId 5152
+ReqCompItem ItemRange -5
+ReqCompItem Eff-1 43 9
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewItem AddItemId 1
+RewEff Set 43 0
+Fail SetEff 43 0
+
+# Evoluir Lendário Nv. 5
+[Comp] 7
+
+Status 1
+ReqLevel 1
+ReqMoney 1 3
+Chances 20 40
+
+ReqCompItem ItemId 5153
+ReqCompItem ItemRange -5
+ReqCompItem Eff-1 43 9
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewItem AddItemId 1
+RewEff Set 43 0
+Fail SetEff 43 0
+
+# Refinar Cythera Rubi
+[Comp] 8
+
+Status 1
+ReqLevel 1
+ReqMoney 1 3
+Chances 20 40
+
+ReqCompItem ItemId 3508
+ReqCompItem Eff-1 43 0 14
+
+ReqItem-1 1 413
+
+RewExp 100
+
+RewEff Add 43 1
+Fail AddEff 43 -1
+
+# Aprimorar Equipamento (Defesa)
+[Comp] 9
+
+Status 1
+ReqLevel 3
+ReqMoney 1 1
+Chances 30 60
+
+ReqCompItem Eff-1 112 1
+ReqCompItem Eff-2 87 5
+ReqCompItem Eff-3 43 11 15
+ReqCompItem Eff-4 17 4 32
+
+ReqCompItem EffScale 3 4 7
+
+ReqItem-1 1 413
+ReqItem-2 3 412
+
+RewExp 10
+
+RewEff ScaleAdd 3 1
+Fail ScaleAdd 3 -1
+
+# Aprimorar Equipamento (Dano)
+[Comp] 10
+
+Status 1
+ReqLevel 3
+ReqMoney 1 1
+Chances 30 60
+
+ReqCompItem Eff-1 112 1
+ReqCompItem Eff-2 87 5
+ReqCompItem Eff-3 43 11 15
+ReqCompItem Eff-4 17 4 32
+
+ReqCompItem EffScale 2 3 6
+
+ReqItem-1 1 413
+ReqItem-2 3 412
+
+RewExp 10
+
+RewEff ScaleAdd 2 1
+Fail ScaleAdd 2 -1
+
+# Aprimorar Equipamento (Atq. Mágico)
+[Comp] 11
+
+Status 1
+ReqLevel 3
+ReqMoney 1 1
+Chances 30 60
+
+ReqCompItem Eff-1 112 1
+ReqCompItem Eff-2 87 5
+ReqCompItem Eff-3 43 11 15
+ReqCompItem Eff-4 17 4 32
+
+ReqCompItem EffScale 60 3 6
+
+ReqItem-1 1 413
+ReqItem-2 3 412
+
+RewExp 10
+
+RewEff ScaleAdd 60 1
+Fail ScaleAdd 60 -1
+
+# Aprimorar Equipamento (Crítico)
+[Comp] 12
+
+Status 1
+ReqLevel 3
+ReqMoney 1 1
+Chances 30 60
+
+ReqCompItem Eff-1 112 1
+ReqCompItem Eff-2 87 5
+ReqCompItem Eff-3 43 11 15
+ReqCompItem Eff-4 17 4 32
+
+ReqCompItem EffScale 71 5 8
+
+ReqItem-1 1 413
+ReqItem-2 3 412
+
+RewExp 10
+
+RewEff ScaleAdd 71 1
+Fail ScaleAdd 71 -1
+
+# Aprimorar Arma (Dano)
+[Comp] 13
+
+Status 1
+ReqLevel 3
+ReqMoney 1 1
+Chances 30 60
+
+ReqCompItem Eff-1 112 1
+ReqCompItem Eff-2 87 5 6
+ReqCompItem Eff-3 43 11 15
+ReqCompItem Eff-4 17 64 192
+
+ReqCompItem EffScale 2 3 8
+
+ReqItem-1 1 413
+ReqItem-2 3 412
+
+RewExp 10
+
+RewEff ScaleAdd 2 1
+Fail ScaleAdd 2 -1
+
+# Aprimorar Arma (Atq. Mágico)
+[Comp] 14
+
+Status 1
+ReqLevel 3
+ReqMoney 1 1
+Chances 30 60
+
+ReqCompItem Eff-1 112 1
+ReqCompItem Eff-2 87 5 6
+ReqCompItem Eff-3 43 11 15
+ReqCompItem Eff-4 17 64 192
+
+ReqCompItem EffScale 60 3 8
+
+ReqItem-1 1 413
+ReqItem-2 3 412
+
+RewExp 10
+
+RewEff ScaleAdd 60 1
+Fail ScaleAdd 60 -1

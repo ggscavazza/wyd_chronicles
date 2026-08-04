@@ -1,0 +1,180 @@
+b37b4a /criar [nome da Guilda]
+8d8379 Cria uma guilda com o nome escolhido. São necessários 100,000,000
+8d8379 de Bronze. Deve ser usado no canal onde o personagem é cidadão.
+8d8379 
+b37b4a /guild
+8d8379 Verifica os membros online e a situação atual da guerra de sua Guilda.
+8d8379 
+b37b4a /expulsar [nome do membro]
+8d8379 Membro: Usado para sair da guilda atual. Não é necessário adicionar 
+8d8379 um nome.
+8d8379 Líder: Se usado com um nome, expulsa o membro; sem nome, desfaz 
+8d8379 a guilda.
+8d8379 
+b37b4a guildtax [1 ~ 10]
+8d8379 Comando usado somente por líderes de cidades. Usado para definir a 
+8d8379 taxa de imposto das negociações efetuadas na cidade.
+8d8379 
+b37b4a /relo [nome do personagem]
+8d8379 Transporta-se para um membro de sua guilda, sub-guilda ou grupo.
+8d8379 É necessário pagar 10 safiras ao NPC Oráculo Negro ou a skill 
+8d8379 Teleporte. É necessário um Pergaminho do Portal por uso.
+8d8379 
+b37b4a /summon [nome do personagem]
+8d8379 Usado somente pelos líderes das Guildas. Convoca todos os membros
+8d8379 conectados. Se usado por um sub-líder, convoca apenas membros da
+8d8379 respectiva sub-guilda.
+8d8379 
+b37b4a /transferir [nome do personagem]
+8d8379 Transfere a liderança da Guilda para o personagem selecionado.
+8d8379 
+b37b4a /fimguerra
+8d8379 Finaliza a declaração de guerra.
+8d8379 
+b37b4a /finalizarirma
+8d8379 Finaliza a irmandade com outra guilda.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+b37b4a /[nome do personagem] [mensagem]
+8d8379 Envia uma mensagem particular para o usuário.
+8d8379 
+b37b4a /r [mensagem]
+8d8379 Responde ao último usuário que enviou uma mensagem privada.
+8d8379 
+b37b4a = [mensagem]
+8d8379 Mensagem enviada somente para o grupo.
+8d8379 
+b37b4a @ [mensagem]
+8d8379 Mensagem enviada somente para os cidadãos do canal.
+8d8379 
+b37b4a - [mensagem]
+8d8379 Mensagem enviada somente para a Guilda. No caso de personagens 
+8d8379 sem Guilda, a mensagem é enviada para todos que também não 
+8d8379 possuírem Guilda e estiverem no mesmo canal.
+8d8379 
+b37b4a -- [mensagem]
+8d8379 Mensagem enviada somente para as Guildas aliadas. No caso de 
+8d8379 personagens sem Guilda, a mensagem é enviada para todos que 
+8d8379 também não possuírem Guilda e estiverem no mesmo canal.
+8d8379 
+b37b4a * [mensagem]
+8d8379 Exibe a conversa durante 10 segundos.
+8d8379 
+b37b4a /[nome do personagem] ![mensagem]
+8d8379 Envia uma carta para o usuário. Mensagem é salva até o logoff.
+8d8379 
+b37b4a /gritar [mensagem]
+8d8379 Caso possua o item Trombeta Mágica no inventário, uma unidade
+8d8379 é subtraída do inventário e a mensagem é enviada para todos os 
+8d8379 jogadores do servidor, em todos os canais.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+b37b4a /cp
+8d8379 Verifica os pontos de caos do seu personagem.
+8d8379 
+b37b4a /tab [cor] [mensagem]
+8d8379 Exibe uma mensagem sobre o seu personagem.
+8d8379 
+b37b4a /autogrupo [nome]
+8d8379 Aceita automaticamente os pedidos de grupo.
+8d8379 
+b37b4a /fps
+8d8379 Exibe a taxa de frames por segundo atual.
+8d8379 
+b37b4a exp
+8d8379 Ativa / desativa a exibição de experiência ganha
+8d8379 
+b37b4a gold
+8d8379 Ativa / desativa a exibição de bronze ganho
+8d8379 
+b37b4a /king
+8d8379 Caso possua reino, transporta-se até o altar do rei.
+8d8379 
+b37b4a /kingdom
+8d8379 Caso possua reino, transporta-se até o reino.
+8d8379 
+b37b4a /info
+8d8379 Informa dados de personages Celestiais e Subcelestiais.
+8d8379 
+b37b4a /elorank
+8d8379 Informa sua pontuação de ranking de Elo
+8d8379 
+b37b4a /clima
+8d8379 Informa as condições climáticas do mapa em que estiver.
+8d8379 
+b37b4a /contador [quest]
+8d8379 Ativar o contador de entradas na quest.
+8d8379 
+b37b4a /ativar [código]
+8d8379 Ativa um código de recompensa.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 

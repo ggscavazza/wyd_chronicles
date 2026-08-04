@@ -1,0 +1,600 @@
+21f7b8 _TESTE DE MENSAGEM
+FFFFFF 
+FFFFFF No nível 40 e 90, o seu personagem Celestial irá travar o ganho de 
+FFFFFF experiência. Para desbloquear os próximos níveis, siga as instruções abaixo.
+D2691E Destravando o nível 40:
+FF0000 
+FF0000 Requerimento:
+FFFFFF [02] Selados
+FFFFFF [01] Selo Mágico (F)
+FFFFFF Runas: Fehu / Mannaz / Thurizas / Anzus
+FF0000 Procedimento:
+FFFFFF Vá até o Alquimista Odin na cidade de Kefra, e entregue os itens.
+FFFFFF Para que chance de falha diminua, basta colocar as runas na ordem
+FFFFFF citada a cima e você terá 95% de chance de sucesso.
+FFFF00 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D2691E Destravando o nível 90:
+FFFFFF 
+FFFFFF Para destravar nível 90 você precisará da Pedra da Fúria e 500 de fama.
+FFFFFF Clique com o botão direto na Pedra da Fúria para realizar o destrave.
+FFFFFF Chance de sucesso: 70% 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 ____________________________[ Refinando a capa do Celestial ]
+FFFFFF 
+FFFFFF Você pode refinar sua capa no NPC Odin localizado no Continente Desconhecido.
+FFFFFF 
+FF0000 Requerimento:
+FFFFFF [02] Pergaminhos Selados
+FFFFFF [01] Selo Mágico
+FFFFFF [04] Poeiras de Lactolerium
+FFFFFF 
+FF0000 Procedimento:
+FFFFFF Basta colocar os itens no NPC e confirmar a combinação. A composição 
+FFFFFF possui 100% de sucesso. Obs: Este processo refina para um nível acima 
+FFFFFF da capa por vez.
+AAFFFF 
+FFFF00 Exemplo: de +1 para +2, de +2 para +3... até +9.
+AAFFFF 
+FFFFFF 
+FFAAFF 
+FFAAFF 
+FFAAAA 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 _____________________________[ Reset nível 200 Celestial ]
+FFFFFF 
+FFFFFF Após criar a Cythera Arcana no nível 200 é possivel fazer 3 resets em 
+FFFFFF seu personagem. Cada reset lhe concederá 200 pontos.
+FFFFFF 
+FF0000 Requerimento:
+FFFFFF Ter experiência igual ou acima de 4 bilhões ( nível 200 )
+FFFFFF 1000 pontos de Fama
+FFFFFF [01] Pedra da Fúria
+FFFFFF  
+FF0000 Procedimento:
+FFFFFF Após isso é só clicar na Pedra da Fúria, o gasto é de 200 milhões de 
+FFFFFF experiência por resert.
+AAFFFF 
+AAFFFF 
+FFFFFF 
+FFAAFF 
+FFAAFF 
+FFFFFF 
+FFAAAA 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 _____________________________[ Skill Sephira Poder Superior ]
+FFFFFF Para fazer o novo Livro de Skill sephira Poder Superior você deve levar os 
+FFFFFF Seis Itens de Odin para o Ferreiro, na cidade de Noatun. 
+FF0000 Requerimento:
+FFFFFF [01] Gjallarhorn, Andvarinaut, Megingjord, Brisingamen, Járngreipn, Draupnir
+FFFFFF Ferreiro nível 5 ou superior 
+FF0000 Procedimento: 
+FFFFFF Após possuir os Seis Itens de Odin e tiver o Ferreiro nível 5 ou superior, leve 
+FFFFFF os itens para ele na cidade de Noatun. A taxa de sucesso é de 100%, e não
+FFFFFF há custo pela composição.
+FF0000 Os Seis Itens de Odin podem ser adquiridos de duas formas:
+FFFFFF Baú Nórdico: Ao abrir o baú, receberá aleatóriamente um dos Seis Itens de Odin.
+FFFFFF Drop nos seguintes Bosses: (Os que nascem a cada 5 horas somente sv Novato)
+FFFFFF Dragão Trevas: Nasce no Deserto (drop de 10%, nasce a cada 5 horas)
+FFFFFF Elfo Supremo: Nasce no Submundo  (drop de 10%, nasce a cada 5 horas)
+FFFFFF Valquiria Mina: Nasce no Gelo (drop de 10%, nasce a cada 5 horas)
+FFFFFF Tita Mestiço: Nasce em Kefra  (drop de 10%, nasce a cada 5 horas)
+FFFFFF Kefra: Maior Boss do jogo (100% de Drop , nasce uma vez por semana)
+FFFFFF Sombra Negra: Nasce no Gelo (drop de 1%, nasce a cada 15 minutos)
+FFFF00 Obs: Cada Boss dropa apenas um dos Seis Item do Odin diferente. 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 __________________________[ Refinando a capa Celestial para +10 ]
+FFFFFF 
+FF0000 Requerimento:
+FFFFFF Skill Sephira Poder Superior aprendida
+FFFFFF Cythera de Rubi +15
+FFFFFF Level 200
+FFFFFF Ferreiro nível 6 ou superior
+FF0000 Procedimento:
+FFFFFF Composição disponível no NPC Ferreiro, em Noatun. Entregue:
+FFFFFF Seis Itens do Odin (um de cada)
+FFFFFF [03] Barras de 1bi
+FFFFFF [01] Pedra Quimérica
+FFFFFF 10.000 de Fama
+FFFFFF Taxa de sucesso é de 100%.
+FFFF00 Ao adquirir respectivamente as capas +10 e +11 o personagem Celestial 
+FFFF00 irá receber um aumento no potencial de sua Soul, evoluindo ela conforme 
+FFFF00 a refinação. Segue: 
+FFAAAA Capa + 0 até Capa +9 = 120% Soul Full ( somente um atributo)
+FFAAAA Capa + 10 = 140% Soul Full (somente um atributo)
+FFAAAA Capa + 11 = 160% Soul Full (somente um atributo)
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 ______________________[ Evoluindo para SubCelestial - Parte 1/2 ]
+FFFFFF 
+FFFFFF A classe Sub-Celestial é a ultima evolução que seu personagem irá ter, nela, 
+FFFFFF você poderá escolher uma nova classe para jogar, ficando com seu Celestial 
+FFFFFF e seu Sub unidos em um só personagem, podendo alterar quando quiser 
+FFFFFF utilizando a Pedra Misteriosa.
+FFFFFF 
+FF0000 Requerimentos:
+FFFFFF Celestial level 121+ 
+FFFFFF 100 de fama (obtida com Selo do Guerreiro)
+FFFFFF [01] Sephirot da classe desejada
+FFFFFF [01] Pedra Ideal 
+FF0000 Procedimento:
+FFFFFF Equipe o Sephirot e use a Pedra Ideal.
+FFFFFF O Sub e o Celestial ocupam o mesmo corpo, não sendo criado um novo
+FFFFFF personagem.
+FF0000 Como alterar de personagem:
+FFFFFF Você precisa estar dentro da cidade e ter a Pedra Misteriosa.
+FFFFFF Use o botão direito sobre a Pedra Misteriosa para alternar de personagem.
+FFFF00 Veja a continuação na parte 2.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 ______________________[ Evoluindo para SubCelestial - Parte 2/2 ]
+FFFFFF 
+FFFF00 Continuação da Parte 1, caso não tenha visto, veja a Parte 1 primeiro.
+FFFFFF 
+FF0000 Importante:
+fec79a Uma vez criado o Sub-Celestial, o mesmo não poderá ser apagado.
+FFFFFF Com exceção de Skills Sephira, todas as Skills devem ser compradas de
+FFFFFF acordo com a classe do seu Sub-Celestial.
+fec79a Caso uma Skill Sephira já exista no personagem Celestial antes da
+fec79a criação do Sub-Celestial, a mesma existirá no Sub-Celestial. Se o Celestial não
+fec79a possuir a Skill Sephira antes da criação do Sub-Celestial, a mesma existirá
+fec79a somente no personagem que a comprou.
+FFFFFF De acordo com o level do Sub-Celestial o Celestial irá receber pontos de
+FFFFFF Status e vice-versa.
+FF0000 Adicionais na Cythera:
+FFFFFF Level 121 = +30 Defesa +40 Aumento de HP
+FFFFFF Level 151 = +35 Defesa +50 Aumento de HP
+FFFFFF Level 181 = +45 Defesa +60 Aumento de HP
+FFFFFF Level 200 = +50 Defesa +70 Aumento de HP
+FFFF00 O jogador deve estar equipado com a Cythera para que o Bônus seja entregue.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379  
+21f7b8 _______________________[ Refinando itens de +12 a +15 - Parte 1/2 ]
+FFFFFF 
+FFFFFF Para compor um item +12 ou superior (sendo a refinação máxima +15) você 
+FFFFFF deve ir para o Continente Desconhecido e procurar o NPC Alquimista Odin.
+FF0000 Requerimento:
+FFFFFF [01] Item +11 (ou superior) de sua escolha (Set e Arma)
+FFFFFF [04] Refinações Abençoadas
+FFFFFF [02] Emblemas da Proteção ou [02] Pacotes de Poeira de Lac (x10)
+FF0000 Diferença entre Lac e Emblema da Proteção na refinação:  
+FFFFFF Lac: Em caso de falha, existe chance do item quebrar e sumir.
+FFFFFF Emblema: Em caso de falha, o item dificilmente quebrará, e caso acontece, 
+FFFFFF se tornará uma extração.
+FF0000 Chances de Sucesso:
+FFFFFF Primeiramente, é preciso entender que inicialmente ( sem contar nenhuma 
+FFFFFF Refinação Abençoada ) a chance de sucesso para cada refinação é a seguinte:
+FFFFFF Tentativa +12 = 32% (taxa base para +12 otimizada com foco em iniciantes)
+FFFFFF Tentativa +13 = 3%
+FFFFFF Tentativa +14 = 2%
+FFFFFF Tentativa +15 = 1%
+FFFF00 Veja a continuação na parte 2.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+21f7b8 _______________________[ Refinando itens de +12 a +15 - Parte 2/2 ]
+FFFFFF 
+FFFF00 Continuação da parte 1, caso não tenha visto, veja a parte 1 primeiro.
+FFFFFF 
+FFFFFF Então basta somar essa probabilidade ao que cada Refinação Abençoada der,
+FFFFFF de acordo com a tabela abaixo:
+FF0000 Porcentagem de sucesso por Refinação:
+fec79a Refinação Abençoada +0_______________________________2%
+FFFFFF Refinação Abençoada +1_______________________________3%
+fec79a Refinação Abençoada +2_______________________________4%
+FFFFFF Refinação Abençoada +3_______________________________5%
+fec79a Refinação Abençoada +4_______________________________6%
+FFFFFF Refinação Abençoada +5_______________________________7%
+fec79a Refinação Abençoada +6_______________________________8%
+FFFFFF Refinação Abençoada +7_______________________________9%
+fec79a Refinação Abençoada +8_______________________________12%
+FFFFFF Refinação Abençoada +9_______________________________15%
+FF0000 Em caso de falha:
+FFFFFF Refinação Abençoada + Emblema = retorno de refinação ou vira uma extração
+FFFFFF Refinação Abençoada + LAC = retorno da refinação ou quebra.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+FFFFAA Início 16
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF  
+FFFFFF 
+FFFFFF 
+FFFFFF 
+AAFFFF 
+AAFFFF 
+FFFFFF 
+FFAAFF 
+FFAAFF 
+FFFFFF 
+FFAAAA FIM 16
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 

@@ -1,0 +1,157 @@
+[Id] 1
+SrcMin 2114 2100
+SrcMax 2119 2105
+Name-1 Noatun
+Price-1 1000
+Dst-1 960 1761
+Name-2 Azran
+Price-2 1800
+Dst-2 2482 1717
+Name-3 Erion
+Price-3 1600
+Dst-3 2458 2017
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Durgeon
+Price-5 500
+Dst-5 2365 2281
+Name-6 Hall do Kefra
+Price-6 1000000
+Dst-6 2366 3878
+
+[Id] 2
+SrcMin 2480 1716
+SrcMax 2483 1719
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Noatun
+Price-2 1000
+Dst-2 960 1761
+Name-3 Erion
+Price-3 1600
+Dst-3 2458 2017
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Submundo
+Price-5 1000
+Dst-5 1826 1772
+Name-6 Hall do Kefra
+Price-6 1000000
+Dst-6 2366 3878
+
+[Id] 3
+SrcMin 2456 2016
+SrcMax 2459 2019
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Noatun
+Price-2 1000
+Dst-2 960 1761
+Name-3 Azran
+Price-3 1800
+Dst-3 2482 1717
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Durgeon
+Price-5 500
+Dst-5 2365 2281
+Name-6 Submundo
+Price-6 1000
+Dst-6 1826 1772
+
+[Id] 4
+SrcMin 3648 3108
+SrcMax 3651 3111
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Noatun
+Price-2 1000
+Dst-2 960 1761
+Name-3 Azran
+Price-3 1800
+Dst-3 2482 1717
+Name-4 Erion
+Price-4 1600
+Dst-4 2458 2017
+Name-5 Kefra
+Price-5 3000
+Dst-5 1314 1898
+Name-6 Vila Amaldiçoada
+Price-6 1000000
+Dst-6 3638 2778
+
+[Id] 5
+SrcMin 955 1756
+SrcMax 964 1764
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Azran
+Price-2 1800
+Dst-2 2482 1717
+Name-3 Erion
+Price-3 1600
+Dst-3 2458 2017
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Kefra
+Price-5 3000
+Dst-5 1314 1898
+Name-6 Reino
+Price-6 1000000
+Dst-6 1701 1725
+
+
+# Source X, Source Y, Destiny X, Destiny Y, Price, Teleport Name(Not used)
+
+[Tele] 2118.2102 1046.1725  700 Armia para Noatum
+[Tele] 2141.2069 2590.2098    0 Armia para Campo Armia
+[Tele] 1044.1724 2117.2102    0 Noatum para Armia
+[Tele] 1044.1717 2481.1717    0 Noatum para Arzan
+[Tele] 1044.1709 2457.2018    0 Noatum para Erion
+[Tele] 1053.1709 3650.3109    0 Noatum para Gelo
+[Tele] 1058.1725 4000.4000  700 Noatum para Casino
+[Tele] 1049.1765 1097.1711   0 Noatum para Guerra
+[Tele] 2458.2018 1045.1709  700 Erion para Notaum
+[Tele] 3650.3109 1054.1709 1000 Gelo para Noatun
+[Tele] 2482.1717 1045.1717  700 Arzan para Notaum
+[Tele] 2469.1717 2248.1558    0 Arzan para Campo Arzan
+[Tele] 2453.1717 1969.1711    0 Arzan para Campo Arzan 2
+[Tele] 2366.3925 3250.1703    0 Hall Kefra para Cidade Kefra
+[Tele] 2366.3893 2366.3910    0 Kefra para Hall
+[Tele] 2366.4073 1314.1900    0 Kefra para Deserto
+[Tele] 1314.1901 2366.4073    0 Deserto para Kefra
+[Tele] 2669.2157  146.3775    0 Campo armia para Dungeon 1
+[Tele]  146.3775 2669.2157    0 Dungeon para Campo armia 1
+[Tele]  145.3788 2363.2284    0 Campo armia para Dungeon 2
+[Tele] 2363.2284  145.3788    0 Dungeon para Campo armia 2
+[Tele]  147.3781 1006.4030    0 Dungeon para Dungeon
+[Tele] 1006.4030  147.3781    0 Dungeon para Dungeon
+[Tele] 1006.3993  747.3817    0 Dungeon para Dungeon
+[Tele]  747.3817 1006.3993    0 Dungeon para Dungeon
+[Tele]  681.4077  917.3822    0 Dungeon para Dungeon
+[Tele]  917.3822  681.4077    0 Dungeon para Dungeon
+[Tele]  917.3822  681.4077    0 Dungeon para Dungeon
+[Tele]  933.3822  877.3874    0 Dungeon para Dungeon
+[Tele]  877.3874  933.3822    0 Dungeon para Dungeon
+[Tele]  912.3811  747.3806    0 Dungeon para Dungeon
+[Tele]  747.3806  912.3811    0 Dungeon para Dungeon
+[Tele]  410.4072 1006.4064    0 Dungeon para Dungeon
+[Tele] 1006.4064  410.4072    0 Dungeon para Dungeon
+[Tele] 1173.4079 1825.1775    0 Submundo para Campo arzan
+[Tele] 1826.1775 1174.4080    0 Submundo para Campo arzan
+[Tele] 1518.3997 1305.3818    0 Submundo para Submundo2
+[Tele] 1305.3818 1518.3997    0 Submundo2 para Submundo
+[Tele] 2454.1990 2454.1900    0 Erion para Campo de Arzan
+[Tele] 1711.1982 1726.1981    0 Base para área PvP RvR
+[Tele] 1753.1981 1739.1981    0 Base para área PvP RvR
+[Tele] 1235.1957 1207.1989    0 Base do Reino Red para o Centro
+[Tele] 1064.2138 1094.2106    0 Base do Reino Red para o Centro
+[Tele] 2551.1741 2284.3688    0 Arzan para o local do Vale

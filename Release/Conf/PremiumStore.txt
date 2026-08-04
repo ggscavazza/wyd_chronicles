@@ -1,0 +1,650 @@
+[Status] 1
+
+[Aba] 1
+
+[Slot] 1
+Item 3431.61.100
+Price 1 25
+MaxUnit -1
+Promo 20
+
+[Slot] 2
+Item 3336
+Price 1 45
+MaxUnit -1
+Promo 0
+
+[Slot] 3
+Item 3314.61.10
+Price 1 100
+MaxUnit -1
+Promo 0
+
+[Slot] 4
+Item 3330.61.120
+Price 1 100
+MaxUnit -1
+Promo 0
+
+[Slot] 5
+Item 3467
+Price 1 200
+MaxUnit -1
+Promo 0
+
+[Slot] 6
+Item 3379
+Price 1 380
+MaxUnit -1
+Promo 0
+
+[Slot] 7
+Item 3380
+Price 1 550
+MaxUnit -1
+Promo 0
+
+[Slot] 8
+Item 3381
+Price 1 800
+MaxUnit 20
+Promo 0
+
+[Slot] 9
+Item 5382.96.1
+Price 1 50
+MaxUnit -1
+Promo 0
+
+[Slot] 10
+Item 5382.96.2
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 11
+Item 5382.96.3
+Price 1 3000
+MaxUnit -1
+Promo 0
+
+[Slot] 12
+Item 5382.96.4
+Price 1 10000
+MaxUnit -1
+Promo 0
+
+[Slot] 13
+Item 3343
+Price 1 1000
+MaxUnit -1
+Promo 0
+
+[Slot] 14
+Item 3396.96.232.96.3
+Price 1 1020
+MaxUnit -1
+Promo 0
+
+[Slot] 15
+Item 3396.96.184.96.11
+Price 1 3050
+MaxUnit -1
+Promo 0
+
+[Slot] 16
+Item 3396.96.136.96.19
+Price 1 5070
+MaxUnit -1
+Promo 0
+
+[Slot] 17
+Item 3396.96.16.96.39
+Price 1 10100
+MaxUnit -1
+Promo 0
+
+[Slot] 18
+Item 3200.61.12
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 19
+Item 3201.61.12
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 20
+Item 3202.61.12
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 21
+Item 3203.61.12
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 22
+Item 3204.61.12
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 23
+Item 3205.61.12
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 24
+Item 3206.61.12
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 25
+Item 3207.61.12
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 26
+Item 3208.61.12
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 27
+Item 3209.61.12
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 28
+Item 774
+Price 1 700
+MaxUnit -1
+Promo 0
+
+[Slot] 29
+Item 775
+Price 1 700
+MaxUnit -1
+Promo 0
+
+
+[Aba] 2
+
+[Slot] 1
+Item 3173.61.50
+Price 1 200
+MaxUnit -1
+Promo -150
+
+[Slot] 2
+Item 777.61.50
+Price 1 400
+MaxUnit -1
+Promo -350
+
+[Slot] 3
+Item 3182.61.50
+Price 1 600
+MaxUnit -1
+Promo 0
+
+[Slot] 4
+Item 3900.106.3.107.0.108.0
+Price 1 85
+MaxUnit -1
+Promo 0
+
+[Slot] 5
+Item 3901.106.3.107.0.108.0
+Price 1 85
+MaxUnit -1
+Promo 0
+
+[Slot] 6
+Item 3902.106.3.107.0.108.0
+Price 1 180
+MaxUnit -1
+Promo 0
+
+[Slot] 7
+Item 4139.61.2
+Price 1 250
+MaxUnit -1
+Promo 0
+
+[Slot] 8
+Item 4140.61.5
+Price 1 280
+MaxUnit -1
+Promo 240
+
+[Slot] 9
+Item 3326
+Price 1 150
+MaxUnit -1
+Promo 0
+
+[Slot] 10
+Item 3325
+Price 1 120
+MaxUnit -1
+Promo 0
+
+[Slot] 11
+Item 3324
+Price 1 100
+MaxUnit -1
+Promo 0
+
+[Aba] 3
+
+[Slot] 1
+Item 2426.96.1.61.120
+Price 1 80
+MaxUnit -1
+Promo 0
+
+[Slot] 2
+Item 2436.96.1.61.120
+Price 1 80
+MaxUnit -1
+Promo 0
+
+[Slot] 3
+Item 2429.96.1.61.120
+Price 1 80
+MaxUnit -1
+Promo 0
+
+[Slot] 4
+Item 2430.96.1.61.120
+Price 1 100
+MaxUnit -1
+Promo 0
+
+[Slot] 5
+Item 2432.96.1.61.120
+Price 1 120
+MaxUnit -1
+Promo 0
+
+[Slot] 6
+Item 2431.96.1.61.120
+Price 1 120
+MaxUnit -1
+Promo 0
+
+[Slot] 7
+Item 2439.96.1.61.120
+Price 1 120
+MaxUnit -1
+Promo 0
+
+[Slot] 8
+Item 2427.96.1.61.120
+Price 1 200
+MaxUnit -1
+Promo 0
+
+[Slot] 9
+Item 3461
+Price 1 30
+MaxUnit -1
+Promo 0
+
+[Slot] 10
+Item 3461.61.10
+Price 1 250
+MaxUnit -1
+Promo 0
+
+[Slot] 11
+Item 4128
+Price 1 200
+MaxUnit -1
+Promo 0
+
+[Slot] 12
+Item 4129
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 13
+Item 4130
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 14
+Item 3438.61.5
+Price 1 350
+MaxUnit -1
+Promo 0
+
+[Slot] 15
+Item 3438
+Price 1 100
+MaxUnit -1
+Promo 0
+
+[Slot] 16
+Item 3353
+Price 1 150
+MaxUnit -1
+Promo 0
+
+[Slot] 17
+Item 3354
+Price 1 250
+MaxUnit -1
+Promo 0
+
+[Slot] 18
+Item 3352
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 19
+Item 3355
+Price 1 350
+MaxUnit -1
+Promo 0
+
+[Slot] 20
+Item 3356
+Price 1 400
+MaxUnit -1
+Promo 0
+
+[Slot] 21
+Item 3345
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 22
+Item 3346
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 23
+Item 3347
+Price 1 300
+MaxUnit -1
+Promo 0
+
+[Slot] 24
+Item 3348
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 25
+Item 3349
+Price 1 900
+MaxUnit -1
+Promo 0
+
+[Slot] 26
+Item 4899
+Price 1 1000
+MaxUnit -1
+Promo 0
+
+[Aba] 4
+
+[Slot] 1
+Item 3338
+Price 1 200
+MaxUnit -1
+Promo 0
+
+[Slot] 2
+Item 4043
+Price 1 250
+MaxUnit -1
+Promo 0
+
+[Slot] 3
+Item 4141
+Price 1 100
+MaxUnit -1
+Promo 0
+
+[Slot] 4
+Item 3020
+Price 1 400
+MaxUnit -1
+Promo 0
+
+[Slot] 5
+Item 4148.61.100
+Price 1 150
+MaxUnit -1
+Promo 0
+
+[Slot] 6
+Item 5138
+Price 1 500
+MaxUnit -1
+Promo 0
+
+[Slot] 7
+Item 3443
+Price 1 6000
+MaxUnit 10
+Promo 0
+
+[Slot] 8
+Item 5620
+Price 1 10000
+MaxUnit -1
+Promo 9000
+
+[Aba] 5
+
+[Slot] 1
+Item 4150.96.30
+Price 1 600
+MaxUnit -1
+Promo 0
+
+[Slot] 2
+Item 4150.96.30
+Price 1 600
+MaxUnit -1
+Promo 0
+
+[Slot] 3
+Item 4150.96.30
+Price 1 600
+MaxUnit -1
+Promo 0
+
+[Slot] 4
+Item 4150.96.30
+Price 1 600
+MaxUnit 10
+Promo 0
+
+[Slot] 5
+Item 4150.96.30
+Price 1 600
+MaxUnit 10
+Promo 0
+
+[Slot] 6
+Item 4301.96.0
+Price 1 4000
+MaxUnit 10
+Promo 0
+
+[Slot] 7
+Item 4304.96.0
+Price 1 4000
+MaxUnit 10
+Promo 0
+
+[Slot] 8
+Item 4316.96.2
+Price 1 10000
+MaxUnit 10
+Promo 9000
+
+[Slot] 9
+Item 4321.96.0
+Price 1 8000
+MaxUnit 10
+Promo 0
+
+[Slot] 10
+Item 4322.96.0
+Price 1 8000
+MaxUnit 10
+Promo 0
+
+[Slot] 11
+Item 4323.96.0
+Price 1 8000
+MaxUnit 10
+Promo 7000
+
+[Slot] 12
+Item 4324.96.0
+Price 1 6000
+MaxUnit 10
+Promo 0
+
+[Slot] 13
+Item 4324.96.1
+Price 1 8000
+MaxUnit 10
+Promo 0
+
+[Slot] 14
+Item 4324.96.2
+Price 1 8000
+MaxUnit 10
+Promo 6000
+
+[Slot] 15
+Item 4325.96.0
+Price 1 6000
+MaxUnit 10
+Promo 0
+
+[Slot] 16
+Item 4325.96.1
+Price 1 8000
+MaxUnit 10
+Promo 6000
+
+[Slot] 17
+Item 4325.96.2
+Price 1 8000
+MaxUnit 10
+Promo 0
+
+[Slot] 18
+Item 4326.96.0
+Price 1 6000
+MaxUnit 10
+Promo 0
+
+[Slot] 19
+Item 4326.96.1
+Price 1 8000
+MaxUnit 10
+Promo 0
+
+[Slot] 20
+Item 4326.96.2
+Price 1 8000
+MaxUnit 10
+Promo 0
+
+[Slot] 21
+Item 4306.96.0
+Price 1 12000
+MaxUnit 10
+Promo 0
+
+[Slot] 22
+Item 4306.96.1
+Price 1 12000
+MaxUnit 10
+Promo 0
+
+[Slot] 23
+Item 4311.96.0
+Price 1 12000
+MaxUnit 10
+Promo 0
+
+[Slot] 24
+Item 4311.96.1
+Price 1 12000
+MaxUnit 10
+Promo 0
+
+[Slot] 25
+Item 4327.96.0
+Price 1 12000
+MaxUnit 10
+Promo 0
+
+[Slot] 26
+Item 4328.96.0
+Price 1 12000
+MaxUnit 10
+Promo 0
+
+[Slot] 27
+Item 4327.96.1
+Price 1 15000
+MaxUnit 10
+Promo 0
+
+[Slot] 28
+Item 4328.96.1
+Price 1 15000
+MaxUnit 10
+Promo 0
+
+[Slot] 29
+Item 4329.96.0
+Price 1 15000
+MaxUnit 10
+Promo 0
+
+[Slot] 30
+Item 4329.96.1
+Price 1 15000
+MaxUnit 10
+Promo 0
+
+[Slot] 31
+Item 4329.96.2
+Price 1 20000
+MaxUnit 10
+Promo 0
+
+[Aba] 6
+
+[Slot] 1
+Item 3431.61.100
+Price 1 25
+MaxUnit -1
+Promo 20

@@ -1,0 +1,5 @@
+351 a9a49a 00 [Os 4 cristais]		
+355 a9a49a 10 [Primeiro: Água]		
+355 a9a49a 11 [Segundo: Vento]		
+355 a9a49a 12 [Terceiro: Fogo]		
+355 a9a49a 13 [Quarto: Terra]		

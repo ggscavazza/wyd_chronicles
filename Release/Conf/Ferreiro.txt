@@ -1,0 +1,676 @@
+[LevelUp] 2
+
+ReqItem-1 4601.0.0.0.0.0.0
+ReqQuant-1 1
+ReqExp 50
+Chance 100
+
+
+[LevelUp] 3
+
+ReqItem-1 4601.0.0.0.0.0.0
+ReqQuant-1 10
+ReqItem-2 4503.0.0.0.0.0.0
+ReqQuant-2 40
+ReqExp 150
+Chance 100
+
+
+[LevelUp] 4
+
+ReqItem-1 4601.0.0.0.0.0.0
+ReqQuant-1 20
+ReqItem-2 4503.0.0.0.0.0.0
+ReqQuant-2 60
+ReqExp 200
+Chance 50
+
+
+[LevelUp] 5
+
+ReqItem-1 4601.0.0.0.0.0.0
+ReqQuant-1 30
+ReqItem-2 4503.0.0.0.0.0.0
+ReqQuant-2 120
+ReqExp 400
+Chance 50
+
+
+[LevelUp] 6
+
+ReqItem-1 4603.0.0.0.0.0.0
+ReqQuant-1 1
+ReqItem-2 4503.0.0.0.0.0.0
+ReqQuant-2 120
+ReqItem-3 4504.0.0.0.0.0.0
+ReqQuant-3 20
+ReqItem-4 4505.0.0.0.0.0.0
+ReqQuant-4 5
+ReqExp 600
+Chance 50
+
+
+[LevelUp] 7
+
+ReqItem-1 4603.0.0.0.0.0.0
+ReqQuant-1 2
+ReqItem-2 4503.0.0.0.0.0.0
+ReqQuant-2 120
+ReqItem-3 4504.0.0.0.0.0.0
+ReqQuant-3 120
+ReqItem-4 4505.0.0.0.0.0.0
+ReqQuant-4 25
+ReqExp 2000
+Chance 50
+
+
+[LevelUp] 8
+
+ReqItem-1 4603.0.0.0.0.0.0
+ReqQuant-1 4
+ReqItem-2 4503.0.0.0.0.0.0
+ReqQuant-2 120
+ReqItem-3 4504.0.0.0.0.0.0
+ReqQuant-3 120
+ReqItem-4 4505.0.0.0.0.0.0
+ReqQuant-4 50
+ReqExp 5000
+Chance 50
+
+[Comp] 1
+
+ReqLevel 1
+ReqQuant-1 1
+ReqShow-1 0
+ReqString-1 Arma Iniciante +8
+ReqMoney 1 1000
+
+RewShow 0
+RewString Arma Sephira +6
+RewExp 10
+
+[Comp] 2
+
+ReqLevel 4
+
+ReqItem-1 4503
+ReqQuant-1 5
+ReqItem-2 4509
+ReqQuant-2 10
+
+ReqMoney 1 10000000000
+
+Reward 4011
+RewExp 0
+
+[Comp] 3
+
+ReqLevel 4
+
+ReqQuant-1 1
+ReqString-1 Runa Aleatória
+ReqQuant-2 1
+ReqString-2 Runa Aleatória
+ReqQuant-3 1
+ReqString-3 Runa Aleatória
+
+
+ReqMoney 1 100000000
+
+Reward 0
+RewString Runa Aleatória
+RewExp 10
+
+[Comp] 4
+
+ReqLevel 4
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Amuleto de Prata +9
+ReqItem-2 4513
+ReqQuant-2 5
+ReqItem-3 4514
+ReqQuant-3 5
+ReqItem-4 4507
+ReqQuant-4 5
+
+ReqMoney 1 100000000
+
+Reward 0
+RewString Amuleto de Ouro
+RewExp 50
+
+[Comp] 5
+
+ReqLevel 4
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Amuleto de Ouro +9
+ReqItem-2 772
+ReqQuant-2 1
+ReqItem-3 4518
+ReqQuant-3 30
+
+ReqMoney 1 1000000000
+
+Reward 0
+RewString Amuleto Místico
+RewExp 50
+
+[Comp] 6
+
+ReqLevel 4
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Amuleto Místico +9
+ReqItem-2 772
+ReqQuant-2 1
+ReqItem-3 4508
+ReqQuant-3 1
+
+ReqMoney 2 3
+
+Reward 0
+RewString Amuleto de Cristal
+RewExp 50
+
+[Comp] 7
+
+ReqLevel 4
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Amuleto de Cristal +9
+ReqItem-2 772
+ReqQuant-2 1
+ReqItem-3 4510
+ReqQuant-3 1
+
+ReqMoney 2 5
+
+Reward 0
+RewString Amuleto Arcano
+RewExp 120
+
+[Comp] 8
+
+ReqLevel 6
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Amuleto Arcano +9
+ReqItem-2 0
+ReqQuant-2 1
+ReqString-2 Espiritual 20%HP ou 20%MP
+ReqItem-3 4506
+ReqQuant-3 20
+ReqItem-4 4526
+ReqQuant-4 1
+
+ReqMoney 3 1
+
+Reward 0
+RewString Amuleto Lendário
+RewExp 500
+
+[Comp] 9
+
+ReqLevel 4
+
+ReqItem-1 578
+ReqQuant-1 10
+ReqItem-2 4511
+ReqQuant-2 3
+
+ReqMoney 1 50000000
+
+Reward 4613
+RewExp 30
+
+[Comp] 10
+
+ReqLevel 4
+
+ReqItem-1 4606
+ReqQuant-1 10
+
+ReqMoney 2 1
+
+Reward 5381.96.10
+RewString Bau Nórdico
+RewExp 150
+
+
+[Comp] 11
+
+ReqLevel 4
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Item Nórdico
+ReqItem-2 0
+ReqQuant-2 1
+ReqString-2 Item Nórdico
+ReqItem-3 0
+ReqQuant-3 1
+ReqString-3 Item Nórdico
+
+ReqMoney 2 3
+
+Reward 0
+RewString Item Nórdico
+RewExp 250
+
+
+[Comp] 12
+
+ReqLevel 4
+
+ReqItem-1 4607
+ReqQuant-1 1
+ReqItem-2 4608
+ReqQuant-2 1
+ReqItem-3 4609
+ReqQuant-3 1
+ReqItem-4 4610
+ReqQuant-4 1
+ReqItem-5 4611
+ReqQuant-5 1
+ReqItem-6 4612
+ReqQuant-6 1
+
+ReqMoney 2 1
+
+Reward 672
+RewExp 400
+
+[Comp] 13
+
+ReqLevel 5
+
+ReqItem-1 4602
+ReqQuant-1 60
+ReqItem-2 4526
+ReqQuant-2 1
+
+ReqMoney 2 1
+
+Reward 4604
+RewExp 50
+
+[Comp] 14
+
+ReqLevel 5
+
+ReqItem-1 4601
+ReqQuant-1 60
+ReqItem-2 4525
+ReqQuant-2 1
+
+ReqMoney 2 1
+
+Reward 4603
+RewExp 50
+
+[Comp] 15
+
+ReqLevel 5
+
+ReqItem-1 4043
+ReqQuant-1 2
+ReqItem-2 4011
+ReqQuant-2 2
+
+ReqMoney 5 1000000000
+
+Reward 4614
+RewExp 150
+
+[Comp] 16
+
+ReqLevel 6
+
+ReqItem-1 4607
+ReqQuant-1 1
+ReqItem-2 4608
+ReqQuant-2 1
+ReqItem-3 4609
+ReqQuant-3 1
+ReqItem-4 4610
+ReqQuant-4 1
+ReqItem-5 4611
+ReqQuant-5 1
+ReqItem-6 4612
+ReqQuant-6 1
+ReqItem-7 0
+ReqQuant-7 1
+ReqString-7 Capa Celestial +9
+
+ReqMoney 2 3
+
+Reward 573.43.233
+RewString Evoluir Capa +10 [Custo: 10.000 de fama]
+RewExp 400
+
+[Comp] 17
+
+ReqLevel 6
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Cythera Arcana +15
+ReqItem-2 4607
+ReqQuant-2 1
+ReqItem-3 4608
+ReqQuant-3 1
+ReqItem-4 4609
+ReqQuant-4 1
+ReqItem-5 4610
+ReqQuant-5 1
+ReqItem-6 4611
+ReqQuant-6 1
+ReqItem-7 4612
+ReqQuant-7 1
+
+ReqMoney 2 10
+
+Reward 3508
+RewExp 400
+
+[Comp] 18
+
+ReqLevel 6
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Item Arch +11
+ReqItem-2 4043
+ReqQuant-2 1
+ReqItem-3 4505
+ReqQuant-3 5
+ReqItem-4 4527
+ReqQuant-4 10
+
+ReqMoney 2 2
+
+Reward 0
+RewString Cristal de Extração
+RewExp 100
+
+[Comp] 19
+
+ReqLevel 3
+
+ReqItem-1 4513
+ReqQuant-1 1
+ReqItem-2 4514
+ReqQuant-2 1
+ReqItem-3 4515
+ReqQuant-3 1
+ReqItem-4 4516
+ReqQuant-4 1
+ReqItem-5 4517
+ReqQuant-5 1
+ReqMoney 1 1000000
+
+Reward 6030
+RewString Baú de Âmagos N
+RewExp 10
+
+[Comp] 20
+
+ReqLevel 4
+
+ReqItem-1 4509
+ReqQuant-1 10
+ReqItem-2 4507
+ReqQuant-2 5
+ReqItem-3 4502
+ReqQuant-3 1
+ReqItem-4 4500
+ReqQuant-4 5
+ReqItem-5 4502
+ReqQuant-5 1
+
+ReqMoney 1 10000000
+
+Reward 6031
+RewString Baú de Âmagos M
+RewExp 10
+
+[Comp] 21
+
+ReqLevel 4
+
+ReqItem-1 4513
+ReqQuant-1 120
+ReqItem-2 4514
+ReqQuant-2 120
+ReqItem-3 4515
+ReqQuant-3 120
+ReqItem-4 4516
+ReqQuant-4 120
+ReqItem-5 4517
+ReqQuant-5 120
+ReqItem-5 4511
+ReqQuant-5 5
+
+ReqMoney 1 1000000000
+
+Reward 4315.96.0
+RewExp 100
+
+[Comp] 22
+
+ReqLevel 4
+
+ReqItem-1 4513
+ReqQuant-1 120
+ReqItem-2 4514
+ReqQuant-2 120
+ReqItem-3 4515
+ReqQuant-3 120
+ReqItem-4 4516
+ReqQuant-4 120
+ReqItem-5 4517
+ReqQuant-5 120
+ReqItem-5 4511
+ReqQuant-5 5
+
+ReqMoney 1 1000000000
+
+Reward 4310.96.0
+RewExp 100
+
+[Comp] 23
+
+ReqLevel 7
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Amuleto Lendário +9
+ReqItem-2 0
+ReqQuant-2 1
+ReqString-2 Amuleto Arcano +9
+ReqItem-3 5138
+ReqQuant-3 1
+ReqItem-4 5138
+ReqQuant-4 1
+ReqItem-5 4511
+ReqQuant-5 60
+ReqItem-6 4518
+ReqQuant-6 60
+ReqItem-7 5614.96.100.96.100.0.0
+ReqQuant-7 1
+ReqItem-8 5617.96.100.96.100.0.0
+ReqQuant-8 1
+
+ReqMoney 3 1
+
+Reward 0
+RewString Amuleto Lendário (c/ novos status)
+RewExp 100
+
+[Comp] 24
+
+ReqLevel 8
+
+ReqItem-1 3473
+ReqQuant-1 1
+ReqItem-2 1777
+ReqQuant-2 1
+ReqItem-3 1778
+ReqQuant-3 1
+ReqItem-4 1779
+ReqQuant-4 1
+ReqItem-5 4506
+ReqQuant-5 30
+ReqItem-6 4604
+ReqQuant-6 10
+
+ReqMoney 3 1
+
+Reward 4528
+RewExp 500
+
+
+[Comp] 25
+
+ReqLevel 4
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Gema Rara Aleatória 
+ReqItem-2 4615
+ReqQuant-2 1
+ReqItem-3 4505
+ReqQuant-3 1
+
+ReqMoney 1 100000000
+
+Reward 0
+RewString Caixa de Gema Rara
+RewExp 30
+
+[Comp] 26
+
+ReqLevel 5
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Gema Impecável Aleatória
+ReqItem-2 4615
+ReqQuant-2 5
+ReqItem-3 4505
+ReqQuant-3 20
+
+ReqMoney 1 500000000
+
+Reward 0
+RewString Caixa de Gema Impecável
+RewExp 30
+
+[Comp] 27
+
+ReqLevel 7
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Gema Lendária Aleatória
+ReqItem-2 4615
+ReqQuant-2 50
+ReqItem-3 4506
+ReqQuant-3 1
+
+ReqMoney 2 10
+
+Reward 0
+RewString Caixa de Gema Lendária
+RewExp 150
+
+[Comp] 28
+
+ReqLevel 8
+
+ReqItem-1 0
+ReqQuant-1 1
+ReqString-1 Gema Imperial Aleatória
+ReqItem-2 4615
+ReqQuant-2 120
+ReqItem-3 4506
+ReqQuant-3 10
+
+ReqMoney 3 1
+
+Reward 0
+RewString Caixa de Gema Imperial
+RewExp 300
+
+[Comp] 29
+
+ReqLevel 1
+ReqLearn 1
+
+ReqItem-1 4607
+ReqQuant-1 1
+ReqItem-2 4608
+ReqQuant-2 1
+ReqItem-3 4609
+ReqQuant-3 1
+ReqItem-4 4610
+ReqQuant-4 1
+ReqItem-5 4611
+ReqQuant-5 1
+ReqItem-6 4612
+ReqQuant-6 1
+ReqItem-7 0
+ReqQuant-7 1
+ReqString-7 Capa Celestial +10
+
+ReqMoney 2 3
+
+Reward 574.43.237
+RewString Evoluir Capa +11 [Custo: 30.000 de fama]
+RewExp 600
+
+[Comp] 30
+
+ReqLevel 1
+ReqLearn 2
+
+ReqItem-1 4607
+ReqQuant-1 1
+ReqItem-2 4608
+ReqQuant-2 1
+ReqItem-3 4609
+ReqQuant-3 1
+ReqItem-4 4610
+ReqQuant-4 1
+ReqItem-5 4611
+ReqQuant-5 1
+ReqItem-6 4612
+ReqQuant-6 1
+ReqItem-7 0
+ReqQuant-7 1
+ReqString-7 Capa Celestial +11
+
+ReqMoney 2 3
+
+Reward 574.43.237
+RewString Inserir Adicional (aleatório)
+RewExp 400
+
+[Comp] 31
+
+ReqLevel 5
+
+ReqItem-1 4600
+ReqQuant-1 120
+ReqItem-2 413
+ReqQuant-2 1
+
+Reward 4617
+RewExp 10

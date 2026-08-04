@@ -1,0 +1,8 @@
+001 a9a49a 01 [O segredo runico]
+040 a9a49a 50 [Destrave do level 40]
+090 a9a49a 51 [Destrave do level 90]
+200 a9a49a 52 [Destrave do level 200]
+240 a9a49a 53 [Destrave do level 240]
+280 a9a49a 54 [Destrave do level 280]
+320 a9a49a 55 [Destrave do level 320]
+360 a9a49a 56 [Destrave do level 360]

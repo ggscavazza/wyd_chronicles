@@ -1,0 +1,12 @@
+[Comp] 1
+
+Status 1
+
+ReqLevel 200
+ReqEvol 2
+ReqItem-1 1 412
+ReqItem-2 1 412
+ReqItem-3 1 412
+ReqItem-4 1 412
+
+RewLearn 1

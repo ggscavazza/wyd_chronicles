@@ -1,0 +1,260 @@
+ccbcaa _____________________________Campo de Treino
+8d8379 Ei, jovem...
+8d8379 Nunca te vi por aqui, aconteceu algo?
+8d8379 Ah... Ok então. Você realmente quer 
+8d8379 ser um Guerreiro...?! Muito bem,
+8d8379 eu posso te falar um bom local. No lado leste
+8d8379 de Armia existe um acampamento de treinamento.
+8d8379 Lá você pode adquirir mais experiência, e em
+8d8379 cada nivel de dificuldade existe um NPC para
+8d8379 lhe ajudar. Adquira as chaves na redondeza para 
+8d8379 ir prosseguindo na missão. Não esqueça, cada   
+8d8379 NPC possui técnicas especiais que podem 
+8d8379 salvar sua vida. Boa sorte!
+8d8379 Procure pelo treinador na Vila de Armia.
+8d8379 Localização X: 2106  Y: 2083
+8d8379 _
+8d8379 Limite de Level: 1 ~ 35 LV
+8d8379 Recompensa: Emblema do Orc
+8d8379 _
+8d8379 Com o Emblema do Orc, vá até o treinador.
+ccbcaa _____________________________Defensor da Alma
+8d8379 Jovem... Frente à Armia existe o cemitério onde
+8d8379 estão os nossos ancestrais. 
+8d8379 Mas recentemente monstros estão por toda a parte,
+8d8379 por isso pedimos para verificar, e ouvimos que está
+8d8379 sendo realizado rituais para ressuscitar o General
+8d8379 da Morte. Por favor não deixe as almas dos nossos
+8d8379 ancestrais serem transformadas em escravos do mal.
+8d8379 Salve a alma dos nossos ancestrais!
+8d8379 Se você puder fazer isso, as almas de nossos 
+8d8379 ancestrais irão te recompensar com um tesouro
+8d8379 que guarda todo o conhecimento deles.
+8d8379 Vá para o cemitério ao norte de Armia e converse
+8d8379 com o Coveiro. Lute com os monstros da redondeza  
+8d8379 para adquirir o item indicado por ele.
+8d8379 Localização X: 2374  Y: 2097
+8d8379 Limite de Level: 40 ~ 115 LV
+8d8379 Limite de Tempo: 10 minutos
+8d8379 Recompensa: Caixa da Sabedoria
+8d8379 Efeito: + 15000 de experiência
+ccbcaa _____________________________Conquista do Castelo Orc
+8d8379 Ei .. Jovem... Já ouviu sobre os Orcs ?
+8d8379 Hahahaha nem sabe o que são?
+8d8379 Orc`s são criaturas malignas que vivem num castelo
+8d8379 vazio entre a Armia e Azran. Eles assaltam as pessoas
+8d8379 inocentes que passam por lá, eles querem dinheiro
+8d8379 dos viajantes e a carne deles. E o chefe dos Orc`s,
+8d8379 o Lorde Orc, usa "remédio negro" que possui o poder
+8d8379 para poder invadir a nossa vila. Muitos cavaleiros
+8d8379 tentaram defender a vila mas nenhum conseguiu.  
+8d8379 Se você conseguir derrotar o Lorde Orc e obter
+8d8379 o remedio negro, todo o poder dele será seu.
+8d8379 Para chegar até lá você precisa conseguir chaves.
+8d8379 _
+8d8379 Derrote o Orc que está em frente ao castelo
+8d8379 dos Orcs e pegue a primeira chave para entrar.
+8d8379 Localização: X: 2476  Y: 2130
+8d8379 Limite de Level: Livre.
+8d8379 Recompensa: Pílula Mágica (uso único)
+8d8379 Efeito: aumenta 9 Pontos de Skill.
+ccbcaa _____________________________Defensor da Terra Mística
+8d8379 Jovem aventureiro... Ao redor da vila de Azran
+8d8379 existe um local onde dizem que é possivel achar jóias
+8d8379 Nós chamamos este local de Mystic Land. A um tempo
+8d8379 atrás nomeamos um guerreiro como comandante 
+8d8379 e enviamos um tropa para  achar essas jóias,
+8d8379 mas eles estão com muita dificuldade por causa 
+8d8379 de monstros que ali surgiram. O comandante que está 
+8d8379 em Mystic Land está recrutando guerreiros, que tal
+8d8379 você se candidatar? Acredito que a recompensa é boa!
+8d8379 _
+8d8379 Na entrada de Sul do Azran, procure pelo Comandante.
+8d8379 Siga a tropa e lute contra os monstros no destino final
+8d8379 para obter seu item!
+8d8379 Localização: X: 2446  Y: 1599
+8d8379 _
+8d8379 Limite de Level: Livre
+8d8379 Recompensa: Amuleto Prateado/Dourado ou Místico
+8d8379 _
+8d8379 _
+ccbcaa _____________________________Benção de Deus
+8d8379 Jovem... Já ouviu a última notícia? Kruno que é um dos
+8d8379 sacerdotes da catedral da Armia estava levando o
+8d8379 "Pedaço da salvação" que é uma das reliquias
+8d8379 da catedral para a catedral de Azran, mas no
+8d8379 mas foi atacado por monstros e acabou perdendo
+8d8379 a reliquia. Será que vc tem coragem para recuperar
+8d8379 o tesouro perdido? Se você conseguir levar isso ao
+8d8379 sacerdote Kruno, você poderá receber dele um 
+8d8379 "Composto da Salvação" que possui a proteção
+8d8379 do deus. Isso é urgente. 
+8d8379 Vá ao Norte de Armia até o fim e procure pelo
+8d8379 Sacerdote Jester.
+8d8379 Localização: X: 2625  Y: 1984
+8d8379 Limite de Level: 70 ~ 75 LV
+8d8379 Recompensa: Pedaço de Chance
+8d8379 Leve o Pedaço de Chance ao Kruno.
+8d8379 Localização: X: 2663 Y: 1970
+8d8379 Recompensa: Composto de Chance
+8d8379 Efeito: Reinicia 50 pontos de Skill.
+ccbcaa ________________________Formatura de Cavaleiros Aprendizes 
+8d8379 Meu jovem... Agora você parece possuir a dignidade
+8d8379 de um cavaleiro. Mas ainda falta muito para ser  
+8d8379 cavaleiro oficial do Reino. Se quiser, vá para o
+8d8379 Treinamento de cavaleiro que fica ao sul do
+8d8379 campo de Azran. Se você der o melhor talvez
+8d8379 consiga receber o Manto Verde. O que acha ?
+8d8379 Você acha mesmo que é capaz? Se conseguir essa
+8d8379 certificação o caminho  para se tornar o Cavaleiro
+8d8379 Oficial do Reino seja mais fácil. Mas tome 
+8d8379 cuidado. Lá o treinamento é com batalhas 
+8d8379 reais. Procure pelo mestre de treinamento no
+8d8379 Campo de treinamento ao Sul de Azran.
+8d8379 Localização: X: 2232  Y: 1568
+8d8379 Limite de level: 101 ~150 lvl
+8d8379 Limite de tempo: 10 minutos 
+8d8379 Recompensa: Emblema de treineiro
+8d8379 Equipe o item no Slot 14 e procure o Chefe de
+8d8379 Treinamento.
+8d8379 Localização X: 2232  Y: 1568
+ccbcaa _____________________________Jardim de Deus
+8d8379 Jovem.. Ao sul Azran existe um local chamado
+8d8379 Jardim do Deus. Este local foi onde os deuses
+8d8379 descansaram durante a guerra lendária. Após a
+8d8379 guerra as pessoas cuidavam do jardim e assim
+8d8379 esse local continuou recebendo o cuidado  
+8d8379 dos deuses. Mas de um dias pra cá os monstros
+8d8379 estão acabando com a beleza de lá, e os deuses
+8d8379 estão furiosos. Por favor ! Nos ajude! Nós não
+8d8379 temos como defender o jardim. Por favor 
+8d8379 salve o Jardim dos Deuses!
+8d8379 Vá para o sul de Azran e procure pelo jardineiro.
+8d8379 Lute contra os monstros nos arredores para obter
+8d8379 o item solicitado. Ao entrar no jardim aproveite
+8d8379 para adquirir bastante EXP!
+8d8379 Localização: X: 2220  Y: 1714
+8d8379 Limite de Level: 130 ~ 175 Lvl
+8d8379 Limite de Tempo: 10 minutos. 
+8d8379 Recompensa: Lágrima Angelical
+8d8379 Efeito: + 40000 de experiência
+ccbcaa _____________________________Equilíbrio da Força
+8d8379 Ei Cavaleiro em treino... Não quer me ajudar?
+8d8379 Sou o sacerdote da catedral Achro que lutava
+8d8379 pelo equilibrio dos dois reinos de Akelonia e
+8d8379 Hekalotia. Recebemos informações de ataques
+8d8379 de monstros e agora a catedral está em
+8d8379 grande perigo. A única sobrevivente se chama
+8d8379 Amerlia... ela está sozinha defendo a catedral...
+8d8379 se ela perder a vida o equilíbrio dos dois reinos
+8d8379 ira quebrar gerando guerras malignas. Por favor
+8d8379 para salvação dos dois reinos ajude Amerlia 
+8d8379 e defenda a catedral Achro.
+8d8379 Procure pelo guarda ao Sul do Azran.
+8d8379 Localização: X: 1969 Y: 1578
+8d8379 Limite de Level: 120 ~ 125 Lvl
+8d8379 Recompensa: Pedaço de equilíbrio
+8d8379 Procure a Amerlia com Pedaço de Equilíbrio.
+8d8379 Localização: X: 1973 Y: 1579
+8d8379 Recompensa: Composto de equilíbrio
+8d8379 Efeito: Skill Mastering 100 de volta
+ccbcaa _____________________________Ressurreição do Cav Negro
+8d8379 Olá ... A muito tempo atrás ... O herói da Armia "Kaizen"
+8d8379 foi o cavaleiro que conseguiu vencer a guerra
+8d8379 lendária, mas ele era apenas humano, quando
+8d8379 morreu, foi enterrado no túmulo da dungeon.
+8d8379 Mas o monstro malígno Esqueleto Consery fez Kaizen
+8d8379 ressuscitar como um cav Negro. Se ele juntar
+8d8379 sua tropa e atacar, Armia irá virar um mar 
+8d8379 de sangue... Não temos muito tempo, derrote
+8d8379 o cav Negro Kaizen antes que ele termine de
+8d8379 organizar as tropas dele. Rápido!
+8d8379 Procure pela Patrulha que está no primeiro 
+8d8379 andar da Dungeon.
+8d8379 Localização (Dungeon): X: 2363 Y: 2282
+8d8379 Localização (Patrulha): X: 452 Y: 3912
+8d8379 Limite de level: 200 ~ 255 lvl
+8d8379 Limite de tempo: 10 minutos 
+8d8379 Recompensa: Coração do Kaizen
+8d8379 Efeito: + 360000 de experiência
+8d8379 _
+ccbcaa _____________________________Molar do Gárgula
+8d8379 Parece que você também ouviu sobre isso... Sim,
+8d8379 é verdade...O molar do Gárgula é usado para
+8d8379 fazer armas e equipamentos de defesa, os itens
+8d8379 feitos com o molar podem surpreender. Mas obter
+8d8379 o molar não é nada facil, além de ser uma dungeon
+8d8379 bem profunda, os monstros ali são muito fortes.
+8d8379 Todos que partiram nessa jornada estão desaparecidos
+8d8379 até o momento. Por isso  ninguém viu o molar
+8d8379 do gárgula. Pense bem antes de partir.. Mas
+8d8379 com certeza vale apenas o molar irá dar uma força
+8d8379 de defesa incrivel. 
+8d8379 Procure pela Patrulha no segundo andar da Dungeon
+8d8379 Localizacao (Dungeon): X: 2363 Y: 2282
+8d8379 Localizacao (Patrulha): X: 787  Y: 4058
+8d8379 Limite de level: 201 ~205 lvl
+8d8379 Limite de tempo: 10 minutos. 
+8d8379 Recompensa: Molar do Gárgula
+8d8379 Efeito: Uso único , atribui +4 para armadura.
+8d8379 _
+ccbcaa _____________________________Cavaleiro do Reino
+8d8379 Treineiro, agora você já tem o que precisa para se
+8d8379 tornar um Cavaleiro do Reino Oficial. Escolha
+8d8379 entre dois reinos que estão juntos em desenvolvimento
+8d8379 e competição econômica. Existe Hekalotia ,o Castelo
+8d8379 do céu, e Akelonia, força do Sephira. Escolha
+8d8379 a quem jurar lealdade. Esperamos que você seja util
+8d8379 ao seu rei e reino. Daqui pra frente espere
+8d8379 por grandes aventuras.
+8d8379 Lembre-se de usar sua espada apenas a serviço
+8d8379 do Bem e de ser justo e ajudar quem precisa.
+8d8379 Procure o Guarda real que está ao redor de cada Rei 
+8d8379 Limite de level:  220 ~ 250 lvl
+8d8379 _
+8d8379 Limite de tempo: reinicia a cada 10 minutos
+8d8379 _
+8d8379 Recompensa: Emblema do Reino 
+8d8379 _
+8d8379 Equipe o emblema no slot 14 (divineslot) 
+8d8379 e procure o Rei do reino desejado.
+ccbcaa _____________________________Hidra Imortal
+8d8379 Hm... Não quero nem lembrar, foi uma luta muito
+8d8379 difícil, a guerra com as Hidras na região norte
+8d8379 onde tem os pântanos. As hidras que foram expulsas
+8d8379 de lá, entraram para dungeon e estão usando
+8d8379 o Olha Sangrento que possui poderes malignos
+8d8379 Haden. Com isso elas estão transformando em
+8d8379 Hidras Douradas! Se elas continuarem a ganhar
+8d8379 poderes chegará um tempo em que não teremos
+8d8379 como dete-las. O Olho Sangrento que está transformando
+8d8379 as Hidras pode servir para você também!
+8d8379 _
+8d8379 Procure a Patrulha no 1º andar da Dungeon
+8d8379 Localizacao: X: 667  y: 3767
+8d8379 _
+8d8379 Limite de level:  275 ~ 320 lvl
+8d8379 Limite de tempo:  10 minutos 
+8d8379 Recompensa: Olho Sangrento
+8d8379 _
+8d8379 Efeito: + 700000 de experiência
+ccbcaa _____________________________Início da Infelicidade
+8d8379 Após a guerra lendária, poucos sobreviventes
+8d8379 conseguiram manter a sua vida em Armia. Um dia
+8d8379 chegaram alguns Elfos fugitivos das Guerras
+8d8379 ue estavam envolvendo outros continentes. Mas os humanos
+8d8379 se sentiram inferiores por causa da vida eterna
+8d8379 dos Elfos. Até que os humanos que começaram
+8d8379 a sentir ciúme dos Elfos e os expulsaram para
+8d8379 Under World. Ninguém imaginou que aquilo era apenas
+8d8379 o início do desastre. Pois alguns Elfos se sentiram  
+8d8379 humilhados e foram feridos pelos humanos. Isso
+8d8379 fez com que vendessem a alma para o Deus Haden
+8d8379 em troca de vingança, então eles se tornaram
+8d8379 Elfos Negros.
+8d8379 Procure o guarda no 1ºandar do Under World
+8d8379 Localização: X: 1300 Y: 4036
+8d8379 Limite de level: 340 ~ 390 lvl
+8d8379 Limite de tempo: 10 minutos 
+8d8379 Recompensa: Pedra da alma do Elfo
+8d8379 Efeito: + 1200000 de experiência

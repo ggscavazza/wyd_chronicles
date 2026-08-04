@@ -1,0 +1,438 @@
+[Comp] 1
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 10000000
+ReqEffect-1 96 0
+
+RewardItem-1 100 1 4600
+RewardItem-2 10 1 4600
+
+[Comp] 2
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 30000000
+ReqEffect-1 96 1
+
+RewardItem-1 100 1 4600.61.20
+RewardItem-2 20 1 4600.61.20
+
+[Comp] 3
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 500000000
+ReqEffect-1 96 2
+
+RewardItem-1 100 1 4600.61.120
+RewardItem-2 50 1 4600.61.60
+
+[Comp] 4
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 1000000000
+ReqEffect-1 96 3
+
+RewardItem-1 100 2 4600.61.120
+RewardItem-2 50 1 4600.61.120
+
+[Comp] 5
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 2000000000
+ReqEffect-1 96 4
+
+RewardItem-1 100 5 4600.61.120
+RewardItem-2 50 2 4600.61.120
+RewardItem-3 100 2 4527.61.60
+RewardItem-4 100 1 4615.61.120
+
+[Comp] 6
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 2000000000
+ReqEffect-1 96 5
+
+RewardItem-1 100 5 4600.61.120
+RewardItem-2 50 2 4600.61.120
+RewardItem-3 100 2 4527.61.60
+RewardItem-4 100 1 4615.61.120
+
+[Comp] 7
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 20000000
+ReqEffect-1 96 7
+
+RewardItem-1 100 5 4600.61.120
+RewardItem-2 50 2 4600.61.120
+RewardItem-3 100 2 4527.61.60
+RewardItem-4 100 1 4615.61.120
+
+[Comp] 8
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 20000000
+ReqEffect-1 96 8
+
+RewardItem-1 100 5 4600.61.120
+RewardItem-2 50 2 4600.61.120
+RewardItem-3 100 2 4527.61.60
+RewardItem-4 100 1 4615.61.120
+
+[Comp] 9
+
+ReqItem 4850
+ReqItemRange 10
+ReqPrice 20000000
+ReqEffect-1 96 9
+
+RewardItem-1 100 5 4600.61.120
+RewardItem-2 50 2 4600.61.120
+RewardItem-3 100 2 4527.61.60
+RewardItem-4 100 1 4615.61.120
+
+[Comp] 10
+
+ReqItem 4513
+ReqItemRange 1
+ReqPrice 1000
+
+RewardItem-1 55 10 413
+RewardItem-2 55 10 412
+RewardItem-3 5 10 413.61.10
+RewardItem-4 5 10 412.61.10
+
+[Comp] 11
+
+ReqItem 4514
+ReqItemRange 1
+ReqPrice 1000
+
+RewardItem-1 50 11 413
+RewardItem-2 50 11 412
+RewardItem-3 10 11 413.61.10
+RewardItem-4 10 11 412.61.10
+
+[Comp] 12
+
+ReqItem 4515
+ReqItemRange 1
+ReqPrice 1000
+
+RewardItem-1 45 12 413
+RewardItem-2 45 12 412
+RewardItem-3 15 12 413.61.10
+RewardItem-4 15 12 412.61.10
+
+[Comp] 13
+
+ReqItem 4516
+ReqItemRange 1
+ReqPrice 1000
+
+RewardItem-1 40 1 413
+RewardItem-2 40 2 412
+RewardItem-3 20 3 413.61.10
+RewardItem-4 20 4 412.61.10
+
+[Comp] 14
+
+ReqItem 4517
+ReqItemRange 1
+ReqPrice 1000
+
+RewardItem-1 35 14 413
+RewardItem-2 35 14 412
+RewardItem-3 25 14 413.61.10
+RewardItem-4 25 14 412.61.10
+
+[Comp] 15
+
+ReqItem 5150
+ReqItemRange 1
+ReqPrice 1000000000
+
+RewardItem-1 100 1 4529
+
+[Comp] 16
+
+ReqItem 5155
+ReqItemRange 1
+ReqPrice 1000000000
+
+RewardItem-1 100 1 4529
+
+[Comp] 17
+
+ReqItem 5151
+ReqItemRange 1
+ReqPrice 2000000000
+
+RewardItem-1 100 3 4529
+
+[Comp] 18
+
+ReqItem 5156
+ReqItemRange 1
+ReqPrice 2000000000
+
+RewardItem-1 100 3 4529
+
+[Comp] 19
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 100000000
+ReqEffect-1 43 10
+ReqEffect-2 87 4
+
+RewardItem-1 30 1 413
+RewardItem-2 30 1 412
+RewardItem-3 50 1 413.61.10
+RewardItem-4 50 1 412.61.10
+
+[Comp] 20
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 200000000
+ReqEffect-1 43 11
+ReqEffect-2 87 4
+
+RewardItem-1 25 20 413
+RewardItem-2 25 20 412
+RewardItem-3 55 20 413.61.10
+RewardItem-4 55 20 412.61.10
+
+[Comp] 21
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 300000000
+ReqEffect-1 43 12
+ReqEffect-2 87 4
+
+RewardItem-1 20 21 413
+RewardItem-2 20 21 412
+RewardItem-3 60 21 413.61.10
+RewardItem-4 60 21 412.61.10
+
+[Comp] 22
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 400000000
+ReqEffect-1 43 13
+ReqEffect-2 87 4
+
+RewardItem-1 15 22 413
+RewardItem-2 15 22 412
+RewardItem-3 65 22 413.61.10
+RewardItem-4 65 22 412.61.10
+
+[Comp] 23
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 500000000
+ReqEffect-1 43 14
+ReqEffect-2 87 4
+
+RewardItem-1 10 23 413
+RewardItem-2 10 23 412
+RewardItem-3 70 23 413.61.10
+RewardItem-4 70 23 412.61.10
+
+[Comp] 24
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 1000000000
+ReqEffect-1 43 15
+ReqEffect-2 87 4
+
+RewardItem-1 20 24 413
+RewardItem-2 20 24 412
+RewardItem-3 75 24 413.61.10
+RewardItem-4 75 24 412.61.10
+
+[Comp] 25
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 500000000
+ReqEffect-1 43 10
+ReqEffect-2 87 5
+
+RewardItem-1 25 1 413
+RewardItem-2 25 1 412
+RewardItem-3 60 1 413.61.10
+RewardItem-4 60 1 412.61.10
+
+[Comp] 26
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 1
+ReqEffect-1 43 11
+ReqEffect-2 87 5
+
+RewardItem-1 30 1 413
+RewardItem-2 30 1 412
+RewardItem-3 85 1 413.61.10
+RewardItem-4 85 1 412.61.10
+
+[Comp] 27
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 300000000
+ReqEffect-1 43 12
+ReqEffect-2 87 5
+
+RewardItem-1 40 27 413
+RewardItem-2 40 27 412
+RewardItem-3 90 27 413.61.10
+RewardItem-4 90 27 412.61.10
+
+[Comp] 28
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 400000000
+ReqEffect-1 43 13
+ReqEffect-2 87 5
+
+RewardItem-1 50 28 413
+RewardItem-2 50 28 412
+RewardItem-3 95 28 413.61.10
+RewardItem-4 95 28 412.61.10
+
+[Comp] 29
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 500000000
+ReqEffect-1 43 14
+ReqEffect-2 87 5
+
+RewardItem-1 55 29 413
+RewardItem-2 55 29 412
+RewardItem-3 100 29 413.61.10
+RewardItem-4 100 29 412.61.10
+
+[Comp] 30
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 1000000000
+ReqEffect-1 43 15
+ReqEffect-2 87 5
+
+RewardItem-1 60 30 413
+RewardItem-2 60 30 412
+RewardItem-3 90 30 413.61.10
+RewardItem-4 90 30 412.61.10
+
+
+[Comp] 31
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 100000000
+ReqEffect-1 43 10
+ReqEffect-2 87 6
+ReqEffect-3 112 1
+
+RewardItem-1 25 31 413
+RewardItem-2 25 31 412
+RewardItem-3 80 31 413.61.10
+RewardItem-4 80 31 412.61.10
+
+[Comp] 32
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 200000000
+ReqEffect-1 43 11
+ReqEffect-2 87 6
+ReqEffect-3 112 1
+
+RewardItem-1 30 32 413
+RewardItem-2 30 32 412
+RewardItem-3 85 32 413.61.10
+RewardItem-4 85 32 412.61.10
+
+[Comp] 33
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 300000000
+ReqEffect-1 43 12
+ReqEffect-2 87 6
+ReqEffect-3 112 1
+
+RewardItem-1 40 33 413
+RewardItem-2 40 33 412
+RewardItem-3 90 33 413.61.10
+RewardItem-4 90 33 412.61.10
+
+[Comp] 34
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 400000000
+ReqEffect-1 43 13
+ReqEffect-2 87 6
+ReqEffect-3 112 1
+
+RewardItem-1 50 34 413
+RewardItem-2 50 34 412
+RewardItem-3 95 34 413.61.10
+RewardItem-4 95 34 412.61.10
+
+[Comp] 35
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 500000000
+ReqEffect-1 43 14
+ReqEffect-2 87 6
+ReqEffect-3 112 1
+
+RewardItem-1 55 35 413
+RewardItem-2 55 35 412
+RewardItem-3 100 35 413.61.10
+RewardItem-4 100 35 412.61.10
+
+[Comp] 36
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 1000000000
+ReqEffect-1 43 15
+ReqEffect-2 87 6
+ReqEffect-3 112 1
+
+RewardItem-1 60 36 413
+RewardItem-2 60 36 412
+RewardItem-3 90 36 413.61.10
+RewardItem-4 90 36 412.61.10
+
+[Comp] 37
+
+ReqItem 1
+ReqItemRange 6000
+ReqPrice 0
+
+RewardItem-1 10 1 4010
+RewardItem-2 10 1 4010
+RewardItem-3 70 1 4010
+RewardItem-4 70 1 4010

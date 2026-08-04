@@ -1,0 +1,30 @@
+[Status] 1
+
+[EndMap] 22:00 23/11/2020
+[MapCoords] 2100.2100 2110.2110
+[BossCoords] 2124.2140 2147.2155
+
+[KillMobName] EventoMob
+[KillMobNum] 5
+
+[BossMob] 2133.2148 EventoBoss
+
+[RewardBossSummon] 413.61.1
+[RewardBossArea] 413.61.2
+[RewardBossKs] 413.61.3
+
+
+[EndTrade] 22:00 23/11/2020
+
+[NpcTeleportToMap] 2100.2100 TeleMapa
+[NpcTeleportToBoss] 2102.2102 TeleBoss 
+
+[NPC] 1
+Status 1
+Name Troca1
+Request-1 1 412.61.1
+
+Reward-1 20 1 412.61.2
+Reward-2 30 1 412.61.3
+Reward-3 40 1 412.61.4
+Reward-4 50 1 412.61.5

@@ -1,0 +1,23 @@
+[Mortal] 
+ExpMult 5000
+LevelMin 0
+LevelMax 400
+Condition_1-400 1000
+
+[Arch]
+ExpMult 1000
+LevelMin 0
+LevelMax 400
+Condition_1-400 1000
+
+[Celestial]
+ExpMult 1000
+LevelMin 0
+LevelMax 200
+Condition_1-400 1
+
+[SubCelestial]
+ExpMult 1000
+LevelMin 0
+LevelMax 200
+Condition_1-400 1000

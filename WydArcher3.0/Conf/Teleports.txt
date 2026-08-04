@@ -1,0 +1,110 @@
+[Id] 1
+SrcMin 2116 2100
+SrcMax 2119 2103
+Name-1 Noatun
+Price-1 1000
+Dst-1 960 1761
+Name-2 Azran
+Price-2 1800
+Dst-2 2482 1717
+Name-3 Erion
+Price-3 1600
+Dst-3 2458 2017
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Durgeon
+Price-5 500
+Dst-5 2365 2281
+Name-6 Hall do Kefra
+Price-6 1000000
+Dst-6 2366 3878
+
+[Id] 2
+SrcMin 2480 1716
+SrcMax 2483 1719
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Noatun
+Price-2 1000
+Dst-2 960 1761
+Name-3 Erion
+Price-3 1600
+Dst-3 2458 2017
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Submundo
+Price-5 1000
+Dst-5 1826 1772
+Name-6 Hall do Kefra
+Price-6 1000000
+Dst-6 2366 3878
+
+[Id] 3
+SrcMin 2456 2016
+SrcMax 2459 2019
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Noatun
+Price-2 1000
+Dst-2 960 1761
+Name-3 Azran
+Price-3 1800
+Dst-3 2482 1717
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Durgeon
+Price-5 500
+Dst-5 2365 2281
+Name-6 Submundo
+Price-6 1000
+Dst-6 1826 1772
+
+[Id] 4
+SrcMin 3648 3108
+SrcMax 3651 3111
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Noatun
+Price-2 1000
+Dst-2 960 1761
+Name-3 Azran
+Price-3 1800
+Dst-3 2482 1717
+Name-4 Erion
+Price-4 1600
+Dst-4 2458 2017
+Name-5 Kefra
+Price-5 3000
+Dst-5 1314 1898
+Name-6 Vila Amaldiçoada
+Price-6 1000000
+Dst-6 3638 2778
+
+[Id] 5
+SrcMin 955 1756
+SrcMax 964 1764
+Name-1 Armia
+Price-1 1800
+Dst-1 2117 2102
+Name-2 Azran
+Price-2 1800
+Dst-2 2482 1717
+Name-3 Erion
+Price-3 1600
+Dst-3 2458 2017
+Name-4 Gelo
+Price-4 5000
+Dst-4 3649 3110
+Name-5 Kefra
+Price-5 3000
+Dst-5 1314 1898
+Name-6 Reino
+Price-6 1000000
+Dst-6 1701 1725
+

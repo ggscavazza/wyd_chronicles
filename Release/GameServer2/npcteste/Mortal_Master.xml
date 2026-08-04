@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<mob >
+  <name>
+// Tmsrv\run¿</name>
+  <capeInfo>32</capeInfo>
+  <info>92</info>
+  <questInfo>-14732</questInfo>
+  <guildIndex>30065</guildIndex>
+  <classInfo>101</classInfo>
+  <affectInfo>115</affectInfo>
+  <gold>3103110394</gold>
+  <experience>3099074726</experience>
+  <lastPosition x="-5707" y="-4418" />
+  <baseStatus>
+    <level>-21060</level>
+    <defense>-20448</defense>
+    <attack>-20027</attack>
+    <merchant>-30</merchant>
+    <move>-65</move>
+    <maxHp>8353</maxHp>
+    <maxMp>-23617</maxMp>
+    <curHp>-14393</curHp>
+    <curMp>-16706</curMp>
+    <str>-14816</str>
+    <int>-16188</int>
+    <des>-20273</des>
+    <con>8442</con>
+    <mastery mastery0="176" mastery1="176" mastery2="192" mastery3="204" />
+  </baseStatus>
+  <currentStatus>
+    <level>-19680</level>
+    <defense>-19242</defense>
+    <attack>-19262</attack>
+    <merchant>-39</merchant>
+    <move>46</move>
+    <maxHp>2573</maxHp>
+    <maxMp>12079</maxMp>
+    <curHp>-19680</curHp>
+    <curMp>-19278</curMp>
+    <str>8386</str>
+    <int>-12617</int>
+    <des>-10319</des>
+    <con>-15692</con>
+    <mastery mastery0="32" mastery1="34" mastery2="113" mastery3="117" />
+  </currentStatus>
+  <equips>
+    <item slot="0" itemId="11365" ef0="113" efv0="117" ef1="101" efv1="115" ef2="116" efv2="58" />
+    <item slot="1" itemId="63940" ef0="189" efv0="186" ef1="198" efv1="174" ef2="179" efv2="209" />
+    <item slot="2" itemId="63161" ef0="32" efv0="99" ef1="104" efv1="97" ef2="114" efv2="58" />
+    <item slot="3" itemId="44229" ef0="184" efv0="174" ef1="190" efv1="238" ef2="199" efv2="209" />
+    <item slot="4" itemId="50208" ef0="179" efv0="184" ef1="175" efv1="197" ef2="205" efv2="192" />
+    <item slot="5" itemId="47308" ef0="167" efv0="46" ef1="34" efv1="192" ef2="199" efv2="32" />
+    <item slot="6" itemId="64711" ef0="189" efv0="196" ef1="192" efv1="187" ef2="32" efv2="176" />
+    <item slot="7" itemId="49569" ef0="246" efv0="176" ef1="237" efv1="32" ef2="192" efv2="214" />
+    <item slot="8" itemId="55732" ef0="46" efv0="13" ef1="10" efv1="13" ef2="10" efv2="81" />
+    <item slot="9" itemId="17749" ef0="83" efv0="84" ef1="48" efv1="48" ef2="54" efv2="32" />
+    <item slot="10" itemId="16718" ef0="77" efv0="69" ef1="9" efv1="9" ef2="9" efv2="32" />
+    <item slot="11" itemId="8224" ef0="32" efv0="68" ef1="101" efv1="109" ef2="105" efv2="95" />
+    <item slot="12" itemId="28487" ef0="100" efv0="13" ef1="10" efv1="81" ef2="85" efv2="69" />
+    <item slot="13" itemId="21587" ef0="48" efv0="48" ef1="54" efv1="32" ef2="80" efv2="79" />
+    <item slot="14" itemId="18771" ef0="84" efv0="73" ef1="79" efv1="78" ef2="9" efv2="9" />
+    <item slot="15" itemId="12809" ef0="52" efv0="57" ef1="56" efv1="32" ef2="49" efv2="54" />
+  </equips>
+  <inventory>
+    <item slot="0" itemId="14388" ef0="13" efv0="10" ef1="13" efv1="10" ef2="47" efv2="47" />
+    <item slot="1" itemId="8224" ef0="98" efv0="97" ef1="115" efv1="101" ef2="95" efv2="115" />
+    <item slot="2" itemId="25968" ef0="101" efv0="99" ef1="104" efv1="180" ef2="194" efv2="32" />
+    <item slot="3" itemId="57534" ef0="32" efv0="49" ef1="48" efv1="195" ef2="202" efv2="176" />
+    <item slot="4" itemId="45219" ef0="221" efv0="192" ef1="184" efv1="183" ef2="206" efv2="32" />
+    <item slot="5" itemId="28782" ef0="99" efv0="176" ef1="161" efv1="32" ef2="200" efv2="165" />
+    <item slot="6" itemId="56000" ef0="184" efv0="187" ef1="195" efv1="179" ef2="183" efv2="179" />
+    <item slot="7" itemId="50976" ef0="209" efv0="180" ef1="217" efv1="46" ef2="32" efv2="49" />
+    <item slot="8" itemId="13438" ef0="177" efv0="238" ef1="193" efv1="246" ef2="32" efv2="192" />
+    <item slot="9" itemId="47060" ef0="194" efv0="192" ef1="204" efv1="32" ef2="176" efv2="161" />
+    <item slot="10" itemId="51636" ef0="199" efv0="207" ef1="184" efv1="231" ef2="44" efv2="32" />
+    <item slot="11" itemId="45232" ef0="192" efv0="186" ef1="184" efv1="187" ef2="192" efv2="204" />
+    <item slot="12" itemId="49184" ef0="218" efv0="193" ef1="214" efv1="179" ef2="170" efv2="191" />
+    <item slot="13" itemId="45248" ef0="212" efv0="32" ef1="199" efv1="207" ef2="183" efv2="193" />
+    <item slot="14" itemId="59832" ef0="32" efv0="52" ef1="176" efv1="179" ef2="184" efv2="240" />
+    <item slot="15" itemId="52917" ef0="32" efv0="176" ef1="176" efv1="192" ef2="186" efv2="176" />
+    <item slot="16" itemId="49357" ef0="187" efv0="32" ef1="192" efv1="212" ef2="183" efv2="194" />
+    <item slot="17" itemId="53703" ef0="180" efv0="217" ef1="13" efv1="10" ef2="81" efv2="85" />
+    <item slot="18" itemId="21317" ef0="84" efv0="48" ef1="48" efv1="54" ef2="32" efv2="66" />
+    <item slot="19" itemId="21313" ef0="69" efv0="95" ef1="83" efv1="80" ef2="69" efv2="69" />
+    <item slot="20" itemId="18499" ef0="45" efv0="49" ef1="32" efv1="32" ef2="32" efv2="32" />
+    <item slot="21" itemId="8224" ef0="73" efv0="102" ef1="95" efv1="121" ef2="111" efv2="117" />
+    <item slot="22" itemId="24927" ef0="114" efv0="101" ef1="95" efv1="97" ef2="95" efv2="77" />
+    <item slot="23" itemId="29295" ef0="116" efv0="97" ef1="108" efv1="95" ef2="111" efv2="114" />
+    <item slot="24" itemId="24927" ef0="95" efv0="71" ef1="111" efv1="100" ef2="44" efv2="95" />
+    <item slot="25" itemId="28515" ef0="109" efv0="101" ef1="95" efv1="116" ef2="111" efv2="95" />
+    <item slot="26" itemId="25965" ef0="95" efv0="119" ef1="104" efv1="101" ef2="110" efv2="95" />
+    <item slot="27" itemId="28537" ef0="117" efv0="95" ef1="114" efv1="101" ef2="97" efv2="99" />
+    <item slot="28" itemId="24424" ef0="51" efv0="53" ef1="49" efv1="46" ef2="13" efv2="10" />
+    <item slot="29" itemId="21841" ef0="69" efv0="83" ef1="84" efv1="48" ef2="48" efv2="54" />
+    <item slot="30" itemId="16928" ef0="65" efv0="83" ef1="69" efv1="95" ef2="83" efv2="80" />
+    <item slot="31" itemId="17733" ef0="67" efv0="72" ef1="45" efv1="50" ef2="32" efv2="32" />
+    <item slot="32" itemId="8224" ef0="32" efv0="32" ef1="73" efv1="95" ef2="119" efv2="105" />
+    <item slot="33" itemId="27756" ef0="95" efv0="116" ef1="101" efv1="108" ef2="101" efv2="112" />
+    <item slot="34" itemId="29295" ef0="116" efv0="95" ef1="121" efv1="111" ef2="117" efv2="95" />
+    <item slot="35" itemId="28532" ef0="95" efv0="116" ef1="104" efv1="101" ef2="95" efv2="67" />
+    <item slot="36" itemId="30060" ef0="101" efv0="108" ef1="101" efv1="115" ef2="115" efv2="95" />
+    <item slot="37" itemId="24908" ef0="110" efv0="100" ef1="95" efv1="102" ef2="111" efv2="114" />
+    <item slot="38" itemId="13663" ef0="48" efv0="48" ef1="48" efv1="48" ef2="95" efv2="103" />
+    <item slot="39" itemId="27759" ef0="100" efv0="46" ef1="13" efv1="10" ef2="81" efv2="85" />
+    <item slot="40" itemId="21317" ef0="84" efv0="48" ef1="48" efv1="54" ef2="32" efv2="66" />
+    <item slot="41" itemId="21313" ef0="69" efv0="95" ef1="83" efv1="80" ef2="69" efv2="69" />
+    <item slot="42" itemId="18499" ef0="45" efv0="51" ef1="32" efv1="32" ef2="32" efv2="32" />
+    <item slot="43" itemId="8224" ef0="89" efv0="111" ef1="117" efv1="95" ef2="99" efv2="97" />
+    <item slot="44" itemId="24430" ef0="103" efv0="101" ef1="116" efv1="95" ef2="70" efv2="97" />
+    <item slot="45" itemId="29289" ef0="121" efv0="95" ef1="68" efv1="117" ef2="115" efv2="116" />
+    <item slot="46" itemId="26207" ef0="114" efv0="111" ef1="109" efv1="95" ef2="116" efv2="104" />
+    <item slot="47" itemId="24421" ef0="109" efv0="111" ef1="110" efv1="115" ef2="116" efv2="101" />
+    <item slot="48" itemId="29554" ef0="95" efv0="105" ef1="110" efv1="115" ef2="105" efv2="100" />
+    <item slot="49" itemId="11877" ef0="13" efv0="10" ef1="81" efv1="85" ef2="69" efv2="83" />
+    <item slot="50" itemId="12372" ef0="48" efv0="54" ef1="32" efv1="66" ef2="65" efv2="83" />
+    <item slot="51" itemId="24389" ef0="83" efv0="80" ef1="69" efv1="69" ef2="67" efv2="72" />
+    <item slot="52" itemId="13357" ef0="32" efv0="32" ef1="32" efv1="32" ef2="32" efv2="32" />
+    <item slot="53" itemId="24903" ef0="116" efv0="104" ef1="101" efv1="114" ef2="95" efv2="97" />
+    <item slot="54" itemId="24435" ef0="109" efv0="117" ef1="99" efv1="104" ef2="95" efv2="97" />
+    <item slot="55" itemId="24435" ef0="121" efv0="111" ef1="117" efv1="95" ef2="99" efv2="97" />
+    <item slot="56" itemId="24430" ef0="116" efv0="104" ef1="101" efv1="110" ef2="95" efv2="116" />
+    <item slot="57" itemId="27745" ef0="107" efv0="95" ef1="116" efv1="111" ef2="95" efv2="90" />
+    <item slot="58" itemId="28257" ef0="103" efv0="101" ef1="116" efv1="115" ef2="46" efv2="32" />
+    <item slot="59" itemId="2573" ef0="13" efv0="10" ef1="47" efv1="47" ef2="32" efv2="32" />
+    <item slot="60" itemId="28515" ef0="110" efv0="100" ef1="105" efv1="116" ef2="105" efv2="111" />
+    <item slot="61" itemId="49262" ef0="186" efv0="32" ef1="49" efv1="126" ef2="52" efv2="177" />
+    <item slot="62" itemId="49646" ef0="246" efv0="32" ef1="192" efv1="212" ef2="183" efv2="194" />
+    <item slot="63" itemId="52416" ef0="32" efv0="176" ef1="161" efv1="180" ef2="201" efv2="199" />
+  </inventory>
+  <learn>232371407</learn>
+  <statusPoint>12042</statusPoint>
+  <masterPoint>8239</masterPoint>
+  <skillPoint>27680</skillPoint>
+  <critical>101</critical>
+  <saveMana>118</saveMana>
+  <skillbar1>
+    <sk index="101" />
+    <sk index="108" />
+    <sk index="32" />
+    <sk index="-75" />
+  </skillbar1>
+  <guildMemberType>-38</guildMemberType>
+</mob>

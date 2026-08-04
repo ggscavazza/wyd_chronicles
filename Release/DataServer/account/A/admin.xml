@@ -1,0 +1,731 @@
+<?xml version="1.0"?>
+<account weekyear="0">
+	<username>ADMIN</username>
+	<password>admin</password>
+	<cash>0</cash>
+	<alreadyReseted>0</alreadyReseted>
+	<ban>
+		<type>0</type>
+		<date>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</date>
+	</ban>
+	<block>
+		<password></password>
+		<unequip>0</unequip>
+		<trade>0</trade>
+		<buy>0</buy>
+		<sell>0</sell>
+		<autotrade>0</autotrade>
+		<premium>0</premium>
+		<speak>0</speak>
+		<compose>0</compose>
+	</block>
+	<token></token>
+	<access>1</access>
+	<mob index="0">
+		<player>
+			<name>TesteTK</name>
+			<capeInfo>0</capeInfo>
+			<info>0</info>
+			<questInfo>0</questInfo>
+			<interactionQuestInfo>0</interactionQuestInfo>
+			<guildIndex>0</guildIndex>
+			<classInfo>0</classInfo>
+			<affectInfo>0</affectInfo>
+			<gold>0</gold>
+			<experience>16030</experience>
+			<lastPosition x="2096" y="2096" />
+			<baseStatus>
+				<level>13</level>
+				<defense>17</defense>
+				<attack>18</attack>
+				<merchant>240</merchant>
+				<move>0</move>
+				<maxHp>119</maxHp>
+				<maxMp>58</maxMp>
+				<curHp>0</curHp>
+				<curMp>0</curMp>
+				<str>8</str>
+				<int>4</int>
+				<des>7</des>
+				<con>6</con>
+				<mastery mastery0="0" mastery1="0" mastery2="0" mastery3="0" />
+			</baseStatus>
+			<currentStatus>
+				<level>13</level>
+				<defense>61</defense>
+				<attack>23</attack>
+				<merchant>240</merchant>
+				<move>19</move>
+				<maxHp>136</maxHp>
+				<maxMp>66</maxMp>
+				<curHp>136</curHp>
+				<curMp>66</curMp>
+				<str>8</str>
+				<int>4</int>
+				<des>7</des>
+				<con>6</con>
+				<mastery mastery0="0" mastery1="0" mastery2="0" mastery3="0" />
+			</currentStatus>
+			<equips>
+				<item slot="0" itemId="1" ef0="43" efv0="0" ef1="1" efv1="0" ef2="1" efv2="1" />
+				<item slot="1" itemId="1104" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="2" itemId="1116" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="3" itemId="1128" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="4" itemId="1140" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="5" itemId="1152" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="6" itemId="861" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="7" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="8" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="9" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="10" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="11" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="12" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="13" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="14" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="15" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="16" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			</equips>
+			<inventory>
+				<item slot="63" itemId="547" ef0="114" efv0="0" ef1="0" efv1="0" ef2="77" efv2="0" />
+			</inventory>
+			<learn>0</learn>
+			<secLearn>0</secLearn>
+			<statusPoint>65</statusPoint>
+			<masterPoint>26</masterPoint>
+			<skillPoint>39</skillPoint>
+			<critical>2</critical>
+			<saveMana>0</saveMana>
+			<skillbar1>
+				<sk index="0">255</sk>
+				<sk index="1">255</sk>
+				<sk index="2">255</sk>
+				<sk index="3">255</sk>
+			</skillbar1>
+			<guildMemberType>0</guildMemberType>
+		</player>
+		<affects>
+			<affect skillIndex="0" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="1" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="2" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="3" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="4" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="5" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="6" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="7" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="8" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="9" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="10" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="11" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="12" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="13" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="14" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="15" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="16" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="17" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="18" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="19" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="20" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="21" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="22" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="23" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="24" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="25" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="26" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="27" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="28" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="29" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="30" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="31" index="0" master="0" value="0" time="0" />
+		</affects>
+		<joias>
+			<item slot="0" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="1" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="2" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="3" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="4" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="5" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		</joias>
+		<powerLevel>17</powerLevel>
+		<info>0</info>
+		<hallEnter>0</hallEnter>
+		<fame>0</fame>
+		<pesaEnter>0</pesaEnter>
+		<citizen>0</citizen>
+		<soul>0</soul>
+		<hold>0</hold>
+		<skillbar2>
+			<sk index="0">255</sk>
+			<sk index="1">255</sk>
+			<sk index="2">255</sk>
+			<sk index="3">255</sk>
+			<sk index="4">255</sk>
+			<sk index="5">255</sk>
+			<sk index="6">255</sk>
+			<sk index="7">255</sk>
+			<sk index="8">255</sk>
+			<sk index="9">255</sk>
+			<sk index="10">255</sk>
+			<sk index="11">255</sk>
+			<sk index="12">255</sk>
+			<sk index="13">255</sk>
+			<sk index="14">255</sk>
+			<sk index="15">255</sk>
+		</skillbar2>
+		<mortalSlot>0</mortalSlot>
+		<rvrPoints>0</rvrPoints>
+		<saude>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</saude>
+		<escritura>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</escritura>
+		<revigorante>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</revigorante>
+		<lastKickOut>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</lastKickOut>
+		<sub status="0">
+			<status>
+				<level>0</level>
+				<defense>0</defense>
+				<attack>0</attack>
+				<merchant>0</merchant>
+				<move>0</move>
+				<maxHp>0</maxHp>
+				<maxMp>0</maxMp>
+				<curHp>0</curHp>
+				<curMp>0</curMp>
+				<str>0</str>
+				<int>0</int>
+				<des>0</des>
+				<con>0</con>
+				<mastery mastery0="0" mastery1="0" mastery2="0" mastery3="0" />
+			</status>
+			<equips>
+				<equip index="0" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<equip index="1" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			</equips>
+			<experience>0</experience>
+			<learn>0</learn>
+			<secLearn>0</secLearn>
+			<skillbar>
+				<sk index="0">0</sk>
+				<sk index="1">0</sk>
+				<sk index="2">0</sk>
+				<sk index="3">0</sk>
+				<sk index="4">0</sk>
+				<sk index="5">0</sk>
+				<sk index="6">0</sk>
+				<sk index="7">0</sk>
+				<sk index="8">0</sk>
+				<sk index="9">0</sk>
+				<sk index="10">0</sk>
+				<sk index="11">0</sk>
+				<sk index="12">0</sk>
+				<sk index="13">0</sk>
+				<sk index="14">0</sk>
+				<sk index="15">0</sk>
+				<sk index="16">0</sk>
+				<sk index="17">0</sk>
+				<sk index="18">0</sk>
+				<sk index="19">0</sk>
+			</skillbar>
+			<affects>
+				<affect skillIndex="0" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="1" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="2" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="3" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="4" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="5" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="6" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="7" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="8" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="9" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="10" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="11" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="12" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="13" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="14" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="15" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="16" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="17" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="18" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="19" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="20" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="21" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="22" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="23" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="24" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="25" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="26" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="27" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="28" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="29" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="30" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="31" index="0" master="0" value="0" time="0" />
+			</affects>
+			<questInfo>0</questInfo>
+			<soul>0</soul>
+		</sub>
+		<nightmares>
+			<nightmare index="0" x="0" y="0" />
+			<nightmare index="1" x="0" y="0" />
+			<nightmare index="2" x="0" y="0" />
+		</nightmares>
+		<counters>
+			<pvm mob="8" death="0" boss="0" />
+			<pvp kill="0" death="0" />
+		</counters>
+		<insignia insignia1="0" insignia2="0" />
+		<daily questId="0" accepted="false">
+			<lastUpdate>
+				<day>0</day>
+				<month>0</month>
+				<year>0</year>
+				<hour>0</hour>
+				<minute>0</minute>
+				<second>0</second>
+			</lastUpdate>
+			<battlePass>
+				<day>0</day>
+				<month>0</month>
+				<year>0</year>
+				<hour>0</hour>
+				<minute>0</minute>
+				<second>0</second>
+			</battlePass>
+			<mobCount>
+				<count index="0" value="0" />
+				<count index="1" value="0" />
+				<count index="2" value="0" />
+				<count index="3" value="0" />
+				<count index="4" value="0" />
+			</mobCount>
+			<itemCount>
+				<count index="0" value="0" />
+				<count index="1" value="0" />
+				<count index="2" value="0" />
+				<count index="3" value="0" />
+				<count index="4" value="0" />
+			</itemCount>
+		</daily>
+		<contribuition dayOfYear="0" points="0" limit="0">
+			<count>
+				<value index="0">0</value>
+				<value index="1">0</value>
+				<value index="2">0</value>
+				<value index="3">0</value>
+				<value index="4">0</value>
+				<value index="5">0</value>
+				<value index="6">0</value>
+				<value index="7">0</value>
+				<value index="8">0</value>
+				<value index="9">0</value>
+			</count>
+		</contribuition>
+		<ArmazemTimer>0</ArmazemTimer>
+	</mob>
+	<mob index="1">
+		<player>
+			<name>FMteste</name>
+			<capeInfo>0</capeInfo>
+			<info>0</info>
+			<questInfo>0</questInfo>
+			<interactionQuestInfo>0</interactionQuestInfo>
+			<guildIndex>0</guildIndex>
+			<classInfo>1</classInfo>
+			<affectInfo>0</affectInfo>
+			<gold>0</gold>
+			<experience>213526</experience>
+			<lastPosition x="2096" y="2096" />
+			<baseStatus>
+				<level>36</level>
+				<defense>40</defense>
+				<attack>41</attack>
+				<merchant>240</merchant>
+				<move>0</move>
+				<maxHp>96</maxHp>
+				<maxMp>173</maxMp>
+				<curHp>0</curHp>
+				<curMp>0</curMp>
+				<str>79</str>
+				<int>9</int>
+				<des>100</des>
+				<con>5</con>
+				<mastery mastery0="0" mastery1="0" mastery2="0" mastery3="0" />
+			</baseStatus>
+			<currentStatus>
+				<level>36</level>
+				<defense>77</defense>
+				<attack>97</attack>
+				<merchant>240</merchant>
+				<move>67</move>
+				<maxHp>110</maxHp>
+				<maxMp>192</maxMp>
+				<curHp>110</curHp>
+				<curMp>192</curMp>
+				<str>79</str>
+				<int>9</int>
+				<des>100</des>
+				<con>5</con>
+				<mastery mastery0="0" mastery1="0" mastery2="0" mastery3="0" />
+			</currentStatus>
+			<equips>
+				<item slot="0" itemId="11" ef0="43" efv0="0" ef1="11" efv1="0" ef2="1" efv2="1" />
+				<item slot="1" itemId="1254" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="2" itemId="1266" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="3" itemId="1278" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="4" itemId="1290" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="5" itemId="1302" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="6" itemId="816" ef0="43" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="7" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="8" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="9" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="10" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="11" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="12" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="13" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="14" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="15" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="16" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			</equips>
+			<inventory>
+				<item slot="0" itemId="1702" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="1" itemId="1403" ef0="43" efv0="0" ef1="26" efv1="15" ef2="3" efv2="15" />
+				<item slot="2" itemId="1556" ef0="43" efv0="0" ef1="3" efv1="30" ef2="60" efv2="6" />
+				<item slot="3" itemId="1801" ef0="43" efv0="0" ef1="59" efv1="0" ef2="59" efv2="0" />
+				<item slot="4" itemId="1560" ef0="43" efv0="0" ef1="72" efv1="10" ef2="59" efv2="0" />
+				<item slot="5" itemId="1309" ef0="43" efv0="0" ef1="73" efv1="18" ef2="74" efv2="12" />
+				<item slot="6" itemId="1560" ef0="13" efv0="12" ef1="72" efv1="10" ef2="54" efv2="6" />
+				<item slot="8" itemId="1297" ef0="43" efv0="0" ef1="2" efv1="20" ef2="53" efv2="3" />
+				<item slot="9" itemId="1554" ef0="43" efv0="1" ef1="71" efv1="30" ef2="3" efv2="5" />
+				<item slot="10" itemId="1415" ef0="14" efv0="10" ef1="73" efv1="6" ef2="74" efv2="6" />
+				<item slot="11" itemId="413" ef0="61" efv0="10" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<item slot="12" itemId="1115" ef0="11" efv0="14" ef1="71" efv1="30" ef2="60" efv2="4" />
+				<item slot="63" itemId="547" ef0="150" efv0="0" ef1="0" efv1="0" ef2="77" efv2="0" />
+			</inventory>
+			<learn>0</learn>
+			<secLearn>0</secLearn>
+			<statusPoint>10</statusPoint>
+			<masterPoint>72</masterPoint>
+			<skillPoint>108</skillPoint>
+			<critical>0</critical>
+			<saveMana>0</saveMana>
+			<skillbar1>
+				<sk index="0">255</sk>
+				<sk index="1">255</sk>
+				<sk index="2">255</sk>
+				<sk index="3">255</sk>
+			</skillbar1>
+			<guildMemberType>0</guildMemberType>
+		</player>
+		<affects>
+			<affect skillIndex="0" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="1" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="2" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="3" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="4" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="5" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="6" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="7" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="8" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="9" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="10" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="11" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="12" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="13" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="14" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="15" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="16" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="17" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="18" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="19" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="20" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="21" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="22" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="23" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="24" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="25" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="26" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="27" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="28" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="29" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="30" index="0" master="0" value="0" time="0" />
+			<affect skillIndex="31" index="0" master="0" value="0" time="0" />
+		</affects>
+		<joias>
+			<item slot="0" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="1" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="2" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="3" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="4" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			<item slot="5" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+		</joias>
+		<powerLevel>35</powerLevel>
+		<info>0</info>
+		<hallEnter>0</hallEnter>
+		<fame>0</fame>
+		<pesaEnter>0</pesaEnter>
+		<citizen>0</citizen>
+		<soul>0</soul>
+		<hold>0</hold>
+		<skillbar2>
+			<sk index="0">255</sk>
+			<sk index="1">255</sk>
+			<sk index="2">255</sk>
+			<sk index="3">255</sk>
+			<sk index="4">255</sk>
+			<sk index="5">255</sk>
+			<sk index="6">255</sk>
+			<sk index="7">255</sk>
+			<sk index="8">255</sk>
+			<sk index="9">255</sk>
+			<sk index="10">255</sk>
+			<sk index="11">255</sk>
+			<sk index="12">255</sk>
+			<sk index="13">255</sk>
+			<sk index="14">255</sk>
+			<sk index="15">255</sk>
+		</skillbar2>
+		<mortalSlot>0</mortalSlot>
+		<rvrPoints>0</rvrPoints>
+		<saude>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</saude>
+		<escritura>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</escritura>
+		<revigorante>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</revigorante>
+		<lastKickOut>
+			<day>0</day>
+			<month>0</month>
+			<year>0</year>
+			<hour>0</hour>
+			<minute>0</minute>
+			<second>0</second>
+		</lastKickOut>
+		<sub status="0">
+			<status>
+				<level>0</level>
+				<defense>0</defense>
+				<attack>0</attack>
+				<merchant>0</merchant>
+				<move>0</move>
+				<maxHp>0</maxHp>
+				<maxMp>0</maxMp>
+				<curHp>0</curHp>
+				<curMp>0</curMp>
+				<str>0</str>
+				<int>0</int>
+				<des>0</des>
+				<con>0</con>
+				<mastery mastery0="0" mastery1="0" mastery2="0" mastery3="0" />
+			</status>
+			<equips>
+				<equip index="0" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+				<equip index="1" itemId="0" ef0="0" efv0="0" ef1="0" efv1="0" ef2="0" efv2="0" />
+			</equips>
+			<experience>0</experience>
+			<learn>0</learn>
+			<secLearn>0</secLearn>
+			<skillbar>
+				<sk index="0">0</sk>
+				<sk index="1">0</sk>
+				<sk index="2">0</sk>
+				<sk index="3">0</sk>
+				<sk index="4">0</sk>
+				<sk index="5">0</sk>
+				<sk index="6">0</sk>
+				<sk index="7">0</sk>
+				<sk index="8">0</sk>
+				<sk index="9">0</sk>
+				<sk index="10">0</sk>
+				<sk index="11">0</sk>
+				<sk index="12">0</sk>
+				<sk index="13">0</sk>
+				<sk index="14">0</sk>
+				<sk index="15">0</sk>
+				<sk index="16">0</sk>
+				<sk index="17">0</sk>
+				<sk index="18">0</sk>
+				<sk index="19">0</sk>
+			</skillbar>
+			<affects>
+				<affect skillIndex="0" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="1" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="2" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="3" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="4" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="5" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="6" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="7" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="8" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="9" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="10" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="11" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="12" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="13" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="14" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="15" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="16" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="17" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="18" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="19" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="20" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="21" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="22" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="23" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="24" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="25" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="26" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="27" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="28" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="29" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="30" index="0" master="0" value="0" time="0" />
+				<affect skillIndex="31" index="0" master="0" value="0" time="0" />
+			</affects>
+			<questInfo>0</questInfo>
+			<soul>0</soul>
+		</sub>
+		<nightmares>
+			<nightmare index="0" x="0" y="0" />
+			<nightmare index="1" x="0" y="0" />
+			<nightmare index="2" x="0" y="0" />
+		</nightmares>
+		<counters>
+			<pvm mob="199" death="0" boss="0" />
+			<pvp kill="0" death="0" />
+		</counters>
+		<insignia insignia1="0" insignia2="0" />
+		<daily questId="0" accepted="false">
+			<lastUpdate>
+				<day>0</day>
+				<month>0</month>
+				<year>0</year>
+				<hour>0</hour>
+				<minute>0</minute>
+				<second>0</second>
+			</lastUpdate>
+			<battlePass>
+				<day>0</day>
+				<month>0</month>
+				<year>0</year>
+				<hour>0</hour>
+				<minute>0</minute>
+				<second>0</second>
+			</battlePass>
+			<mobCount>
+				<count index="0" value="0" />
+				<count index="1" value="0" />
+				<count index="2" value="0" />
+				<count index="3" value="0" />
+				<count index="4" value="0" />
+			</mobCount>
+			<itemCount>
+				<count index="0" value="0" />
+				<count index="1" value="0" />
+				<count index="2" value="0" />
+				<count index="3" value="0" />
+				<count index="4" value="0" />
+			</itemCount>
+		</daily>
+		<contribuition dayOfYear="0" points="0" limit="0">
+			<count>
+				<value index="0">0</value>
+				<value index="1">0</value>
+				<value index="2">0</value>
+				<value index="3">0</value>
+				<value index="4">0</value>
+				<value index="5">0</value>
+				<value index="6">0</value>
+				<value index="7">0</value>
+				<value index="8">0</value>
+				<value index="9">0</value>
+			</count>
+		</contribuition>
+		<ArmazemTimer>0</ArmazemTimer>
+	</mob>
+	<storage>
+		<gold>2000000000</gold>
+		<items />
+	</storage>
+	<insignia>0</insignia>
+	<charslot>-1</charslot>
+	<position x="2121" y="2042" />
+	<unique>0</unique>
+	<singleGift>0</singleGift>
+	<daily>
+		<received>0</received>
+		<received>0</received>
+		<received>0</received>
+		<received>0</received>
+		<received>0</received>
+		<received>0</received>
+		<received>0</received>
+	</daily>
+	<water>
+		<day>216</day>
+		<total>0</total>
+	</water>
+	<divina>
+		<day>0</day>
+		<month>0</month>
+		<year>0</year>
+		<hour>0</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</divina>
+	<sephira>
+		<day>0</day>
+		<month>0</month>
+		<year>0</year>
+		<hour>0</hour>
+		<minute>0</minute>
+		<second>0</second>
+	</sephira>
+</account>

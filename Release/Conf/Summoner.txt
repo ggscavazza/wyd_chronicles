@@ -1,0 +1,75 @@
+[Npc] 1
+
+Status 1
+NpcName Necromante
+Summons 1 2 3 4 5 6 7
+
+[Summon] 1
+
+Status 1
+
+CanRepeatItens 1
+FailCountMessage 1
+
+ReqCost 1 100
+ReqGuild 0
+ReqTime 00:00 23:59
+
+ReqItem-1 Interval 1 5110-5133
+ReqItem-2 Interval 1 5110-5133
+ReqItem-3 Interval 1 5110-5133
+ReqItem-4 Interval 1 5110-5133
+ReqItem-5 Interval 1 5110-5133
+ReqItem-6 Interval 1 5110-5133
+ReqItem-7 Interval 1 5110-5133
+ReqItem-1 Random 0
+ReqItem-2 Random 0
+ReqItem-3 Random 0
+ReqItem-4 Random 0
+ReqItem-5 Random 0
+ReqItem-6 Random 0
+ReqItem-7 Random 0
+
+BossId 1
+
+[Summon] 2
+
+Status 1
+
+CanRepeatItens 1
+FailCountMessage 1
+
+ReqCost 1 100
+ReqGuild 1
+ReqTime 00:00 23:59
+
+ReqItem-1 Id 412 413
+ReqItem-1 Quant 1 1
+ReqItem-1 Random 1
+
+ReqItem-2 Id 412 413
+ReqItem-2 Quant 1 1
+ReqItem-2 Random 1
+
+ReqItem-3 Id 412 413
+ReqItem-3 Quant 1 1
+ReqItem-3 Random 1
+
+ReqItem-4 Id 412 413
+ReqItem-4 Quant 1 1
+ReqItem-4 Random 1
+
+ReqItem-5 Id 412 413
+ReqItem-5 Quant 1 1
+ReqItem-5 Random 1
+
+ReqItem-6 Id 412 413
+ReqItem-6 Quant 1 1
+ReqItem-6 Random 1
+
+ReqItem-7 Id 412 413
+ReqItem-7 Quant 1 1
+ReqItem-7 Random 1
+
+BossId 1
+Teleport 2110.2110

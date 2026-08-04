@@ -1,0 +1,559 @@
+1 Falta espaço no inventário.
+2 Selecionar outro servidor?
+3 ID curto demais.
+4 ID longo demais.
+5 Senha curta demais.
+6 Senha longa demais.
+7 Conectando no servidor.
+8 Falha ao tentar conectar. 
+9 Novo cadastro somente via website.
+10 Gostaria de se cadastrar?
+11 Selecionar outro servidor?
+12 Conexão anterior finalizada. Tente novamente.
+13 Foi desconectado do servidor. 
+14 Selecione o personagem.
+15 Nome deve ter mais de 4 caracteres.
+16 Nome deve ter menos de 12 caracteres.
+17 Nome inadequado.
+18 Deseja realmente apagar?
+19 Nome inadequado ou já existente.
+20 Falha ao apagar o personagem.
+21 Falha ao logar o personagem.
+22 Deseja sair do jogo?
+23 Verificando a conexão.
+24 Selecione o canal e o servidor.
+25 Canal escolhido está cheio. Escolha outro canal.
+26 Impossível de conectar. Escolha outro canal.
+27 Voltar para a cidade?
+28 Realizar a troca?
+29 Entrada permitida apenas para level 35 ou inferior.
+30 Mana insuficiente.
+31 Selecione o membro do grupo com o botão direito do mouse.
+32 Uso somente quando estiver em grupo.
+33 Por favor não incomode outros jogadores.
+34 Valor de bronze incorreto.
+35 Você já está negociando com outra pessoa.
+36 Deseja realmente expulsar da Guilda?
+37 Negociante não existente.
+38 Você não está na zona de teleporte.
+39 Impossível aumentar status.
+40 Impossível convocar a si mesmo.
+41 Aguarde 2 segundos e aperte o botão.
+42 Zona de PvP. Volte caso não deseje PvP.
+43 Deseja ir para outra cidade?
+44 Programa de AutoMouse detectado.
+45 Programa de AutoMacro detectado.
+46 Solicitar Guerra entre Guildas?
+47 Aprender Skill %s?
+48 %s (Impossível de Refinar)
+49 Alcance da Skill : %d
+50 Gasto de Mana : %d
+51 Dano de Skill : %d
+52 Propriedades da Skill : %s
+53 Necessita %s Pontos Especiais : %d
+54 Level necessário : %d
+55 %s Pontos Especiais : %d
+56 (Duas mãos:%d)
+57 Preço : %d
+58 Preço de Venda : %d
+59 Pontos de Skill : %d
+60 Menu para '%s'
+61 Responder
+62 %s' pediu para entrar no seu grupo.
+63 Para entrar no grupo  clique '%s' na janela do grupo.
+64 com [%s]
+65 Bronze %d
+66 Canal %d Grupo
+67 Servidor de Teste
+68 %d-%d Canal
+69 Teste-%d Canal
+70 Inexistente.
+71 Medalha da Guilda
+72 Mestre
+73 Classe
+74 Level necessário
+75 Força necessária
+76 Inteligência necessária
+77 Destreza necessária
+78 Constituição necessária
+79 Aumento de Dano
+80 Defesa 
+81 Aumento de HP máximo 
+82 Aumento de MP máximo
+83 Índice de aumento de HP máximo
+84 Índice de aumento de MP máximo
+85 Economia de Mana
+86 Crítico
+87 Índice de regeneração de HP
+88 Índice de regeneração de MP
+89 Aumento de Imunidades
+90 Aumento da Velocidade de Movimento
+91 Resistência a Fogo
+92 Resistência a Gelo
+93 Resistência a Sagrado
+94 Resistência a Relâmpago
+95 Aprender Arma
+96 Confiança/Magia Branca/Elemental/Sobrevivência
+97 Trans/Magia Negra/Evocação/Troca
+98 Espada Mágica/Magia Especial/Natureza/Captura
+99 Aumento da Velocidade de Ataque
+100 Força
+101 Inteligência
+102 Destreza
+103 Constituição
+104 Ataque Mágico
+105 Número de índice exclusivo
+106 Aprender Arma
+107 Knight
+108 Sword Master
+109 Paladin
+110 Priest
+111 Witch
+112 Cleric
+113 Elementalist
+114 Shaman
+115 Shapeshifter
+116 Inexistente
+117 Fogo
+118 Gelo
+119 Relâmpago
+120 Sagrado
+121 Warrior
+122 Mage
+123 Guardian
+124 Rogue
+125 Armia
+126 Azran
+127 Sem nome
+128 Resetar Confiança/Magia Branca/Elemental/Sobrevivência
+129 Resetar Trans/Magia Negra/Evocação/Troca
+130 Resetar Espada Mágica/Magia Especial/Natureza/Captura
+131 Deseja resetar as Skills do Círculo de Classe? 
+132 Deseja ir para a página de pagamento?
+133 Archer
+134 Duelist
+135 Assassin
+136 Insira o valor de bronze desejado para armazenar.
+137 Insira o valor de bronze para troca.
+138 Insira o valor de bronze desejado para retirar.
+139 Skill Passiva
+140 Aumento de Aprendizagem de Skill.
+141 Insira um nome para a sua loja.
+142 Insira o valor dos seus produtos.
+143 O valor dos seus produtos devem ser menor que %d
+144 Deseja realmente comprar?
+145 Selecione os itens para troca.
+146 Taxa de Imposto
+147 Insira o valor da aposta para a Guerra entre Guildas.
+148 Adquiriu %d de experiência 
+149 Deseja trocar '%s' de bronze
+150 Transformar em bronze?
+151 Diminua o delay antes de usar a próxima skill.
+152 Deseja continuar?
+153 Você aceita o desafio de '%s' para %s 
+154 Aceita participar da Disputa de Ranking?
+155 Não há bronze suficiente.
+156 Este jogador já foi chamado para o grupo.
+157 Modo PvP
+158 Declarar guerra?
+159 Convocar os membros da Guilda?
+160 É necessário o Pergaminho da Água para entrar na Zona Elemental da Água. 
+161 Foi detectado forma de jogo ilegal.
+162 Valor Crítico de Incubação.
+163 Vitalidade
+164 HP
+165 Crescimento
+166 Ração
+167 Level
+168 Situação: Morto
+169 Tempo de Espera para Incubação
+170 Situação: Possível de Incubar
+171 EX
+172 Modo Correr
+173 Erion
+174 Índice de Evasão
+175 Registrar Ticket?
+176 Número
+177 Título
+178 Autor
+179 Visitas
+180 Data
+181 http://vibrant.games/_forum_guild/guildbbs_list3
+182 http://vibrant.games/_forum_guild/guildbbs_view3
+183 http://vibrant.games/_forum_guild/guildbbs_reply3
+184 http://vibrant.games/_forum_guild/guildbbs_modify3
+185 http://vibrant.games/_forum_guild/guildbbs_write3
+186 http://vibrant.games/_forum_guild/guildbbs_delete3
+187 Apenas 10 comentários permitidos.
+188 Falha ao armazenar.
+189 Impossível de apagar.
+190 Não foi possível trazer informações.
+191 /guildaforum
+192 Item para composição deve ser pelo menos +9.
+193 É necessário equipar a Pedra do Sábio.
+194 Os ingredientes para compor precisam ser itens ao menos +7.
+195 Aumento de %d%% na Taxa de Drop.
+196 Dano de Perfuração.
+197 Aumento de %d%% de Experiência.
+198 Absorver Dano.
+199 http://149.56.33.227/guilds/img_guilds/
+200 Ir para o Servidor Principal?
+201 %s' foi movido para o Servidor Principal.
+202 Existe o mesmo nome no Servidor Principal.
+203 Você já possui 4 personagens no Servidor Principal. 
+204 Erro desconhecido.
+205 Este usuário já está conectado no Principal 
+206 Enviando pedido ao servidor.
+207 A taxa de transferência é de %d Bronze.
+208 Ir para '%s'?
+209 Reino de Noatun
+210 Campo fora do Castelo de Noatun
+211 Campo Azran
+212 Dungeon
+213 Campo Armia
+214 Dungeon 1º Andar
+215 Dungeon 2º Andar
+216 Dungeon 3º Andar
+217 Assistir a Guerra entre Guildas.
+218 Submundo
+219 Submundo 1º Andar
+220 Submundo 2º Andar
+221 Deseja realizar a Aliança entre as Guildas?
+222 Será transferido para a cidade após %d segundos.
+223 Será teleportado após %d segundos.
+224 O Jogo será finalizado após %d segundos.
+225 Será enviado para a tela de seleção de personagem após %d segundos.
+226 Mensagem enviada pelo jogador %s.
+227 Deseja Ressuscitar?
+228 Aceita ser convocado por %s?
+229 Você aceita?
+230 1 2 3 4 5 
+231 Gasto de Mana: Total
+232 Modo Correr Automático
+233 Deseja compor a Pedra da Alma?
+234 Transportar
+235 Possível conectar apenas no Servidor de Teste.
+236 Possível conectar apenas nos Servidores Oficiais.
+237 Informação
+238 Confirmar
+239 Cancelar
+240 https://www.wydarch.com.br
+241 Pergunte ao Mestre de Skills  componha Sephiroth e traga para mim.
+242 Aprender Arma
+243 Confiança
+244 Trans
+245 Espada Mágica
+246 Aprender Arma
+247 Magia Branca
+248 Magia Negra
+249 Magia Especial
+250 Aprender Arma
+251 Elemental
+252 Evocação
+253 Natureza
+254 Aprender Arma
+255 Sobrevivência
+256 Troca
+257 Captura
+258 É necessário o convite para entrar no Cubo da Maldade.
+259 Guilda
+260 Quiz
+261 É necessário equipar pedras refinadas.
+262 Os dois items para compor precisam possuir o mesmo nome.
+263 https://myaccount.vibrant.games/new-account-registration
+264 Valor de venda_%d_Bronze
+265 Complete os números.
+266 Você já escolheu este número.
+267 Número do Loto
+268 É o Loto da semana %d.
+269 https://vibrant.games/vibrantmoney/purchase
+270 Sair
+271 A loja não é exibida em Baixa Resolução.
+272 São necessárias 4 unidades da Pedra da Luz.
+273 Coloque os itens exclusivos para Archs.
+274 Coloque os itens necessários para a composição.
+275 Coloque items da linha Anã  Conjuradora  Aeon  Natureza ou superior.
+276 Parte inadequada.
+277 Coloque as jóias.
+278 Necessita de mais espaço no inventário.
+279 https://www.wydarch.com.br
+280 Entrada Permitida.
+281 Entrada NÃO Permitida.
+282 %d centenas de milhões
+283 %d0 000
+284 Bronze
+285 Utilize após remover Ovos ou montarias.
+286 Para utilizar o Retorno da Habilidade  fale com o Mestre de Habilidade.
+287 2
+288 5
+289 Deseja expulsar o %s do grupo?
+290 Servidor exclusivo para maiores de 18 anos.
+291 %d Dia(s)
+292 %d Horas(s)
+293 %d Min(s)
+294 monstro
+295 Para compor um item  deve utilizar um item +9 ou superior.
+296 Mês %d
+297 Ano %d
+298 Hora %d
+299 Validade
+300 100 milhões de Experiência serão descontados. Deseja prosseguir?
+301 Campo Nippleheim
+302 Deve equipar o item Ancient
+303 Item Inadequado.
+304 C. POINT %14d / %d%%
+305 %d C.POINT foram reduzidos.
+306 Um item composto pode ser composto novamente.
+307 Nova Quest
+308 Poderá visualizar os efeitos da combinação estimada através da janela de previsão.
+309 Impossível de trocar ou comercializar o item.
+310 Localização do Portal [Armia  Azran]
+311 Localização do Portal [Submundo]
+312 Localização do Portal [Portão do Inferno]
+313 Localização do Portal [Deserto de Kult]
+314 Localização do Portal [Kefra]
+315 Localização do Portal [Nipleheim]
+316 Necessita da Barra de Prata (1Bi)
+317 É necessário o Pergaminho Selado.
+318 É necessário a Poeira de Lactolerium.
+319 Deseja realmente compor?
+320 É necessário a Pedra Espiritual.
+321 Karden
+322 Dungeon Abandonado
+323 TK-TK
+324 TK-FO
+325 TK-BM
+326 TK-HT
+327 FO-TK
+328 FO-FO
+329 FO-BM
+330 FO-HT
+331 BM-TK
+332 BM-FO
+333 BM-BM
+334 BM-HT
+335 HT-TR
+336 HT-FO
+337 HT-BM
+338 HT-HT
+339 Por favor insira o nome do personagem utilizando letras ou números.
+340 Não pode ser vendido.
+341 https://www.wydarch.com.br
+342 '%s'
+343 Deseja realmente vender o item?
+344 Longo tempo de uso de jogos pode ser prejudicial a saúde.
+345 Descanse durante os intervalos de seu jogo.
+346 Passaram-se %d horas.
+347 Passaram-se %d horas. Faça um descanso breve antes de continuar.
+348 Serão reduzidos 100 Pontos PK. Deseja prosseguir com a Quest?
+349 Insira o nome do personagem.
+350 Você deseja travar seu personagem?
+351 Contador do jogo
+352 Data do jogo
+353 Placar do jogo
+354 Coloque a Letra Rúnica ou Poeira de Lactolerium a ser combinada.
+355 Custo da Combinação
+356 Prosseguir para a segunda mudança de Classe?
+357 A 8ª Skill é necessária para a utilização desta Skill.
+358 A Quest Descoberta dos 4 cristais esta em andamento.
+359 Você tem que equipar itens normais.
+360 Você precisa equipar a Essência do Poder Mágico. 
+361 Você precisa equipar o mesmo tipo de jóia.
+362 Você quer se registrar como membro da Guilda %s?
+363 Digite o nome do Líder da Guilda.
+364 Esse usuário já entrou na Guilda.
+365 Esse usuário já entrou em uma outra Guilda.
+366 Esse usuário já é Chefe de Guilda.
+367 Esse jogador ainda não faz parte de nenhuma guilda.
+368 Você tem que equipar montarias normais.
+369 A montaria tem que estar morta.
+370 Não pode criar Guilda.
+371 Não pode criar Sub-Guilda.
+372 Não pode sair da Guilda.
+373 Não pode transferir Guilda.
+374 Qual canal deseja declarar Guerra?
+375 Qual canal deseja recusar o pedido de Guerra?
+376 Skill não permitida para registrar.
+377 149.56.33.227/guilds/img_guilds/
+378 Rota de Viagem
+379 Local de Viagem
+380 Coordenada de Viagem
+381 Custo da Utilização
+382 [Nome do Campo]
+383 Localização do Portal
+384 Coordenada do Portal
+385 Mileage : %d
+386 criar
+387 transferir
+388 expulsar
+389 gritar
+390 sitguerra
+391 fimcidadao
+392 Já se passaram %d horas desde o seu Login.
+393 Após sair do jogo  procure descansar ou praticar esportes.
+394 Você está conectado por um tempo alcançando um OverTime.
+395 A partir de agora receberá apenas 50% de chance de taxa.
+396 Para a sua saúde  recomendamos que saia do jogo e descanse por 1 hora.
+397 Procure fazer outras atividades mais saudáveis.
+398 Você está conectado por um tempo  ultrapassando OverTime.
+399 Após sair do jogo  procure descansar.
+400 Caso continue jogando  poderá prejudicar a sua saúde.
+401 A taxa foi reduzida em 0% através da OverTime
+402 Para jogar normalmente  permaneça algumas horas desconectado.
+403 https://www.wydarch.com.br
+404 Deseja se tornar um Cidadão deste Canal?
+405 Insira sua senha.
+406 -
+407 Quando desafiar Guerra entre Guildas  Fama será reduzida  deseja continuar?
+408 Quantos deseja separar?
+409 Quantidade incorreta.
+410 Ingredientes de Amunra são necessários.
+411 Fama da Guilda foi reduzida  drop aumentará em 10%.
+412 Itens insuficientes.
+413 Quantidade Insuficiente.
+414 BRONZE insuficiente.
+415 Level incorreto.
+416 Classe Inadequada.
+417 Por ordem de chegada:
+418 Limite de Level:
+419 Missão de CLasse:
+420 Mortal
+421 Arch
+422 Celestial
+423 BRONZE necessário: 
+424 Fama necessária:
+425 Recompensa: 
+426 Peça
+427 Preço de Recompensa: 
+428 Recompensa de Experiência: 
+429 Opção de Cópia
+430 Valor de Refinação
+431 Aumento
+432 Jóia
+433 Item
+434 Escolha uma Item disponível
+435 Fama
+436 Guild Fame
+437 Fama da Guilda foi reduzida  drop aumentará em 10%.
+438 %s' é necessário.
+439 Ataque PvP : %d.%d%%
+440 Defesa PvP : %d.%d%%
+441 Mais que Pedra Amunra +9
+446 Ligar
+447 Desligar
+448 Sussurrar: 
+449 Chat de Cidadão :
+450 Chat de Guilda / convidar :
+451 Chat de Reino :
+452 Chat Normal :
+453 Sapphire 
+454 Item acima de +9
+455 Runas
+456 Lactolerium
+457 Acessório acima de +9
+458 Pedra Espiritual acima de +9
+459 Selo Mágico
+460 Refinação Abençoada
+461 Jóia
+462 Pedra da Luz
+463 Item Arch acima de +9
+464 Item acima de 
+465 Pedra Espiritual
+466 Item selado acima de +9
+467 Item Arch +15
+468 Jóia da Escuridão/Pedra Lunar
+469 Pergaminho Selado
+470 Selo do Guerreiro
+471 Pedra Espiritual +9
+472 Item acima de +11
+473 secret stone
+474 Lactolerium / Pingente
+475 Pedra Secreta/ Refinação Abençoada
+476 Modo Automático HP/MP(%d%%) / Montaria(%d%%) 
+477 Modo Automático Montaria Off
+478 Modo Automático Montaria %d%%
+479 Modo Automático Recuperação de HP/MP Off
+480 Modo Automático Recuperação de HP/MP %d%%
+481 Veneno
+482 Montaria
+483 Aumento de Dano PvP
+484 Traje de Montaria
+485 Campo de Guerra de Reino
+486 Preço de Custo : %d
+487 fama : %d
+488 Oriharucon
+489 Aumento de Defesa PvP
+490 Runa
+491 Aumento de Dano Crítico
+492 Aumento de Curas
+493 Roubo de Vida
+494 Delay de Skills (-)
+495 Índice de Precisão
+496 Hekalotia
+497 Akelonia
+498 Andarilho
+499 Aventureiro
+500 Não possui
+501 Evolução necessária
+502 Roubo de Vida
+503 Clique com o botão direito para ativar o item
+504 Expira após a validade informada
+505 Visibilidade desativada
+506 Notificação de mortes
+507 Clique com o botão direito para ativar o item
+508 Item inválido. Contate a administração.
+509 Conta acessada em outro dispositivo. Desconexão em %d
+510 Índice de Precisão
+511 Skins ativadas
+512 Temporizador
+513 Duelo: %s
+514 Guilda x Guilda
+515 Quest: Pesadelo
+516 %s NPC's vivos. Restam: %d:%02d
+517 Quest: Carta de Duelo
+518 Monstros vivos: %d / %d
+519 Tempo para iniciar: %d:%02d
+520 Tempo restante: %d:%02d
+521 %s montros vivos. Restam %d:%02d
+522 Quest: Zona da Água (Nível %s)
+523 Sem monstros vivos. Restam %d:%02d
+524 PvP Premium
+525 %s dominando. Restam %d:%02d
+526 Quest: Coliseu
+527 Quest: Pista de Runas
+528 Deseja tornar %s líder do grupo?
+529 A próxima horda virá em %d:%02d
+530 Retornará em %d:%02d
+1000 Composições
+1001 Conversar
+1002 Informações
+1003 Posso lhe ajudar com composições incríveis  você deveria conferir
+1004 O povoado de Erion luta pela conquista de maiores territórios
+1005 Deve possuir nível %s ou superior
+1006 Disponével apenas nas evoluções %s
+1007 Deve trazer-me o %item %s (x%s)
+1008 Deve possuir o item %s equipado
+1009 Ainda não recebeu esta quest  guerreiro
+1010 Loja
+1011 Vá e salve-nos  guerreiro
+1012 Estou com Fome  queria um frango  já é hora do almoço
+1013 Boatos que os Guardas estavam buscando aumentar o nivél de suas armas
+1014 Talvez se você levar algo para eles ficarem mais fortes te ajudem
+1015 Deve possuir nível %s ou inferior
+1016 Deve possuir nível entre %s e %s
+1017 Aceitar Quest
+1018 Ei você o que está olhando?
+1019 Bem  já que você está tão desocupado assim preciso que me faça um pequeno favor
+1020 Eu preciso ir ajudar meu filho que está lutando contra aqueles monstros
+1021 Mas eu já sou tão velho que não conseguiria ir até lá lutar
+1022 Será que você faria isso por mim?
+1023 Só ir na coordenada X:2446 Y:1599
+1024 Clique em "Aceitar Quest" para aceitar!
+1025 A séculos que estou preso neste mundo ridiculo  após a derrota para A Guerreira 
+1026 não consigo voltar ao meu lugar...Mas minha vingança agora vem de outra forma 
+1027 irei ajudar aqueles que querem Caos a devastar este mundo!
+1028 Me entregue Frag e assim poderei te ajudar te entregando Fama.
+1029 Minhas ancestrais me ensinaram  que estamos conectados com a natureza  
+1030 as plantas  os elementos  os animais.Dedico a minha vida a essa causa 
+1031 a mostrar as pessoas que os seres da natureza não estão aqui para nos servir 
+1032 e sim para lutar ao nosso lado  junto conosco.

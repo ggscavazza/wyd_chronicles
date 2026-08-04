@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GSA_SDK Version="1.0.2.0">
+	<APPLICATION>
+		<DISPLAYNAME Value="With Your Destiny - Vibrant Games" />
+		<VERSIONNAME Value="1.0.0.0" />
+		<INSTALLPATH Value="C:\Users\jgcb_\Desktop\Myth\GitHub\MythClientFiles\Season4\" />
+		<CONFIGPATH Value="C:\Users\jgcb_\Desktop\Myth\GitHub\MythClientFiles\Season4\" />
+		<EXECUTABLE Value="WithYourDestinyx64.exe" />
+		<EXECCMD Value="㩃啜敳獲橜捧形䑜獥瑫灯䵜瑹屨楇䡴扵䵜瑹䍨楬湥䙴汩獥卜慥潳㑮坜瑩奨畯䑲獥楴祮㙸⸴硥e" />
+	</APPLICATION>
+	<GAMESETTINGS>
+		<RESOLUTION Width="800" Height="600" RefreshRate="60">
+			<ENUM Width="800" Height="600" RefreshRate="60" />
+			<ENUM Width="1024" Height="768" RefreshRate="60" />
+			<ENUM Width="1366" Height="768" RefreshRate="60" />
+			<ENUM Width="1920" Height="1080" RefreshRate="60" />
+		</RESOLUTION>
+	</GAMESETTINGS>
+</GSA_SDK>

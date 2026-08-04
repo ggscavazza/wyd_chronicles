@@ -1,0 +1,14 @@
+[Mensagem] 1
+
+Time 10
+Text Bem vindo ao ambiente de teste do WYD II
+
+[Mensagem] 2
+
+Time 10
+Text Bugs encontrados devem ser reportados via Discord
+
+[Mensagem] 3
+
+Time 10
+Text Estamos trabalhando na correção dos erros encontrados

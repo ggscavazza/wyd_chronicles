@@ -1,0 +1,15 @@
+[Notify] 1
+
+Status 1
+
+Start 27/07/20 07:00
+End 27/11/20 11:00
+Message BETA SEASON 4 - O MELHOR 
+
+[Notify] 2
+
+Status 1
+
+Start 27/07/20 07:00
+End 27/11/20 11:00
+Message Novidades no site, consulte!

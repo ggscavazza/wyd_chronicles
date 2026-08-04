@@ -1,0 +1,66 @@
+[Status] 0
+[EventIndex] 10
+
+[Reward-1] 3991.106.30.97.1.0.0
+[Reward-2] 2269.0.0.0.0.0.0
+[Reward-3] 3995.106.30.97.1.0.0
+
+[Evento] 1
+
+[Start] 31/04/2020 13:00
+[End] 31/12/2020 21:00
+[MaxFinish] 1
+
+[Indice] 1
+Tipo 27
+RequestName ElfoRei
+RequestNum 10
+
+[Indice] 2
+Tipo 27
+RequestName Rainha Bruxa
+RequestNum 15
+
+[Indice] 3
+Tipo 35
+RequestNum 3
+
+[Evento] 2
+
+[Start] 31/12/2019 13:00
+[End] 31/12/2019 21:00
+[MaxFinish] 3
+
+[Indice] 1
+Tipo 3
+RequestName Fantasmaa
+RequestNum 3
+
+[Indice] 2
+Tipo 35
+RequestNum 5
+
+[Indice] 3
+Tipo 6
+RequestConf 3
+RequestNum 10
+
+[Evento] 3
+
+[Start] 31/12/2019 13:00
+[End] 31/12/2019 21:00
+[MaxFinish] 1
+
+[Indice] 1
+Tipo 6
+RequestConf 5
+RequestNum 3
+
+[Indice] 2
+Tipo 27
+RequestName Rainha Bruxa
+RequestNum 50
+
+[Indice] 3
+Tipo 35
+RequestNum 10

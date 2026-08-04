@@ -1,0 +1,180 @@
+b37b4a Usar Skill
+8d8379 
+8d8379 Abra a janela de Skill (Atalho tecla S) e escolha a skill que queira usar
+8d8379 no lado direito inferior da tela e registre no "Slot rápido de skill". Use 
+8d8379 as teclas de 1 a 10 ou F1 a F10 para selecionar a skill e o botão direito 
+8d8379 do mouse para lançar a skill no alvo desejado.
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+b37b4a F1 - F10 ou 1 a 10
+8d8379 Usa a Skill do Slot de Skill rápida
+8d8379 
+b37b4a Shift + 1 - 10 ou Shift + F1 - F10
+8d8379 Registra a skill no Slot de Skill rápida
+8d8379 
+b37b4a -
+8d8379 Controla a quant. de skill no auto ataque
+8d8379 É possível ter de 2 a 10
+8d8379 
+b37b4a Q
+8d8379 Usa poção de vida (HP)
+8d8379 
+b37b4a W
+8d8379 Usa poção de mana (MP)
+8d8379 
+b37b4a E
+8d8379 Usa poção kappa
+8d8379 
+b37b4a V
+8d8379 Dá comida para Montaria
+8d8379 
+b37b4a F11
+8d8379 Usa pergaminho de volta
+8d8379 
+b37b4a Print Scrn SysRq
+8d8379 Tira screenshot, é guardado na pasta do jogo.
+8d8379 
+b37b4a C
+8d8379 Abre a janela de personagem
+8d8379 
+b37b4a I
+8d8379 Abre o inventário
+8d8379 
+b37b4a S
+8d8379 Abre a janela de Skill
+8d8379 
+b37b4a P
+8d8379 Abre a janela de grupo
+8d8379 
+b37b4a M
+8d8379 Abre o minimapa
+8d8379 
+b37b4a K
+8d8379 Modo PvP - liga/desliga
+8d8379 
+b37b4a N
+8d8379 Exibe nome dos personagens liga/desliga
+8d8379 
+b37b4a Tab
+8d8379 Muda a posição da câmera
+8d8379 
+b37b4a Enter
+8d8379 Usar chat
+8d8379 
+b37b4a +
+8d8379 Controla o tamanho da janela de chat
+8d8379 
+b37b4a H
+8d8379 Abrir janela de ajuda
+b37b4a aa
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 
+8d8379 

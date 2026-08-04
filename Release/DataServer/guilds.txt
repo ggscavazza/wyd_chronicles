@@ -1,0 +1,13 @@
+#id, fame, kingdom, citizen, name, sub1, sub2, sub3
+0, 1, 1, 1, 1, 1, 1, 1
+1, 0, 8, 2, 0, Teste123, , , 
+2, 0, 8, 2, 0, GUILD123, , , 
+3, 0, 7, 2, 0, GUILDTTT, , , 
+4, 0, 7, 2, 0, TESTE736, , , 
+5, 0, 8, 2, 0, TESTEFFF, , , 
+6, 0, 7, 2, 0, ShariTropinha, , , 
+7, 0, 7, 1, 0, REDLIXOSOS, , , 
+8, 0, 8, 1, 0, guild Season4, , , 
+9, 0, 7, 1, 0, osLokko, , , 
+10, 0, 8, 2, 0, BLACKDEVIL, , , 
+11, 0, 8, 1, 0, ATACKonTITAN, , , 
