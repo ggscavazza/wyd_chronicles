@@ -7,23 +7,23 @@
 
 ## 🌌 Prólogo: A Era da Harmonia Primordial
 
-Nos primórdios dos tempos, o continente de **Kersef** foi esculpido pela **Entidade Criadora (*Aethel*)** como o coração do multiverso. Para garantir o equilíbrio cósmico, Aethel forjou **Quatro Selos Ancestrais**, confiando a guarda de cada um a **Quatro Grandes Guardiões**, liderados pelo lendário herói mortal **Kaelen, o Primogênito**:
+Nos primórdios dos tempos, o continente de **Kersef** foi esculpido pela **Entidade Criadora (*Aethel*)** como o coração do multiverso. Para garantir o equilíbrio cósmico, Aethel forjou **Quatro Selos Ancestrais**, confiando a guarda e proteção de cada um a **Quatro Grandes Guardiões**, liderados pelo lendário herói **Kaelen, o Primogênito**:
 
-* ⚔️ **O Selo da Coragem**: Custodiado por **Kaeror, o Bastião de Aço** *(Mestre TransKnight)*. Representa a honra, o aço temperado, a força física e a proteção inabalável dos destemidos.
-* 🔮 **O Selo da Sabedoria**: Custodiado por **Lysandra, a Tecelã Elemental** *(Arquimaga Foema)*. Representa a maestria dos elementos arcanos, a cura divina e os segredos do universo.
-* 🐾 **O Selo da Natureza**: Custodiado por **Vorn, o Voraz** *(Lorde BeastMaster)*. Representa a simbiose com as feras primordiais, a transmutação e a força vital das florestas.
-* 🏹 **O Selo da Precisão**: Custodiado por **Sylvia, a Flecha do Crepúsculo** *(Caçadora Hunter)*. Representa a agilidade dos ventos, a precisão milimétrica e a visão que enxerga através dos planos.
+* ⚔️ **O Selo da Coragem**: Protegido por **Kaeror, o Bastião de Aço** *(Mestre TransKnight)*. Representa a honra, o aço temperado, a força física e a proteção inabalável dos destemidos.
+* 🔮 **O Selo da Sabedoria**: Protegido por **Lysandra, a Tecelã Elemental** *(Arquimaga Foema)*. Representa a maestria dos elementos arcanos, a cura divina e os segredos do universo.
+* 🐾 **O Selo da Natureza**: Protegido por **Vorn, o Voraz** *(Lorde BeastMaster)*. Representa a simbiose com as feras primordiais, a transmutação e a força vital das florestas.
+* 🏹 **O Selo da Precisão**: Protegido por **Sylvia, a Flecha do Crepúsculo** *(Caçadora Hunter)*. Representa a agilidade dos ventos, a precisão milimétrica e a visão que enxerga através dos planos.
 
 ---
 
 ## 🌑 O Vilão Divino: Vaelgor, o Arconte do Vazio
 
-A paz reinou até que **Vaelgor**, um arconte divino menor tomada pela inveja da criação de Aethel, tentou reivindicar a energia vital de Kersef. Derrotado e banido para as profundezas abissais de **Niflheim**, Vaelgor jurou retornar.
+A paz reinou até que **Vaelgor**, um arconte divino menor tomado pela inveja da criação de Aethel, tentou reivindicar a energia vital de Kersef. Derrotado e banido para as profundezas abissais de **Niflheim**, Vaelgor jurou retornar.
 
 Na **Noite do Grande Eclipse**, Vaelgor utilizou as sombras de Niflheim para rachar os Selos Ancestrais. Em um ato supremo de sacrifício, Kaelen e os Quatro Guardiões usaram o restante da energia mágica de Kersef para conter a invasão total, resultando no **Selamento Temporário de Emergência**:
 1. **Montarias Supremas** (como os Tigres de Fogo e os nobres Cygnus) foram confinadas no plano etéreo. Apenas criaturas terrestres leais — até os bravos **Cavalos Andaluzes** — permaneceram no plano físico.
 2. **O Poder dos Guerreiros** foi limitado à classe **Mortal** (até o nível 400) e às primeiras provações da alma na classe **Arch**.
-3. **Equipamentos e Refinações** foram limitados a refinações controladas (+9 máximo e armaduras Anct básicas).
+3. **Equipamentos e Refinações** foram limitados a refinações controladas (+9 máximo e armas Anct).
 
 ---
 
@@ -113,5 +113,5 @@ Para quebrar a névoa de Vaelgor, a comunidade de Aventureiros precisará entreg
 ---
 
 ## 📌 Status da Issue #1
-- **Lore Atualizada**: [docs/LORE.md](file:///d:/SERVIDOR%20WYD/MYTH/docs/LORE.md)
+- **Lore Oficial no GitHub**: [docs/LORE.md](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/LORE.md)
 - **Status**: Concluída e comitada no repositório.
