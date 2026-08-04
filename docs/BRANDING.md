@@ -12,6 +12,13 @@ Este documento define as diretrizes visuais, paleta de cores, tipografia e asset
 ### 2. Banner Oficial (`assets/branding/banner.jpg`)
 ![Banner WYD Chronicles](https://raw.githubusercontent.com/ggscavazza/wyd_chronicles/main/assets/branding/banner.jpg)
 
+> **Especificação dos Personagens do Banner (Alinhado à Lore Clássica do WYD)**:
+> - **Kaelen, o Primogênito**: Posicionado à frente liderando os heróis com sua espada radiante.
+> - **TransKnight (TK)**: Guerreiro Masculino em armadura pesada.
+> - **BeastMaster (BM)**: Xamã/Druida Masculino envolto pela aura selvagem.
+> - **Foema (FM)**: Maga/Sacerdotisa Feminina empunhando o cajado arcano.
+> - **Hunter (HT)**: Caçadora/Arqueira Feminina com o arco dos ventos.
+
 ---
 
 ## 🎨 Paleta de Cores Oficial
