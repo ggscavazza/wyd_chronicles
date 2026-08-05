@@ -15,7 +15,7 @@ MaxUnit -1
 Promo 0
 
 [Slot] 3
-Item 3314.61.10
+// [REMOVIDO FASE 1] Item 3314.61.10
 Price 1 100
 MaxUnit -1
 Promo 0
