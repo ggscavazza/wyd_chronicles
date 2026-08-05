@@ -1,13 +1,16 @@
 # PLAN.md - Plano de Implementação Técnica (Servidor, Infraestrutura & Cross-Platform)
 
-> **Nota**: Este arquivo salva o planejamento técnico inicial (hospedagem VPS Linux, suporte desktop Windows/Linux/macOS e roadmap mobile). Retornaremos a ele após a definição da identidade, lore, nome, checkpoints de conteúdo e tarefas do GitHub.
+> **Decisão Estratégica de Arquitetura**:
+> Adotamos o **Modelo Híbrido por Fases**:
+> - **Servidor C++ Nativo (Fase 1)**: Mantemos o servidor de alta performance (`GameServer.exe` e `DataServer.exe`) rodando na VPS Linux via Wine + XVFB + MariaDB nativo para um lançamento rápido, estável e com 100% da física/matemática do WYD original.
+> - **Cliente Unity Multiplataforma (Fase 3)**: Desenvolvemos o novo cliente gráfico em **Unity (C#)** consumindo os pacotes TCP (porta `8281`) do mesmo servidor C++, viabilizando builds nativas para Windows, Mac, Linux, Android e iOS com contas compartilhadas!
 
 ---
 
-## 1. Infraestrutura e VPS Linux (Fase 1)
+## 1. Infraestrutura e VPS Linux (Fase 1 - Lançamento)
 - **Banco de Dados**: MariaDB / MySQL 5.7+ nativo no Linux (portas 3306/3316, databases `lok` e `log_db`).
 - **Executáveis do Servidor**: Executados em Linux via **Wine + XVFB** (display virtual headless) para `DataServer.exe`, `LogServer.exe` e `GameServer.exe`.
-- **Automação**:
+- **Automação de Infraestrutura**:
   - `setup_vps.sh` (Instalação de dependências e regras de UFW).
   - `start_server.sh` (Inicialização automatizada).
   - `stop_server.sh` (Encerramento dos serviços).
@@ -18,7 +21,8 @@
 - **Linux**: Launcher via Wine/Proton + DXVK (`play_linux.sh`).
 - **macOS**: Execução via Whisky / CrossOver / MoltenVK (Metal translation).
 
-## 3. Evolução Mobile (Fase 3)
-- **Engines**: Unity 2022/2023 LTS ou Godot 4.x.
-- **Protocolo**: Conexão Socket TCP C# direta na porta `8281` do `GameServer`.
-- **Persistência**: Compartilhamento total de contas, personagens e progresso com o desktop através do mesmo MySQL/DataServer.
+## 3. Cliente Moderno Unity & Mobile Cross-Play (Fase 3)
+- **Engine**: Unity 2022/2023 LTS (C#).
+- **Rede & Protocolo**: Conexão Socket TCP C# na porta `8281` do `GameServer.exe`.
+- **Assets 3D**: Conversão de Meshes (`.vgo` $\rightarrow$ `.fbx`), texturas e mapas para Unity.
+- **Persistência**: Compartilhamento total de contas, personagens e progresso com o desktop através do mesmo banco MariaDB/DataServer.
