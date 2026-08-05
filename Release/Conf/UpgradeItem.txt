@@ -1,7 +1,7 @@
-ï»¿# Brinco +10
+# Brinco +10
 [Comp] 1
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 10
 Chances 35 50
@@ -20,7 +20,7 @@ Fail SetEff 43 0
 # Brinco +11
 [Comp] 2
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 2
 Chances 20 40
@@ -39,7 +39,7 @@ Fail SetEff 43 0
 # Refinar Amuleto Celeste
 [Comp] 3
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 3
 Chances 20 40
@@ -55,10 +55,10 @@ RewExp 100
 RewEff Add 43 1
 Fail AddEff 43 -1
 
-# Evoluir LendÃ¡rio Nv. 2
+# Evoluir Lendário Nv. 2
 [Comp] 4
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 3
 Chances 20 40
@@ -75,10 +75,10 @@ RewItem AddItemId 1
 RewEff Set 43 0
 Fail SetEff 43 0
 
-# Evoluir LendÃ¡rio Nv. 3
+# Evoluir Lendário Nv. 3
 [Comp] 5
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 3
 Chances 20 40
@@ -95,10 +95,10 @@ RewItem AddItemId 1
 RewEff Set 43 0
 Fail SetEff 43 0
 
-# Evoluir LendÃ¡rio Nv. 4
+# Evoluir Lendário Nv. 4
 [Comp] 6
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 3
 Chances 20 40
@@ -115,10 +115,10 @@ RewItem AddItemId 1
 RewEff Set 43 0
 Fail SetEff 43 0
 
-# Evoluir LendÃ¡rio Nv. 5
+# Evoluir Lendário Nv. 5
 [Comp] 7
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 3
 Chances 20 40
@@ -138,7 +138,7 @@ Fail SetEff 43 0
 # Refinar Cythera Rubi
 [Comp] 8
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 1
 ReqMoney 1 3
 Chances 20 40
@@ -156,7 +156,7 @@ Fail AddEff 43 -1
 # Aprimorar Equipamento (Defesa)
 [Comp] 9
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 3
 ReqMoney 1 1
 Chances 30 60
@@ -179,7 +179,7 @@ Fail ScaleAdd 3 -1
 # Aprimorar Equipamento (Dano)
 [Comp] 10
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 3
 ReqMoney 1 1
 Chances 30 60
@@ -199,10 +199,10 @@ RewExp 10
 RewEff ScaleAdd 2 1
 Fail ScaleAdd 2 -1
 
-# Aprimorar Equipamento (Atq. MÃ¡gico)
+# Aprimorar Equipamento (Atq. Mágico)
 [Comp] 11
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 3
 ReqMoney 1 1
 Chances 30 60
@@ -222,10 +222,10 @@ RewExp 10
 RewEff ScaleAdd 60 1
 Fail ScaleAdd 60 -1
 
-# Aprimorar Equipamento (CrÃ­tico)
+# Aprimorar Equipamento (Crítico)
 [Comp] 12
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 3
 ReqMoney 1 1
 Chances 30 60
@@ -248,7 +248,7 @@ Fail ScaleAdd 71 -1
 # Aprimorar Arma (Dano)
 [Comp] 13
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 3
 ReqMoney 1 1
 Chances 30 60
@@ -268,10 +268,10 @@ RewExp 10
 RewEff ScaleAdd 2 1
 Fail ScaleAdd 2 -1
 
-# Aprimorar Arma (Atq. MÃ¡gico)
+# Aprimorar Arma (Atq. Mágico)
 [Comp] 14
 
-Status 1
+Status 0 // [FASE 1 BLOQUEADO] Desativado composições superiores a +9
 ReqLevel 3
 ReqMoney 1 1
 Chances 30 60
