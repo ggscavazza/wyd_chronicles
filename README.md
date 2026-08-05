@@ -46,6 +46,7 @@
 * `docs/LORE.md`: [Lore Oficial: O Eclipse dos Quatro Selos](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/LORE.md)
 * `docs/BRANDING.md`: [Guia de Identidade Visual e Assets](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/BRANDING.md)
 * `docs/RULES.md`: [Guia de Regras do Servidor & Política Antifraude](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/RULES.md)
+* `docs/ITEM_STACKING.md`: [Guia de Agrupamento de Itens (Autostack 120x)](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/ITEM_STACKING.md)
 * `PLAN.md`: Plano de infraestrutura técnica (VPS Linux, Multiplataforma e Mobile).
 * `ISSUES_ROADMAP.md`: Mapeamento de Macro-Ideias e Micro-Tarefas para o GitHub.
 
