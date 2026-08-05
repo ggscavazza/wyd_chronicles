@@ -1592,7 +1592,7 @@ Slot 35: Pergaminho_da_Água(A)LV1 (3182 61 10 0 0 0 0)
 Slot 54: Pesadelo_(A/Grupo) (3326 0 0 0 0 0 0)
 Slot 55: Pesadelo_(M/Grupo) (3325 0 0 0 0 0 0)
 Slot 56: Baú_de_Experiência (4140 61 5 0 0 0 0)
-Slot 57: Frango_Assado (3314 61 5 0 0 0 0)
+// [FASE 1 - APENAS BOSS KEFRA/EVENTOS] Slot 57: Frango_Assado (3314 61 5 0 0 0 0)
 Slot 58: Fada_Vermelha(3dias) (3902 0 0 0 0 0 0)
 
 Mob: Copper_Dragon
