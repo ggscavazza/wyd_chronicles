@@ -19,7 +19,10 @@ Para manter uma comunidade saudável, justa e competitiva, todos os jogadores co
 ### 1.3 Conduta na Comunidade & Chat
 * ❌ Não serão toleradas ofensas discriminatórias (*racismo, homofobia, xenofobia, intolerância religiosa*), assédio, ameaças reais ou difamação.
 * ❌ É proibida a falsificação de identidade (se passar por membro da equipe de Gamemasters ou Administradores).
-* ❌ É proibida a divulgação de outros servidores privados no chat global ou privado do jogo.
+### 1.4 Regras Oficiais de Refinação na Fase 1
+* 🟢 **Refinação +0 até +6**: Utiliza **Poeira de Oriharukon (P.O)** com taxa normal, ou **Poeira de Lactolerium (P.L) com 100% de chance de sucesso** de +0 até +6.
+* 🟢 **Refinação +7 até +9**: Realizada **EXCLUSIVAMENTE com Poeira de Lactolerium (P.L)** para a passagem de **+6 para +7**, de **+7 para +8** e de **+8 para +9**.
+* 🛑 **Refinações +10 a +15 e Celestiais**: Desativadas durante a Fase 1 (O Despertar).
 
 ---
 
