@@ -51,7 +51,7 @@ QUEST17 ACTION-3 SPEECH Missao_Aceita:_Sobreviva_as_areias_de_Azran!
 // Recompensas Azran:
 // Aqua_Golem: XP + 5 Honras + Pergaminho Portal
 // Argos_Errante: XP + 100k Gold + 5 Honras + Resto_Lac (ID 420)
-// Arc_Orc_Trooper: XP + 7 Honras + Arma Classe C
+// Arc_Orc_Trooper: XP + 7 Honras + Armadura Classe D
 
 // ------------------------------------------------------------------------------
 // 4. Dungeons P1 e P2 (Lv 281~350)
@@ -62,10 +62,10 @@ QUEST17 ACTION-4 SPEECH Missao_Aceita:_Explore_as_profundezas!
 // Recompensas Dungeon:
 // Lich_Vatama: XP + 10 Honras + Resto_Lac (ID 420)
 // Aparicao: XP + 200k Gold + 10 Honras
-// Gargula_de_Pedra: XP + 12 Honras + Arma Classe C
+// Gargula_de_Pedra: XP + 12 Honras + Arma Classe D
 // Esqueleto: XP + 300k Gold + 15 Honras
 // Assass._Tauron: XP + 15 Honras + Poeira_Ori (ID 412)
-// Minotauro: XP + 20 Honras + Armadura Classe C/B
+// Minotauro: XP + 20 Honras + Armadura Classe D ou E
 
 // ------------------------------------------------------------------------------
 // 5. Submundo (Lv 351~400)

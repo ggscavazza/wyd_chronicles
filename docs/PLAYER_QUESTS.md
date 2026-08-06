@@ -25,22 +25,27 @@ O balanceamento das recompensas foi rigorosamente projetado para não desestabil
 ### 🏜️ Nível 201 ao 280 (Avançado) - Campo de Azran
 * **Aqua_Golem**: XP + 5 Moedas de Honra + Pergaminho do Portal
 * **Argos_Errante**: XP + 100.000 Gold + 5 Moedas de Honra + Resto de Lac (1 a 3 un)
-* **Arc_Orc_Trooper**: XP + 7 Moedas de Honra + Armadura Classe C aleatória (add baixo)
+* **Arc_Orc_Trooper**: XP + 7 Moedas de Honra + Armadura Classe D aleatória (add baixo)
 
 ### 🏛️ Nível 281 ao 320 (Avançado) - Dungeon Piso 1
 * **Lich_Vatama**: XP + 10 Moedas de Honra + Resto de Lac (2 a 4 un)
 * **Aparicao**: XP + 200.000 Gold + 10 Moedas de Honra
-* **Gargula_de_Pedra**: XP + 12 Moedas de Honra + Arma Classe C aleatória (add médio)
+* **Gargula_de_Pedra**: XP + 12 Moedas de Honra + Arma Classe D aleatória (add médio)
 
 ### 🕸️ Nível 321 ao 350 (Elite) - Dungeon Piso 2
 * **Esqueleto**: XP + 300.000 Gold + 15 Moedas de Honra
 * **Assassino Tauron**: XP + 15 Moedas de Honra + 1x Poeira de Oriharukon (completa)
-* **Minotauro**: XP + 20 Moedas de Honra + Armadura Classe C/B aleatória
+* **Minotauro**: XP + 20 Moedas de Honra + Armadura Classe D ou E aleatória
 
 ### 🌑 Nível 351 ao 400 (Desafio Arch) - Submundo
 * **Aranha_Inferno**: XP + 20 Moedas de Honra + Resto de Lac (3 un)
 * **Bruxo_Amaldiçoado**: XP + 500.000 Gold + 20 Moedas de Honra + 1x Poeira de Lactolerium (completa)
 * **Abyss_Demon**: XP + 25 Moedas de Honra + Baú de Aventureiro
+
+### 🎖️ Onde usar as Moedas de Honra?
+As moedas acumuladas podem ser gastas no **NPC de Recompensas da Guilda dos Aventureiros**, que permite:
+- Troca por itens valiosos do servidor.
+- Compra de entradas/passaportes para **zonas especiais de UP**.
 
 ---
 
@@ -53,6 +58,7 @@ O Quadro de Encomendas permite que jogadores utilizem seu Gold para terceirizar 
 1. **Cadastro da Encomenda (Contratante)**
    - O **Jogador A** vai ao Mural de Missões e registra um pedido. Exemplo: *"Preciso de 10 Restos de Ori"*.
    - O sistema exige que o Jogador A defina a recompensa, por exemplo: `5.000.000 Gold`.
+   - *Nota:* O sistema deve validar um **valor mínimo de acordo com o item solicitado** (ex: Restos de Ori não podem ser encomendados por menos de 100k cada) para evitar fraudes ou spam.
    - O valor de 5kk é **debitado do inventário do Jogador A** no ato do registro, ficando retido pelo sistema.
    - A missão é adicionada publicamente à lista do Quadro de Encomendas.
 
@@ -63,7 +69,7 @@ O Quadro de Encomendas permite que jogadores utilizem seu Gold para terceirizar 
 
 3. **Liquidação**
    - Os 10 Restos de Ori são transferidos (via correio/guarda-carga) para o Jogador A.
-   - O depósito de `5.000.000 Gold` retido pelo sistema é transferido para o Jogador B.
+   - O depósito de `5.000.000 Gold` retido pelo sistema é transferido para o Jogador B, **descontado da taxa de imposto do servidor** (ex: se a taxa for de 5%, o aventureiro recebe 4.750.000 Gold).
 
 ### Benefícios:
 * **Mercado Aquecido**: Quem tem dinheiro mas não tem tempo, pode comprar serviços. Quem tem tempo, pode vender seu "farm".
