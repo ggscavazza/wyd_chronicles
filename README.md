@@ -48,6 +48,7 @@
 * `docs/RULES.md`: [Guia de Regras do Servidor & Política Antifraude](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/RULES.md)
 * `docs/ITEM_STACKING.md`: [Guia de Agrupamento de Itens (Autostack 120x)](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/ITEM_STACKING.md)
 * `docs/GUILDA_AVENTUREIROS.md`: [Central da Guilda dos Aventureiros em Armia](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/GUILDA_AVENTUREIROS.md)
+* `docs/PLAYER_QUESTS.md`: [Sistema de Missões Diárias e Encomendas (Player Quests)](https://github.com/ggscavazza/wyd_chronicles/blob/main/docs/PLAYER_QUESTS.md)
 * `PLAN.md`: Plano de infraestrutura técnica (VPS Linux, Multiplataforma e Mobile).
 * `ISSUES_ROADMAP.md`: Mapeamento de Macro-Ideias e Micro-Tarefas para o GitHub.
 
