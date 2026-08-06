@@ -3749,3 +3749,17 @@ Slot 51: Pedra_do_Sábio (1774 0 0 0 0 0 0)
 
 Mob: Morlock_Mage
 Slot 0: [S]Caixa_Poção_de_Cura (33
+
+Mob: Rei_da_Nevoa
+Slot 0: [S]Bau_da_Nevoa (3314 0 0 0 0 0 0)
+Slot 1: [S]Bau_da_Nevoa (3314 0 0 0 0 0 0)
+Slot 2: [S]Bau_da_Nevoa (3314 0 0 0 0 0 0)
+Slot 10: Barra_de_Ouro(10_Mi) (624 0 0 0 0 0 0)
+Slot 11: Barra_de_Ouro(10_Mi) (624 0 0 0 0 0 0)
+Slot 20: Ovo_de_Cygnus (2314 0 0 0 0 0 0)
+Slot 30: Amago_de_Cygnus (2404 0 0 0 0 0 0)
+Slot 60: Poeira_de_Lactolerium (413 0 0 0 0 0 0)
+
+Mob: Lacaio_da_Nevoa
+Slot 0: Barra_de_Ouro(1_Mi) (623 0 0 0 0 0 0)
+Slot 5: Poeira_de_Oriharucon (412 0 0 0 0 0 0)
