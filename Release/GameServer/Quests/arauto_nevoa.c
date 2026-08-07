@@ -23,7 +23,7 @@ QUEST19 ACTION-1 SPEECH Que_os_Deuses_o_protejam_no_combate!
 
 // Lógica de Teleporte:
 // Remove 100.000 Gold do inventário.
-// Teleporta para X: 2480 Y: 2100 (Próximo à área do spawn do Rei da Névoa configurado no NPCGener).
+// Teleporta o jogador para as coordenadas onde o Lich Crunt King (Boss) apareceu.
 // Ativa gatilho visual ou sonoro (opcional).
 
 // ------------------------------------------------------------------------------

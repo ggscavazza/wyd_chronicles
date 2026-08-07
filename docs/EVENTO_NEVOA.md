@@ -1,39 +1,39 @@
 # Evento Invasão da Névoa (World Boss)
 
-A **Invasão da Névoa** é o evento de World Boss principal do WYD Chronicles. Desenvolvido para criar disputas em massa (GvG - Guild vs Guild e PvPvE), o evento atua como um catalisador para a economia de final de jogo e para o ranqueamento das guildas no servidor.
+A **Invasão da Névoa** é o evento de World Boss principal do WYD Chronicles. Desenvolvido para criar disputas em massa e engajar toda a comunidade, o evento atua como um catalisador para a economia de final de jogo e para a ascensão aos níveis Celestiais.
 
 ## 🌪️ Lore e Conceito
-A Névoa é uma anomalia mágica, remanescente direto das energias descontroladas dos Selos Ancestrais que um dia protegeram Kersef. Quando o equilíbrio é perturbado, bolsões dessa névoa se formam nas planícies ao redor das cidades.
-Dessa Névoa emerge o **Rei da Névoa**, um comandante abissal com HP colossal e uma horda de lacaios.
+A Névoa é uma anomalia mágica, remanescente direto das energias descontroladas dos Selos Ancestrais que um dia protegeram Kersef. Quando o equilíbrio é perturbado, bolsões dessa névoa se formam aleatoriamente pelos mapas do jogo.
+Dessa Névoa emerge o **Lich Crunt King**, um antigo comandante ressuscitado com poder incomensurável, disposto a aniquilar quem cruzar seu caminho.
 
 ## ⚔️ Mecânica do Evento
 
-1. **Avisos Globais:**
-   - 10 minutos antes do evento iniciar, mensagens globais no servidor avisam: *"Uma névoa densa se aproxima dos portões de Erion..."*.
-2. **O Spawn (Nascimento):**
-   - O Boss `Rei_da_Nevoa` aparece com dezenas de `Lacaio_da_Nevoa`.
-   - O sistema de spawn foi programado para acontecer em horários pré-determinados.
+1. **O Spawn Dinâmico:**
+   - O surgimento do **Lich Crunt King** é **aleatório** e ocorre apenas nos mapas abertos e principais (excluindo zonas que exigem entrada especial, como Pesadelo, Carta Duelo, Kefra, etc).
+2. **Avisos Globais:**
+   - O servidor anuncia globalmente: *"Uma névoa densa cobriu as terras e o Lich Crunt King despertou!"* (O mapa pode ou não ser revelado de imediato, forçando a busca ou uso do Arauto).
 3. **Teleporte (NPC Arauto da Névoa):**
-   - Em Armia, o NPC Arauto da Névoa é ativado e passa a teleportar os jogadores diretamente para o epicentro do combate (mediante um custo de Gold).
+   - O NPC Arauto da Névoa passa a teleportar os jogadores diretamente para o epicentro do combate (mediante um custo de Gold).
 4. **O Combate:**
-   - O mapa onde a invasão ocorre tem o PvP habilitado. As guildas deverão disputar quem causará mais dano e quem ficará vivo até o fim.
-   - O Boss tem uma defesa altíssima e magias em área.
+   - O Boss tem uma defesa altíssima e magias mortais em área, forçando a colaboração, enquanto guildas adversárias podem lutar entre si.
 
-## 🎁 Recompensas (Loot Global)
+## 🎁 Recompensas (Participação e Golpe Fatal)
 
-Quando o Rei da Névoa é derrotado, as recompensas não vão direto para o inventário do grupo que deu o último hit. Em vez disso, é ativado o **Drop Livre (FFA - Free For All)**.
-Centenas de itens valiosos caem no chão e qualquer jogador pode tentar coletar (estimulando o embate pós-morte do Boss).
+Diferente de drops que caem no chão (FFA), o evento adota um sistema híbrido mais justo:
 
-Os Drops incluem:
-- **Baú da Névoa**: Um contêiner que dá uma chance alta de obter Montarias raras (ex: Cygnus, Tigre de Fogo, dependendo do Checkpoint atual).
-- **Âmagos Supremos**
-- **Barras de Ouro (5kk, 10kk, 50kk)**
-- **Armas Celestiais Aleatórias** (com slots de jóias).
+### Prêmio de Participação
+- **Requisito:** Estar vivo e presente no mesmo mapa do boss no momento exato de sua morte.
+- **Recompensa:** Todos recebem uma recompensa base direto no inventário (Ex: Caixa de XP, Gold, ou Pacote de Âmagos).
+
+### Prêmio do Golpe Fatal (Last Hit)
+- **Requisito:** Ser o jogador que deferiu o ataque final que matou o Lich Crunt King.
+- **Recompensa Rara:** O jogador ganha um item **muito valioso** essencial para a progressão final (Celestial/Arch). 
+- *Exemplos:* **Sephirot** (qualquer classe), **Pedra da Composição/Pedra Secreta** (Água, Vento, Terra, Fogo), Frango (buff PVE), ou **Ovo de Montaria Top** recém-desbloqueada.
 
 ---
 
 > [!NOTE]
-> A implementação técnica encontra-se atrelada aos scripts no `GameServer`: 
-> 1. `NPCGener.txt` (Para configurar o horário, o boss e os lacaios).
-> 2. `MobDropList.txt` (Ajustado para o alto volume de drop FFA).
-> 3. `arauto_nevoa.c` (Opcional, NPC de teleporte).
+> A implementação técnica deste evento foge do simples script estático (`NPCGener.txt`), exigindo integração nas *sources* do GameServer via linguagem C++ para:
+> 1. Sortear as coordenadas válidas do mapa.
+> 2. Disparar a rotina de detecção de área (para premiar a participação de quem está perto).
+> 3. Capturar a variável do atacante (Golpe Fatal) para enviar a recompensa de alto valor.
